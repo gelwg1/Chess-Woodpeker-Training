@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+  background: #f9f9f9;
+  text-align: center;
+  padding: 2rem;
+}
+
+#board {
+  width: 400px;
+  height: 400px;
+  margin: auto;
+  border: 2px solid #333;
+}

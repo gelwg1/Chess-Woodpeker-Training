@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Chess Tactics Trainer</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+      font-family: Arial, sans-serif;
+    }
+    #board {
+      width: 400px;
+      height: 400px;
+    }
+  </style>
+</head>
+<body>
+  <div id="board"></div>
+  <script type="module" src="src/main.js"></script>
+  <div  style="display:flex;  flex-direction: column;  gap: 10px;">
+    <button id="nextPuzzle">Next puzzle</button>
+    <button id="clearDB">Clear Database</button>
+    <button id="shuffle">Shuffle</button>
+    <button id="reset">Reset</button>
+    <h3 id="currentIndex"></h3>
+  </div>
+</body>
+</html>
