@@ -1,13 +1,158 @@
-body {
-  font-family: sans-serif;
-  background: #f9f9f9;
+.container {
+  height: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  color: #fafafa;
+  vertical-align: middle;
+  position: absolute;
+  top:10%;
+  left: 29%;
+}
+.right-block {
+  display:flex;  
+  flex-direction: column; 
+  justify-content: center; 
+  gap: 10px; 
+  margin-left: 10px;
+  height: 100%;
+  padding-bottom: 130px;
+}
+#board {
+  width: 450px;
+  height: 450px;
+  margin-bottom: 50px;
+}
+#currentIndex {
   text-align: center;
-  padding: 2rem;
+  margin-left: 5px;
+}
+.glow-green {
+  font-size: 40px;
+  color: #fff;
+  text-align: center;
+  text-shadow: 
+    0 0 10px #fff,
+    0 0 20px #4aff4a,
+    0 0 30px #2ecc71,
+    0 0 40px #27ae60;
 }
 
-#board {
-  width: 400px;
-  height: 400px;
-  margin: auto;
-  border: 2px solid #333;
+.glow-black {
+  font-size: 30px;
+  color: #000;
+  text-shadow: 
+    0 0 5px #fff,
+    0 0 10px #fff,
+    0 0 15px #fff;
+}
+
+.glow-yellow {
+  font-size: 20px;
+  color: #000;
+  text-shadow: 
+    0 0 8px #ffcc00,
+    0 0 15px #ff9500,
+    0 0 20px #ff3b00;
+  font-weight: bold;
+}
+
+.glow-white {
+  font-size: 30px;
+  color: #fff;
+  text-align: center;
+}
+
+.glow-red {
+  font-size: 40px;
+  color: #fff;
+  text-align: center;
+  text-shadow: 
+    0 0 10px #fff,
+    0 0 20px #ff4a4a,
+    0 0 30px #e74c3c,
+    0 0 40px #c0392b;
+}
+.green-button {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #2ecc71;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  font-weight: 600;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.green-button:hover {
+  background-color: #27ae60;
+}
+
+.green-button:active {
+  background-color: #219653;
+}
+
+.green-button:focus {
+  outline: none;
+}
+
+.blue-button {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.blue-button:hover {
+  background-color: #2980b9;
+}
+
+.blue-button:active {
+  background-color: #1a6ca8;
+}
+
+.delete-button {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #e74c3c;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  font-weight: 600;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+.delete-button:hover {
+  background-color: #c0392b;
+}
+
+.delete-button:active {
+  background-color: #992d22;
+}
+
+.delete-button:focus {
+  outline: none;
+}
+
+.delete-button::before {
+  content: "🗑️";
+  margin-right: 8px;
+  font-size: 14px;
 }

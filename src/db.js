@@ -65,3 +65,29 @@ export async function clearAllEntries() {
   });
   await tx.complete;
 }
+
+export async function incrementRepById(id) {
+  const db = await openDB();
+  const tx = db.transaction('entries', 'readwrite');
+  const store = tx.objectStore('entries');
+  const entry = await new Promise((resolve, reject) => {
+    const request = store.get(id);
+    request.onsuccess = () => resolve(request.result);
+    request.onerror = () => reject(request.error);
+  });
+
+  if (entry) {
+    if (typeof entry.rep !== 'number') {
+      entry.rep = 0;
+    } else {
+      entry.rep++;
+    }
+    store.put(entry);
+    await tx.complete;
+    console.log(`Rep increased of ID ${id} : ${entry.rep-1} => ${entry.rep}`)
+    return true;
+  } else {
+    await tx.complete;
+    return false; // No entry with that id
+  }
+}
