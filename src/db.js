@@ -44,13 +44,17 @@ export async function editEntryByFen(updatedData) {
   }
 }
 
-export async function getAllEntries() {
+export async function getAllEntries(taglist) {
   const db = await openDB();
   const tx = db.transaction('entries', 'readonly');
   const store = tx.objectStore('entries');
   return new Promise((resolve, reject) => {
     const request = store.getAll();
-    request.onsuccess = () => resolve(request.result);
+    request.onsuccess = () => {
+      // Filter records where tag is in taglist
+      const filtered = request.result.filter(entry => taglist.includes(entry.tag));
+      resolve(filtered);
+    };
     request.onerror = () => reject(request.error);
   });
 }

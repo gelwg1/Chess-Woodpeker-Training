@@ -12,28 +12,100 @@ const currentIndex = document.getElementById('currentIndex');
 const resetBtn = document.getElementById('reset');
 const status = document.getElementById('status');
 const updateSolution = document.getElementById('updateSolution');
+const computerMoveBtn = document.getElementById('computerMove');
 
-let initialFen = await getAllEntries();
-console.log("Stored puzzles:", JSON.stringify(initialFen));
+let initialFen = await getAllEntries(["lichess puzzle"]);
+
+// async function uploadAllToIndexedDB() {
+//   for (const fenRecord of initialFen) {
+//     const puzzleData = {
+//       fen: fenRecord.fen,
+//       solution: fenRecord.solution || [],
+//       tag: 'lichess puzzle',
+//       rep: 0
+//     };
+//     await editEntryByFen(puzzleData);
+//   }
+//   alert('All puzzles uploaded to IndexedDB!');
+// }
+// uploadAllToIndexedDB()
+
 shuffleInitialFen();
 let fenIndex = 0;
-const chess = new Chess(initialFen[fenIndex].fen);
+const chess = new Chess();
 const movesHistory = [];
 currentIndex.textContent = initialFen.length;
 
+const computerMove = () => {
+  let solution = initialFen[fenIndex].solution;
+  const computerMoveSan = solution[movesHistory.length];
+  if (computerMoveSan) {
+    const computerMove = chess.move(computerMoveSan);
+    if (computerMove) {
+      movesHistory.push(computerMove.san);
+      ground.set({
+        fen: chess.fen(),
+        turnColor: chess.turn() === "w" ? "white" : "black",
+        lastMove: [computerMove.from, computerMove.to],
+        check: chess.isCheck(),
+        movable: {
+          color: chess.turn() === "w" ? "white" : "black",
+          dests: getLegalDests(),
+        },
+      });
+    }
+  }
+};
+const ground = Chessground(boardElement);
 
-const ground = Chessground(boardElement, {
-  fen: initialFen[fenIndex].fen,
-  orientation: initialFen[fenIndex].fen.split(' ')[1] === 'w' ? 'white' : 'black',
-  turnColor: initialFen[fenIndex].fen.split(' ')[1] === 'w' ? 'white' : 'black',
-  movable: {
-    color: initialFen[fenIndex].fen.split(' ')[1] === 'w' ? 'white' : 'black',
-    free: false,
-    dests: getLegalDests(),
-    events: { after: onUserMove },
-    draggable: { showGhost: true },
-  },
-});
+let initializeBoard = () => {
+  const puzzle = initialFen[fenIndex];
+  chess.load(puzzle.fen);
+  movesHistory.length = 0;
+  if (typeof puzzle.solution === "string") puzzle.solution = puzzle.solution.split(" ");
+  const turn = puzzle.fen.split(" ")[1];
+  const isWhite = turn === "w";
+  const isLichess = puzzle.tag === "lichess puzzle";
+  const newOrien = isLichess ? (isWhite ? "black" : "white") : (isWhite ? "white" : "black");
+  ground.set({
+    fen: puzzle.fen,
+    orientation: newOrien,
+    turnColor: isWhite ? "white" : "black",
+    lastMove: [],
+    check: chess.isCheck(),
+    movable: {
+      color: isWhite ? "white" : "black",
+      free: false,
+      dests: getLegalDests(),
+      events: { after: onUserMove },
+      draggable: { showGhost: true },
+    },
+  });
+  console.log(puzzle);
+  const hasSolution = puzzle.solution?.length;
+  let turnColor = isWhite ? "white" : "black";
+  status.textContent = hasSolution 
+    ? `${(turnColor = isLichess ? (isWhite ? "black" : "white") : turnColor).charAt(0).toUpperCase() + turnColor.slice(1)} to move`
+    : "This puzzle doesn't have solution!";
+  status.className = hasSolution ? `glow-${turnColor}` : "glow-yellow";
+  if (isLichess) setTimeout(computerMove, 500);
+};
+initializeBoard();
+
+let undoMove = () => {
+  chess.undo();
+  movesHistory.pop();
+  ground.set({
+    fen: chess.fen(),
+    check: false,
+    lastMove: [], // Clear last move highlights
+    turnColor: chess.turn() === "w" ? "white" : "black",
+    movable: {
+      color: chess.turn() === "w" ? "white" : "black",
+      dests: getLegalDests(),
+    },
+  });
+};
 
 function getLegalDests() {
   const dests = new Map();
@@ -44,13 +116,6 @@ function getLegalDests() {
   }
   return dests;
 }
-
-// function shuffleInitialFen() {
-//   for (let i = initialFen.length - 1; i > 0; i--) {
-//     const j = Math.floor(Math.random() * (i + 1));
-//     [initialFen[i], initialFen[j]] = [initialFen[j], initialFen[i]];
-//   }
-// }
 
 function shuffleInitialFen() {
   // First create an array of indices with their weights
@@ -106,8 +171,6 @@ function onUserMove(orig, dest, capturedPiece) {
         promotion = 'n';
       }
     }
-
-
     const move = chess.move({
       from: orig,
       to: dest,
@@ -118,35 +181,26 @@ function onUserMove(orig, dest, capturedPiece) {
       movesHistory.push(move.san);
       ground.set({
         fen: chess.fen(),
+        check: chess.isCheck(),
         turnColor: chess.turn() === 'w' ? 'white' : 'black',
         movable: {
           color: chess.turn() === 'w' ? 'white' : 'black',
           dests: getLegalDests()
         }
       });
-      updateCheckHighlight();
-            // Get current puzzle's solution array
+      // Get current puzzle's solution array
       const solution = initialFen[fenIndex].solution || [];
       const userMoveIndex = movesHistory.length - 1;
 
+      const userMoveUci = move.from + move.to;
+
       // Check if user move matches the solution
-      if (solution[userMoveIndex] && move.san !== solution[userMoveIndex]) {
+      if (solution[userMoveIndex] && move.san !== solution[userMoveIndex] && userMoveUci!==solution[userMoveIndex] ) {
         // alert('Incorrect move! Try again.');
         status.textContent = "Incorrect";
         status.className = 'glow-red'; 
         // Optionally, undo the move
-        chess.undo();
-        movesHistory.pop();
-        ground.set({
-          fen: chess.fen(),
-          check : false,
-          lastMove: [], // Clear last move highlights
-          turnColor: chess.turn() === 'w' ? 'white' : 'black',
-          movable: {
-            color: chess.turn() === 'w' ? 'white' : 'black',
-            dests: getLegalDests()
-          }
-        });
+        undoMove();
         return;
       }
 
@@ -159,26 +213,13 @@ function onUserMove(orig, dest, capturedPiece) {
       }
 
       // Computer move (next in solution)
-      const computerMoveSan = solution[movesHistory.length];
-      if (computerMoveSan) {
-        const computerMove = chess.move(computerMoveSan);
-        if (computerMove) {
-          movesHistory.push(computerMove.san);
-          ground.set({
-            fen: chess.fen(),
-            turnColor: chess.turn() === 'w' ? 'white' : 'black',
-            movable: {
-              color: chess.turn() === 'w' ? 'white' : 'black',
-              dests: getLegalDests()
-            }
-          });
-          updateCheckHighlight();
-        }
-      }
+      computerMove();
 
       // If after computer move we reach end of solution, alert success
       if (movesHistory.length >= solution.length) {
-        alert('success');
+        // alert('success');
+        status.textContent = "Success";
+        status.className = 'glow-green'; 
         return;
       }
     } else {
@@ -192,30 +233,13 @@ function onUserMove(orig, dest, capturedPiece) {
   }
 }
 
-function updateCheckHighlight() {
-  ground.set({
-    check: chess.isCheck()
-  });
-}
-
 nextPuzzleBtn.addEventListener('click', async () => {
   if(initialFen[fenIndex].id){
     incrementRepById(initialFen[fenIndex].id)
   }
-  const puzzleData = {
-    fen: initialFen[fenIndex].fen,
-    solution: [...movesHistory],
-    tag: 'pin',
-    rep: 0
-  };
-  if(movesHistory.length && !initialFen[fenIndex].solution.length){
-    await editEntryByFen(puzzleData);
-    alert("Puzzle pushed to the DB!")
-  }
-
-  const storedPuzzles = await getAllEntries();
-  const storedFens = new Set(storedPuzzles.map(p => p.fen));
   //------This code is for when importing puzzles---------
+  // const storedPuzzles = await getAllEntries();
+  // const storedFens = new Set(storedPuzzles.map(p => p.fen));
   // do {
   //   fenIndex++;
   // } while (fenIndex < initialFen.length && storedFens.has(initialFen[fenIndex].fen));
@@ -225,30 +249,7 @@ nextPuzzleBtn.addEventListener('click', async () => {
   //---------------------------------------------------------
   if (fenIndex >= initialFen.length) alert("No more puzzle!!");
   else {
-    chess.load(initialFen[fenIndex].fen);
-    movesHistory.length = 0;
-    const turnColor = initialFen[fenIndex].fen.split(" ")[1] === "w" ? "white" : "black";
-    ground.set({
-      fen: initialFen[fenIndex].fen,
-      lastMove: [], // Clear last move highlights
-      check: false,
-      orientation: turnColor,
-      turnColor: turnColor,
-      movable: {
-        color: turnColor,
-        dests: getLegalDests(),
-        events: { after: onUserMove },
-        draggable: { showGhost: true },
-        free: false,
-      },
-    });
-    if (initialFen[fenIndex].solution && initialFen[fenIndex].solution.length) {
-      status.textContent = `${turnColor.charAt(0).toUpperCase() + turnColor.slice(1)} to move`;
-      status.className = `glow-${turnColor}`;
-    } else {
-      status.textContent = "This puzzle doesn't have solution!";
-      status.className = "glow-yellow";
-    }
+    initializeBoard();
   }
   currentIndex.textContent = initialFen.length-fenIndex;
 });
@@ -260,25 +261,8 @@ clearDbBtn.addEventListener('click', async () => {
     alert('All database entries have been cleared.');
   }
 });
-
 resetBtn.addEventListener('click', async () => {
-  chess.load(initialFen[fenIndex].fen);
-  movesHistory.length = 0;
-  const turnColor = initialFen[fenIndex].fen.split(" ")[1] === "w" ? "white" : "black";
-  ground.set({
-    fen: initialFen[fenIndex].fen,
-    lastMove: [], // Clear last move highlights
-    check: false,
-    orientation: turnColor,
-    turnColor: turnColor,
-    movable: {
-      color: turnColor,
-      dests: getLegalDests(),
-      events: { after: onUserMove },
-      draggable: { showGhost: true },
-      free: false,
-    },
-  });
+  initializeBoard();
 });
 updateSolution.addEventListener('click', async () => {
   if (movesHistory.length) {
@@ -286,9 +270,13 @@ updateSolution.addEventListener('click', async () => {
       fen: initialFen[fenIndex].fen,
       solution: [...movesHistory],
       tag: initialFen[fenIndex].tag,
-      rep: 0,
+      rep: initialFen[fenIndex].rep,
     };
     await editEntryByFen(puzzleData);
+    console.log(movesHistory)
     alert("Puzzle pushed to the DB!");
   }
+});
+computerMoveBtn.addEventListener('click', async () => {
+  computerMove();
 });
