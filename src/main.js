@@ -3,7 +3,7 @@ import '@lichess-org/chessground/assets/chessground.brown.css';
 import '@lichess-org/chessground/assets/chessground.cburnett.css';
 import { Chessground } from '@lichess-org/chessground';
 import { Chess } from 'chess.js';
-import { addEntry, getAllEntries, editEntryByFen, clearAllEntries, incrementRepById } from './db'; 
+import { getAllEntries, editEntryByFen, clearAllEntries, incrementRepById } from './db'; 
 import { computerMove, initializeBoard, shuffle, uploadPuzzlesToDB } from './library';
 
 const boardElement = document.getElementById('board');

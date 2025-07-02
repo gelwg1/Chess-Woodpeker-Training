@@ -46,7 +46,11 @@ export const initializeBoard = (tactic, chess, ground, movesHistory, status) => 
   chess.load(puzzle.fen);
   movesHistory.length = 0;
   if (typeof puzzle.solution === "string") puzzle.solution = puzzle.solution.split(" ");
-  if (Array.isArray(puzzle.solution)) puzzle.solution = puzzle.solution.filter(s => s && s.trim() !== "");
+  if (Array.isArray(puzzle.solution)) {
+    puzzle.solution = puzzle.solution
+      .map(s => typeof s === "string" ? s.trim() : s)
+      .filter(s => s && s !== "");
+  }
   const turn = puzzle.fen.split(" ")[1];
   const isWhite = turn === "w";
   const isComputerMove = puzzle.tag.includes("lichess") || puzzle.tag.includes("chesstempo");
