@@ -52,8 +52,12 @@ export async function getAllEntries(taglist) {
     const request = store.getAll();
     request.onsuccess = () => {
       // Filter records where tag is in taglist
-      const filtered = request.result.filter(entry => taglist.includes(entry.tag));
-      resolve(filtered);
+      if(!taglist) {
+        resolve(request.result);
+      } else {
+        const filtered = request.result.filter(entry => taglist.includes(entry.tag));
+        resolve(filtered);
+      }
     };
     request.onerror = () => reject(request.error);
   });
