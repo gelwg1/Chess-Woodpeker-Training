@@ -4,7 +4,7 @@ import '@lichess-org/chessground/assets/chessground.cburnett.css';
 import { Chessground } from '@lichess-org/chessground';
 import { Chess } from 'chess.js';
 import { addEntry, getAllEntries, editEntryByFen, clearAllEntries, incrementRepById } from './db'; 
-import { initializeBoard, shuffle, uploadPuzzlesToDB } from './library';
+import { computerMove, initializeBoard, shuffle, uploadPuzzlesToDB } from './library';
 
 const boardElement = document.getElementById('board');
 const nextPuzzleBtn = document.getElementById('nextPuzzle');
@@ -15,7 +15,7 @@ const status = document.getElementById('status');
 const updateSolution = document.getElementById('updateSolution');
 const computerMoveBtn = document.getElementById('computerMove');
 
-let tactics = await getAllEntries(["lichess puzzle"]);
+let tactics = await getAllEntries(["chesstempo"]);
 let newPuzzles = [];
 let fenIndex = 0;
 const chess = new Chess();

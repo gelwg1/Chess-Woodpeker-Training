@@ -6,7 +6,7 @@ export async function uploadPuzzlesToDB(newPuzzles) {
       const puzzleData = {
         fen: puzzle.fen,
         solution: puzzle.solution || [],
-        tag: "lichess puzzle",
+        tag: "chesstempo",
         rep: 0,
       };
       await editEntryByFen(puzzleData);
@@ -46,10 +46,11 @@ export const initializeBoard = (tactic, chess, ground, movesHistory, status) => 
   chess.load(puzzle.fen);
   movesHistory.length = 0;
   if (typeof puzzle.solution === "string") puzzle.solution = puzzle.solution.split(" ");
+  if (Array.isArray(puzzle.solution)) puzzle.solution = puzzle.solution.filter(s => s && s.trim() !== "");
   const turn = puzzle.fen.split(" ")[1];
   const isWhite = turn === "w";
-  const isLichess = puzzle.tag === "lichess puzzle";
-  const newOrien = isLichess ? (isWhite ? "black" : "white") : (isWhite ? "white" : "black");
+  const isComputerMove = puzzle.tag.includes("lichess") || puzzle.tag.includes("chesstempo");
+  const newOrien = isComputerMove ? (isWhite ? "black" : "white") : (isWhite ? "white" : "black");
   ground.set({
     fen: puzzle.fen,
     orientation: newOrien,
@@ -71,10 +72,10 @@ export const initializeBoard = (tactic, chess, ground, movesHistory, status) => 
   const hasSolution = puzzle.solution?.length;
   let turnColor = isWhite ? "white" : "black";
   status.textContent = hasSolution 
-    ? `${(turnColor = isLichess ? (isWhite ? "black" : "white") : turnColor).charAt(0).toUpperCase() + turnColor.slice(1)} to move`
+    ? `${(turnColor = isComputerMove ? (isWhite ? "black" : "white") : turnColor).charAt(0).toUpperCase() + turnColor.slice(1)} to move`
     : "This puzzle doesn't have solution!";
   status.className = hasSolution ? `glow-${turnColor}` : "glow-yellow";
-  if (isLichess) setTimeout(()=>computerMove(tactic, chess, ground, movesHistory), 500);
+  if (isComputerMove) setTimeout(()=>computerMove(tactic, chess, ground, movesHistory), 500);
 };
 
 function getLegalDests(chess) {
@@ -123,6 +124,7 @@ function onUserMove(orig, dest, capturedPiece, chess, ground, status, movesHisto
       });
       // Get current puzzle's solution array
       const solution = tactic.solution || [];
+
       const userMoveIndex = movesHistory.length - 1;
 
       const userMoveUci = move.from + move.to;
@@ -181,7 +183,7 @@ let undoMove = (chess, ground, movesHistory) => {
   });
 };
 
-const computerMove = (tactic, chess, ground, movesHistory) => {
+export const computerMove = (tactic, chess, ground, movesHistory) => {
   let solution = tactic.solution;
   const moveSan = solution[movesHistory.length];
   if (moveSan) {
