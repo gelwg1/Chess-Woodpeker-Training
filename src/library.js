@@ -1,20 +1,3 @@
-import { editEntryByFen } from "./db";
-
-export async function uploadPuzzlesToDB(newPuzzles) {
-  if (newPuzzles.length) {
-    for (const puzzle of newPuzzles) {
-      const puzzleData = {
-        fen: puzzle.fen,
-        solution: puzzle.solution || [],
-        tag: "chesstempo",
-        rep: 0,
-      };
-      await editEntryByFen(puzzleData);
-    }
-    alert("All puzzles uploaded to IndexedDB!");
-  }
-}
-
 export function shuffle(puzzles) {
   const weights = puzzles.map((item, index) => ({
     index,
@@ -54,10 +37,10 @@ export const initializeBoard = (tactic, chess, ground, movesHistory, status) => 
   const turn = puzzle.fen.split(" ")[1];
   const isWhite = turn === "w";
   const isComputerMove = puzzle.tag.includes("lichess") || puzzle.tag.includes("chesstempo");
-  const newOrien = isComputerMove ? (isWhite ? "black" : "white") : (isWhite ? "white" : "black");
+  const playerOrien = isComputerMove ? (isWhite ? "black" : "white") : (isWhite ? "white" : "black");
   ground.set({
     fen: puzzle.fen,
-    orientation: newOrien,
+    orientation: playerOrien,
     turnColor: isWhite ? "white" : "black",
     lastMove: [],
     check: chess.isCheck(),
@@ -132,22 +115,25 @@ function onUserMove(orig, dest, capturedPiece, chess, ground, status, movesHisto
       const userMoveIndex = movesHistory.length - 1;
 
       const userMoveUci = move.from + move.to;
+      // A checkmate can't be wrong.
+      if(chess.isCheckmate()){
+        status.textContent = "Success";
+        status.className = 'glow-green'; 
+        return;
+      }
 
       // Check if user move matches the solution
       if (solution[userMoveIndex] && move.san !== solution[userMoveIndex] && userMoveUci+promotion!==solution[userMoveIndex] ) {
-        // alert('Incorrect move! Try again.');
         status.textContent = "Incorrect";
         status.className = 'glow-red';
-        // Optionally, undo the move
         undoMove(chess, ground, movesHistory);
         return;
       }
 
       // If user or computer reaches end of solution, alert success
-      if (movesHistory.length >= solution.length) {
+      if (movesHistory.length >= solution.length && solution.length) {
         status.textContent = "Success";
         status.className = 'glow-green'; 
-        // alert('success');
         return;
       }
 
@@ -155,8 +141,7 @@ function onUserMove(orig, dest, capturedPiece, chess, ground, status, movesHisto
       computerMove(tactic, chess, ground, movesHistory);
 
       // If after computer move we reach end of solution, alert success
-      if (movesHistory.length >= solution.length) {
-        // alert('success');
+      if (movesHistory.length >= solution.length && solution.length) {
         status.textContent = "Success";
         status.className = 'glow-green'; 
         return;
@@ -172,7 +157,8 @@ function onUserMove(orig, dest, capturedPiece, chess, ground, status, movesHisto
   }
 }
 
-let undoMove = (chess, ground, movesHistory) => {
+export let undoMove = (chess, ground, movesHistory) => {
+  if(movesHistory.length < 1) return;
   chess.undo();
   movesHistory.pop();
   ground.set({
