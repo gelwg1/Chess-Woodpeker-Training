@@ -193,3 +193,15 @@ export const computerMove = (tactic, chess, ground, movesHistory) => {
     }
   }
 };
+
+export const getAllTags = (tactics) => {
+  const tagCount = tactics.reduce((count, tactic) => {
+    count[tactic.tag] = (count[tactic.tag] || 0) + 1;
+    return count;
+  }, {});
+  const result = Object.entries(tagCount).map(([tag, count]) => ({
+    tag: tag,
+    count
+  }));
+  return result
+};

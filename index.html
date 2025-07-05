@@ -8,6 +8,10 @@
 <body style="background-color: #313131;">
   <div class="container">
     <div class="left-block">
+      <div class="checkbox-list" id="checkboxContainer"></div>
+      <button id="shuffle" class="shuffle-btn"> 🔀 Shuffle</button>
+    </div>
+    <div class="middle-block">
       <div id="board"></div>
       <div class="move-controls">
         <button id="moveBack" class="move-btn prev-btn" aria-label="Previous move">
@@ -27,13 +31,12 @@
     <div class="right-block">
       <div id="status" class="glow-green" style="margin-bottom: 40px; height: 48px;"></div>
       <button id="nextPuzzle" class="green-button">Next puzzle</button>
-      <button id="clearDB" class="delete-button">Clear Database</button>
       <button id="updateSolution" class="blue-button">Update solution</button>
-      <button id="shuffle">Shuffle</button>
       <button id="reset">Reset</button>
       <div style="display: flex; justify-content: space-evenly;">
-        <h3> Puzzles left: </h3><h3 id="currentIndex"></h3>
-          </div>
+        <h3> Puzzles left: </h3>
+        <h3 id="currentIndex"></h3>
+      </div>
     </div>
   </div>
   <script type="module" src="src/main.js"></script>
