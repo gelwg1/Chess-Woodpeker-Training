@@ -22,7 +22,7 @@ export async function uploadPuzzlesToDB(newPuzzles) {
       await editEntryByFen({
         fen: puzzle.fen,
         solution: puzzle.solution || [],
-        tag: "Polgar 2",
+        tag: "Polgar 3",
         rep: 0,
       });
     }

@@ -3,7 +3,7 @@ import '@lichess-org/chessground/assets/chessground.brown.css';
 import '@lichess-org/chessground/assets/chessground.cburnett.css';
 import { Chessground } from '@lichess-org/chessground';
 import { Chess } from 'chess.js';
-import { getAllEntries, editEntryByFen, clearAllEntries, incrementRepById, uploadPuzzlesToDB } from './db'; 
+import { editEntryByFen, getAllEntries, incrementRepById, uploadPuzzlesToDB } from './db'; 
 import { computerMove, getAllTags, initializeBoard, shuffle, undoMove } from './library';
 import { createCheckboxList, getCheckedTags } from './userInterface';
 
@@ -13,7 +13,9 @@ const nextPuzzleBtn = document.getElementById('nextPuzzle');
 const currentIndex = document.getElementById('currentIndex');
 const resetBtn = document.getElementById('reset');
 const status = document.getElementById('status');
-const updateSolution = document.getElementById('updateSolution');
+const enterUpdateModeBtn = document.getElementById('enterUpdateMode');
+const updateSolutionBtn = document.getElementById('updateSolution');
+const cancelUpdateBtn = document.getElementById('cancelUpdate');
 const computerMoveBtn = document.getElementById('computerMove');
 const moveBackBtn = document.getElementById('moveBack');
 const moveForwardBtn = document.getElementById('moveForward');
@@ -21,20 +23,21 @@ const checkboxContainer = document.getElementById('checkboxContainer');
 const shuffleBtn = document.getElementById('shuffle');
 
 let tactics = await getAllEntries();
-let newPuzzles = [];
+let newPuzzles = []
 let fenIndex = 0;
 let tags = getAllTags(tactics);
-let isUpdatingSolution = false;
+const state = {
+  isUpdatingSolution : false
+} 
 const chess = new Chess();
 const movesHistory = [];
 const ground = Chessground(boardElement);
-//TODO: Create update solution mode
-//TODO: Make a list of tags for user to choose, on the right side of the board.
+//TODO: Create a button for remove the problem from db.
 
 currentIndex.textContent = tactics.length;
 uploadPuzzlesToDB(newPuzzles);
 shuffle(tactics);
-initializeBoard(tactics[fenIndex], chess, ground, movesHistory, status);
+initializeBoard(tactics[fenIndex], chess, ground, movesHistory, status, state);
 createCheckboxList(checkboxContainer, tags);
 
 nextPuzzleBtn.addEventListener('click', async () => {
@@ -53,21 +56,23 @@ nextPuzzleBtn.addEventListener('click', async () => {
   //---------------------------------------------------------
   if (fenIndex >= tactics.length) alert("No more puzzle!!");
   else {
-    initializeBoard(tactics[fenIndex], chess, ground, movesHistory, status);
+    initializeBoard(tactics[fenIndex], chess, ground, movesHistory, status, state);
   }
   currentIndex.textContent = tactics.length-fenIndex;
 });
-// clearDbBtn.addEventListener('click', async () => {
-//   const confirmed = window.confirm('Are you sure you want to clear all data?');
-//   if (confirmed) {
-//     await clearAllEntries();
-//     alert('All database entries have been cleared.');
-//   }
-// });
 resetBtn.addEventListener('click', async () => {
-  initializeBoard(tactics[fenIndex], chess, ground, movesHistory, status);
+  initializeBoard(tactics[fenIndex], chess, ground, movesHistory, status, state);
 });
-updateSolution.addEventListener('click', async () => {
+enterUpdateModeBtn.addEventListener('click', async () => {
+  boardElement.classList.add("glow-blue-board")
+  status.textContent = "Updating...";
+  status.className = "glow-blue"; 
+  state.isUpdatingSolution = true;
+  enterUpdateModeBtn.style.display = 'none';
+  let updateButtonGroup = document.getElementById("updateButtonGroup");
+  updateButtonGroup.style.display = 'inline-block';
+});
+updateSolutionBtn.addEventListener('click', async () => {
   if (movesHistory.length) {
     const puzzleData = {
       fen: tactics[fenIndex].fen,
@@ -77,9 +82,22 @@ updateSolution.addEventListener('click', async () => {
     };
     await editEntryByFen(puzzleData);
     status.textContent = "Solution updated!";
-    status.className = "glow-blue"; 
-    console.log(movesHistory);
+    status.className = "glow-blue";
   }
+  boardElement.classList.remove("glow-blue-board")
+  state.isUpdatingSolution = false;
+  enterUpdateModeBtn.style.display = 'inline-block';
+  let updateButtonGroup = document.getElementById("updateButtonGroup");
+  updateButtonGroup.style.display = 'none';
+  tactics[fenIndex].solution = [...movesHistory];
+});
+cancelUpdate.addEventListener('click', async () => {
+  boardElement.classList.remove("glow-blue-board")
+  state.isUpdatingSolution = false;
+  enterUpdateModeBtn.style.display = 'inline-block';
+  let updateButtonGroup = document.getElementById("updateButtonGroup");
+  updateButtonGroup.style.display = 'none';
+  
 });
 moveBackBtn.addEventListener('click', async () => {
   undoMove(chess, ground, movesHistory);
@@ -89,9 +107,9 @@ moveForwardBtn.addEventListener('click', async () => {
 });
 shuffleBtn.addEventListener('click', async () => {
   let checkedTags = getCheckedTags();
-  console.log(checkedTags)
   tactics = await getAllEntries(checkedTags);
   currentIndex.textContent = tactics.length;
   shuffle(tactics);
-  initializeBoard(tactics[fenIndex], chess, ground, movesHistory, status);
+  fenIndex = 0;
+  initializeBoard(tactics[fenIndex], chess, ground, movesHistory, status, state);
 });

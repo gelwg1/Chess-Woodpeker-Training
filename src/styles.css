@@ -143,11 +143,22 @@
   outline: none;
 }
 
+.white-button {
+  display: inline-block;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
 .blue-button {
   display: inline-block;
   padding: 12px 24px;
   background-color: #3498db;
-  color: white;
+  color: #fafafa;
   border: none;
   border-radius: 6px;
   font-size: 16px;
@@ -164,17 +175,6 @@
   background-color: #1a6ca8;
 }
 
-.glow-blue {
-  font-size: 30px;
-  color: #fff;
-  text-align: center;
-  text-shadow: 
-    0 0 10px #fff,
-    0 0 20px #4aa4ff,  /* Bright blue glow */
-    0 0 30px #3498db,  /* Medium blue glow */
-    0 0 40px #1a5fc9;  /* Deep blue glow */
-  animation: pulse-blue 1.5s infinite alternate;  /* Optional pulsing effect */
-}
 @keyframes pulse-blue-text {
   from {
     text-shadow: 
@@ -201,7 +201,6 @@
     0 0 20px #4aa4ff,
     0 0 30px #3498db,
     0 0 40px #1a5fc9;
-  animation: pulse-blue-text 1.5s infinite alternate;
 }
 
 .delete-button {

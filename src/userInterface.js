@@ -6,7 +6,7 @@ export function createCheckboxList(checkboxContainer, tags) {
         checkboxItem.className = 'checkbox-item';
         
         checkboxItem.innerHTML = `
-            <input type="checkbox" id="item-${index}" value="${tag.tag}">
+            <input type="checkbox" id="item-${index}" value="${tag.tag}" checked>
             <span class="checkbox-label">${tag.tag}</span>
         `;
         
