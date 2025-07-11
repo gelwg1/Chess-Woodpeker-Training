@@ -33,6 +33,8 @@ const chess = new Chess();
 const movesHistory = [];
 const ground = Chessground(boardElement);
 //TODO: Create a button for remove the problem from db.
+//TODO: Add "Add solution" button (and hide Update button) if the problem doesn't have solution
+//TODO: Add a "Previous" button to go back to previous puzzle.
 
 currentIndex.textContent = tactics.length;
 uploadPuzzlesToDB(newPuzzles);
