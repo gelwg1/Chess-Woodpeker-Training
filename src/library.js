@@ -1,47 +1,26 @@
-import { editEntryByFen } from "./db";
-
-export async function uploadPuzzlesToDB(newPuzzles) {
-  if (newPuzzles.length) {
-    for (const puzzle of newPuzzles) {
-      const puzzleData = {
-        fen: puzzle.fen,
-        solution: puzzle.solution || [],
-        tag: "chesstempo",
-        rep: 0,
-      };
-      await editEntryByFen(puzzleData);
-    }
-    alert("All puzzles uploaded to IndexedDB!");
-  }
-}
-
-export function shuffle(puzzles) {
-  const weights = puzzles.map((item, index) => ({
-    index,
-    weight: 1 / (item.rep + 1) // +1 to avoid division by zero
-  }));
-  weights.sort((a, b) => b.weight - a.weight);
-
+export function shuffle(puzzles, alpha = 3) {
   const shuffled = [];
-  const tempArray = [...puzzles];
-  
-  while (tempArray.length > 0) {
-    const totalWeight = tempArray.reduce((sum, item) => sum + (1 / (item.rep + 1)), 0);
-    let random = Math.random() * totalWeight;
-    let selectedIndex = 0;
-    let weightSum = 1 / (tempArray[0].rep + 1);
-    while (random > weightSum && selectedIndex < tempArray.length - 1) {
-      selectedIndex++;
-      weightSum += 1 / (tempArray[selectedIndex].rep + 1);
+  const temp = [...puzzles]; // Copy to preserve original
+  while (temp.length > 0) {
+    const totalWeight = temp.reduce(
+      (sum, item) => sum + 1 / Math.pow(item.rep + 1, alpha),
+      0
+    );
+    let r = Math.random() * totalWeight;
+    let index = 0;
+    while (r >= 0 && index < temp.length) {
+      r -= 1 / Math.pow(temp[index].rep + 1, alpha);
+      if (r < 0) break;
+      index++;
     }
-    shuffled.push(tempArray[selectedIndex]);
-    tempArray.splice(selectedIndex, 1);
+    shuffled.push(temp[index]);
+    temp.splice(index, 1);
   }
   puzzles.length = 0;
   puzzles.push(...shuffled);
 }
 
-export const initializeBoard = (tactic, chess, ground, movesHistory, status) => {
+export const initializeBoard = (tactic, chess, ground, movesHistory, status, state) => {
   const puzzle = tactic;
   chess.load(puzzle.fen);
   movesHistory.length = 0;
@@ -54,10 +33,10 @@ export const initializeBoard = (tactic, chess, ground, movesHistory, status) => 
   const turn = puzzle.fen.split(" ")[1];
   const isWhite = turn === "w";
   const isComputerMove = puzzle.tag.includes("lichess") || puzzle.tag.includes("chesstempo");
-  const newOrien = isComputerMove ? (isWhite ? "black" : "white") : (isWhite ? "white" : "black");
+  const playerOrien = isComputerMove ? (isWhite ? "black" : "white") : (isWhite ? "white" : "black");
   ground.set({
     fen: puzzle.fen,
-    orientation: newOrien,
+    orientation: playerOrien,
     turnColor: isWhite ? "white" : "black",
     lastMove: [],
     check: chess.isCheck(),
@@ -67,7 +46,7 @@ export const initializeBoard = (tactic, chess, ground, movesHistory, status) => 
       dests: getLegalDests(chess),
       events: {
         after: (orig, dest, capturedPiece) =>
-          onUserMove(orig, dest, capturedPiece, chess, ground, status, movesHistory, tactic),
+          onUserMove(orig, dest, capturedPiece, chess, ground, status, movesHistory, tactic, state),
       },
       draggable: { showGhost: true },
     },
@@ -93,7 +72,7 @@ function getLegalDests(chess) {
   return dests;
 }
 
-function onUserMove(orig, dest, capturedPiece, chess, ground, status, movesHistory, tactic) {
+function onUserMove(orig, dest, capturedPiece, chess, ground, status, movesHistory, tactic, state) {
   try {
     const isPromotion = chess.get(orig)?.type === 'p' && (
       (chess.turn() === 'w' && dest[1] === '8') ||
@@ -132,31 +111,40 @@ function onUserMove(orig, dest, capturedPiece, chess, ground, status, movesHisto
       const userMoveIndex = movesHistory.length - 1;
 
       const userMoveUci = move.from + move.to;
+      // A checkmate can't be wrong.
+      if(chess.isCheckmate()){
+        status.textContent = "Success";
+        status.className = 'glow-green'; 
+        return;
+      }
 
       // Check if user move matches the solution
-      if (solution[userMoveIndex] && move.san !== solution[userMoveIndex] && userMoveUci+promotion!==solution[userMoveIndex] ) {
-        // alert('Incorrect move! Try again.');
+      if (
+        solution[userMoveIndex] &&
+        move.san !== solution[userMoveIndex] &&
+        userMoveUci + promotion !== solution[userMoveIndex] &&
+        state.isUpdatingSolution === false
+      ) {
         status.textContent = "Incorrect";
-        status.className = 'glow-red';
-        // Optionally, undo the move
+        status.className = "glow-red";
         undoMove(chess, ground, movesHistory);
         return;
       }
 
       // If user or computer reaches end of solution, alert success
-      if (movesHistory.length >= solution.length) {
+      if (movesHistory.length >= solution.length && solution.length) {
         status.textContent = "Success";
         status.className = 'glow-green'; 
-        // alert('success');
         return;
       }
 
       // Computer move (next in solution)
-      computerMove(tactic, chess, ground, movesHistory);
+      if(state.isUpdatingSolution === false){
+        computerMove(tactic, chess, ground, movesHistory);
+      }
 
       // If after computer move we reach end of solution, alert success
-      if (movesHistory.length >= solution.length) {
-        // alert('success');
+      if (movesHistory.length >= solution.length && solution.length) {
         status.textContent = "Success";
         status.className = 'glow-green'; 
         return;
@@ -172,7 +160,8 @@ function onUserMove(orig, dest, capturedPiece, chess, ground, status, movesHisto
   }
 }
 
-let undoMove = (chess, ground, movesHistory) => {
+export let undoMove = (chess, ground, movesHistory) => {
+  if(movesHistory.length < 1) return;
   chess.undo();
   movesHistory.pop();
   ground.set({
@@ -206,4 +195,16 @@ export const computerMove = (tactic, chess, ground, movesHistory) => {
       });
     }
   }
+};
+
+export const getAllTags = (tactics) => {
+  const tagCount = tactics.reduce((count, tactic) => {
+    count[tactic.tag] = (count[tactic.tag] || 0) + 1;
+    return count;
+  }, {});
+  const result = Object.entries(tagCount).map(([tag, count]) => ({
+    tag: tag,
+    count
+  }));
+  return result
 };

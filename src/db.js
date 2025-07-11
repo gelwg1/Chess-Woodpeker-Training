@@ -10,6 +10,26 @@ export function openDB() {
   });
 }
 
+export async function uploadPuzzlesToDB(newPuzzles) {
+  if (newPuzzles.length) {
+    for (let puzzle of newPuzzles) {
+      if (typeof puzzle === "string") {
+        puzzle = {
+          fen: puzzle,
+          solution: []
+        };
+      }
+      await editEntryByFen({
+        fen: puzzle.fen,
+        solution: puzzle.solution || [],
+        tag: "chesstempo 2",
+        rep: 0,
+      });
+    }
+    alert("All puzzles uploaded to IndexedDB!");
+  }
+}
+
 export async function addEntry(data) {
   const db = await openDB();
   const tx = db.transaction('entries', 'readwrite');
@@ -35,11 +55,13 @@ export async function editEntryByFen(updatedData) {
     updatedData.id = entry.id;
     store.put(updatedData);
     await tx.complete;
+    console.log("Updated!");
     return true;
   } else {
     // No matching fen, add as new entry
     store.add(updatedData);
     await tx.complete;
+    console.log("Added new!");
     return false;
   }
 }

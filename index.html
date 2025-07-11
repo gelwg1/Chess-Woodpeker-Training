@@ -7,17 +7,39 @@
 </head>
 <body style="background-color: #313131;">
   <div class="container">
-    <div id="board"></div>
+    <div class="left-block">
+      <div class="checkbox-list" id="checkboxContainer"></div>
+      <button id="shuffle" class="shuffle-btn"> 🔀 Shuffle</button>
+    </div>
+    <div class="middle-block">
+      <div id="board"></div>
+      <div class="move-controls">
+        <button id="moveBack" class="move-btn prev-btn" aria-label="Previous move">
+          <svg viewBox="0 0 24 24" width="16" height="16">
+            <path d="M15.41 16.59L10.83 12l4.58-4.59L14 6l-6 6 6 6 1.41-1.41z" fill="#d3d3d3" />
+          </svg>
+        </button>
+    
+        <button id="moveForward" class="move-btn next-btn" aria-label="Next move">
+          <svg viewBox="0 0 24 24" width="16" height="16">
+            <path d="M8.59 16.59L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.41z" fill="#d3d3d3" />
+          </svg>
+        </button>
+      </div>
+    </div>
+
     <div class="right-block">
       <div id="status" class="glow-green" style="margin-bottom: 40px; height: 48px;"></div>
       <button id="nextPuzzle" class="green-button">Next puzzle</button>
-      <button id="clearDB" class="delete-button">Clear Database</button>
-      <button id="updateSolution" class="blue-button">Update solution</button>
-      <button id="shuffle">Shuffle</button>
-      <button id="computerMove">Computer move</button>
+      <button id="enterUpdateMode" class="blue-button">Update solution</button>
+      <div id="updateButtonGroup" style="display: none;">
+        <button id="updateSolution" class="blue-button">Update</button>
+        <button id="cancelUpdate" class="white-button" style="float: right;">Cancel</button>
+      </div>
       <button id="reset">Reset</button>
       <div style="display: flex; justify-content: space-evenly;">
-        <h3> Puzzles left: </h3><h3 id="currentIndex"></h3>
+        <h3> Puzzles left: </h3>
+        <h3 id="currentIndex"></h3>
       </div>
     </div>
   </div>
