@@ -20,7 +20,7 @@
       "Rxb7"
     ],
     "tag": "Polgar 1",
-    "rep": 1,
+    "rep": 5,
     "id": 10
   },
   {
@@ -35,7 +35,7 @@
       "Bxa7"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 11
   },
   {
@@ -48,7 +48,7 @@
       "Nxe2"
     ],
     "tag": "Polgar 1",
-    "rep": 3,
+    "rep": 5,
     "id": 12
   },
   {
@@ -61,7 +61,7 @@
       "Nxf6"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 13
   },
   {
@@ -74,7 +74,7 @@
       "Qxe4"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 14
   },
   {
@@ -87,7 +87,7 @@
       "dxc7+"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 15
   },
   {
@@ -100,7 +100,7 @@
       "Bxa3"
     ],
     "tag": "Polgar 1",
-    "rep": 3,
+    "rep": 5,
     "id": 16
   },
   {
@@ -111,7 +111,7 @@
       "Nf6+"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 17
   },
   {
@@ -141,7 +141,7 @@
       "Nxd8"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 19
   },
   {
@@ -152,7 +152,7 @@
       "Qa5"
     ],
     "tag": "Polgar 1",
-    "rep": 1,
+    "rep": 4,
     "id": 20
   },
   {
@@ -165,7 +165,7 @@
       "bxc8=N+"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 21
   },
   {
@@ -178,7 +178,7 @@
       "Qxe5"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 22
   },
   {
@@ -191,7 +191,7 @@
       "Nxe5"
     ],
     "tag": "Polgar 1",
-    "rep": 3,
+    "rep": 5,
     "id": 23
   },
   {
@@ -206,7 +206,7 @@
       "Nxc4"
     ],
     "tag": "Polgar 1",
-    "rep": 3,
+    "rep": 4,
     "id": 24
   },
   {
@@ -219,7 +219,7 @@
       "Nxf6"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 25
   },
   {
@@ -232,7 +232,7 @@
       "Nc7+"
     ],
     "tag": "Polgar 1",
-    "rep": 3,
+    "rep": 5,
     "id": 26
   },
   {
@@ -245,7 +245,7 @@
       "Qxc2"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 27
   },
   {
@@ -258,7 +258,7 @@
       "Re3+"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 28
   },
   {
@@ -273,7 +273,7 @@
       "Nxg5"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 29
   },
   {
@@ -286,7 +286,7 @@
       "Qxb8"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 6,
     "id": 30
   },
   {
@@ -301,7 +301,7 @@
       "Nxe3"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 31
   },
   {
@@ -316,7 +316,7 @@
       "Nxb7"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 6,
     "id": 32
   },
   {
@@ -329,7 +329,7 @@
       "Qxa8"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 33
   },
   {
@@ -342,7 +342,7 @@
       "Nxd8"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 34
   },
   {
@@ -355,7 +355,7 @@
       "Nxc3"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 35
   },
   {
@@ -370,7 +370,7 @@
       "Nxf4"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 36
   },
   {
@@ -383,7 +383,7 @@
       "Qxc5"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 37
   },
   {
@@ -396,7 +396,7 @@
       "Qxh4"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 38
   },
   {
@@ -409,7 +409,7 @@
       "Qxa6"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 39
   },
   {
@@ -422,7 +422,7 @@
       "g7+"
     ],
     "tag": "Polgar 1",
-    "rep": 1,
+    "rep": 4,
     "id": 40
   },
   {
@@ -435,7 +435,7 @@
       "Nxd6"
     ],
     "tag": "Polgar 1",
-    "rep": 1,
+    "rep": 4,
     "id": 41
   },
   {
@@ -448,7 +448,7 @@
       "Nxd6"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 3,
     "id": 42
   },
   {
@@ -461,7 +461,7 @@
       "Qxc1"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 3,
     "id": 43
   },
   {
@@ -474,7 +474,7 @@
       "Nxa8"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 44
   },
   {
@@ -487,7 +487,7 @@
       "Nxc5"
     ],
     "tag": "Polgar 1",
-    "rep": 3,
+    "rep": 6,
     "id": 45
   },
   {
@@ -500,7 +500,7 @@
       "Nxg5"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 46
   },
   {
@@ -513,7 +513,7 @@
       "bxc7"
     ],
     "tag": "Polgar 1",
-    "rep": 1,
+    "rep": 4,
     "id": 47
   },
   {
@@ -528,7 +528,7 @@
       "Nxf3"
     ],
     "tag": "Polgar 1",
-    "rep": 3,
+    "rep": 4,
     "id": 48
   },
   {
@@ -541,7 +541,7 @@
       "Rxe7"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 3,
     "id": 49
   },
   {
@@ -552,7 +552,7 @@
       "Qxd6"
     ],
     "tag": "Polgar 1",
-    "rep": 3,
+    "rep": 4,
     "id": 50
   },
   {
@@ -565,7 +565,7 @@
       "Qxe8"
     ],
     "tag": "Polgar 1",
-    "rep": 3,
+    "rep": 5,
     "id": 51
   },
   {
@@ -578,7 +578,7 @@
       "Nxd5"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 52
   },
   {
@@ -591,7 +591,7 @@
       "Nxf5"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 53
   },
   {
@@ -606,7 +606,7 @@
       "Nxe5"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 54
   },
   {
@@ -632,7 +632,7 @@
       "Qxc8"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 56
   },
   {
@@ -645,7 +645,7 @@
       "Qxd8"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 57
   },
   {
@@ -658,7 +658,7 @@
       "Qxf8#"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 58
   },
   {
@@ -671,7 +671,7 @@
       "Qxa8"
     ],
     "tag": "Polgar 1",
-    "rep": 3,
+    "rep": 6,
     "id": 59
   },
   {
@@ -686,7 +686,7 @@
       "Qxb6"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 60
   },
   {
@@ -697,7 +697,7 @@
       "d5"
     ],
     "tag": "Polgar 1",
-    "rep": 3,
+    "rep": 4,
     "id": 61
   },
   {
@@ -710,7 +710,7 @@
       "Qxa8"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 62
   },
   {
@@ -721,7 +721,7 @@
       "Qxc6+"
     ],
     "tag": "Polgar 1",
-    "rep": 3,
+    "rep": 5,
     "id": 63
   },
   {
@@ -732,7 +732,7 @@
       "Rxd8+"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 64
   },
   {
@@ -743,7 +743,7 @@
       "Qxg7"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 65
   },
   {
@@ -752,7 +752,7 @@
       "Bxf5"
     ],
     "tag": "Polgar 1",
-    "rep": 1,
+    "rep": 5,
     "id": 66
   },
   {
@@ -765,7 +765,7 @@
       "Qh1#"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 67
   },
   {
@@ -776,7 +776,7 @@
       "Qxg7#"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 68
   },
   {
@@ -787,7 +787,7 @@
       "Rxf7"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 69
   },
   {
@@ -798,7 +798,7 @@
       "Rxc8+"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 70
   },
   {
@@ -809,7 +809,7 @@
       "Qxe7"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 71
   },
   {
@@ -822,7 +822,7 @@
       "Rxb8#"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 72
   },
   {
@@ -833,7 +833,7 @@
       "Bg6#"
     ],
     "tag": "Polgar 1",
-    "rep": 1,
+    "rep": 5,
     "id": 73
   },
   {
@@ -844,7 +844,7 @@
       "Bb5#"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 74
   },
   {
@@ -855,7 +855,7 @@
       "Nxe7+"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 75
   },
   {
@@ -866,7 +866,7 @@
       "Bd5"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 76
   },
   {
@@ -877,7 +877,7 @@
       "Qxf1#"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 77
   },
   {
@@ -888,7 +888,7 @@
       "Rxf7#"
     ],
     "tag": "Polgar 1",
-    "rep": 3,
+    "rep": 5,
     "id": 78
   },
   {
@@ -901,7 +901,7 @@
       "Qxa8+"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 3,
     "id": 79
   },
   {
@@ -914,7 +914,7 @@
       "Qxe6+"
     ],
     "tag": "Polgar 1",
-    "rep": 1,
+    "rep": 4,
     "id": 80
   },
   {
@@ -925,7 +925,7 @@
       "Rxd5"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 81
   },
   {
@@ -936,7 +936,7 @@
       "Bxe5"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 82
   },
   {
@@ -947,7 +947,7 @@
       "Qxd5"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 83
   },
   {
@@ -958,7 +958,7 @@
       "Qxd7"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 3,
     "id": 84
   },
   {
@@ -971,7 +971,7 @@
       "Bh6#"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 85
   },
   {
@@ -982,7 +982,7 @@
       "Be5#"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 6,
     "id": 86
   },
   {
@@ -993,7 +993,7 @@
       "Nc2#"
     ],
     "tag": "Polgar 1",
-    "rep": 4,
+    "rep": 5,
     "id": 87
   },
   {
@@ -1006,7 +1006,7 @@
       "bxc6"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 88
   },
   {
@@ -1021,7 +1021,7 @@
       "Rxe8#"
     ],
     "tag": "Polgar 1",
-    "rep": 3,
+    "rep": 5,
     "id": 89
   },
   {
@@ -1034,7 +1034,7 @@
       "Qxg8+"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 90
   },
   {
@@ -1045,16 +1045,18 @@
       "e6#"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 91
   },
   {
     "fen": "3q2r1/p6k/1p4p1/3p1b2/3Q4/1P6/PB4PP/4R2K w - - 0 1",
     "solution": [
-      "Re8"
+      "Re8",
+      "Qxe8",
+      "Qh4#"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 92
   },
   {
@@ -1067,7 +1069,7 @@
       "R1h7#"
     ],
     "tag": "Polgar 1",
-    "rep": 3,
+    "rep": 5,
     "id": 93
   },
   {
@@ -1078,7 +1080,7 @@
       "Ne6+"
     ],
     "tag": "Polgar 1",
-    "rep": 1,
+    "rep": 3,
     "id": 94
   },
   {
@@ -1089,7 +1091,7 @@
       "Qxh7#"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 6,
     "id": 95
   },
   {
@@ -1098,7 +1100,7 @@
       "Qxh7"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 96
   },
   {
@@ -1109,7 +1111,7 @@
       "Rh4#"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 97
   },
   {
@@ -1120,7 +1122,7 @@
       "Nc7#"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 98
   },
   {
@@ -1131,7 +1133,7 @@
       "Rxa7"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 99
   },
   {
@@ -1142,7 +1144,7 @@
       "Qh1#"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 100
   },
   {
@@ -1153,7 +1155,7 @@
       "Rxe7"
     ],
     "tag": "Polgar 1",
-    "rep": 3,
+    "rep": 5,
     "id": 101
   },
   {
@@ -1164,16 +1166,20 @@
       "R3b7#"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 102
   },
   {
     "fen": "r4rk1/p1p2ppp/1p2pn2/3qP1Q1/3P4/2P2P1P/PP3BP1/4RRK1 w - - 0 1",
     "solution": [
-      "c4"
+      "c4",
+      "h6",
+      "cxd5",
+      "hxg5",
+      "exf6"
     ],
     "tag": "Polgar 1",
-    "rep": 1,
+    "rep": 4,
     "id": 103
   },
   {
@@ -1184,7 +1190,7 @@
       "Bxf7#"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 3,
     "id": 104
   },
   {
@@ -1199,7 +1205,7 @@
       "Bf6#"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 105
   },
   {
@@ -1210,7 +1216,7 @@
       "Bxf7#"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 106
   },
   {
@@ -1221,7 +1227,7 @@
       "Nf7#"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 107
   },
   {
@@ -1232,7 +1238,7 @@
       "Qxa6+"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 108
   },
   {
@@ -1243,7 +1249,7 @@
       "Rh5"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 109
   },
   {
@@ -1252,7 +1258,7 @@
       "c5"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 110
   },
   {
@@ -1265,7 +1271,7 @@
       "Re6#"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 111
   },
   {
@@ -1276,7 +1282,7 @@
       "Qb2#"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 112
   },
   {
@@ -1287,7 +1293,7 @@
       "Qb7#"
     ],
     "tag": "Polgar 1",
-    "rep": 1,
+    "rep": 4,
     "id": 113
   },
   {
@@ -1300,7 +1306,7 @@
       "Rxe7"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 114
   },
   {
@@ -1309,7 +1315,7 @@
       "Qg4+"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 115
   },
   {
@@ -1320,7 +1326,7 @@
       "Qxd8+"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 116
   },
   {
@@ -1333,7 +1339,7 @@
       "Qxh5+"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 3,
     "id": 117
   },
   {
@@ -1344,7 +1350,7 @@
       "Bxf6"
     ],
     "tag": "Polgar 1",
-    "rep": 3,
+    "rep": 5,
     "id": 118
   },
   {
@@ -1353,7 +1359,7 @@
       "Bh7+"
     ],
     "tag": "Polgar 1",
-    "rep": 1,
+    "rep": 3,
     "id": 119
   },
   {
@@ -1364,7 +1370,7 @@
       "Bc4"
     ],
     "tag": "Polgar 1",
-    "rep": 1,
+    "rep": 5,
     "id": 120
   },
   {
@@ -1373,7 +1379,7 @@
       "Qb4"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 121
   },
   {
@@ -1384,7 +1390,7 @@
       "Re8"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 3,
     "id": 122
   },
   {
@@ -1397,20 +1403,18 @@
       "Qxc7"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 6,
     "id": 123
   },
   {
     "fen": "2kr4/1p1q4/pRn3rp/3pB1p1/Q2P4/P4P2/6PP/2R3K1 w - - 0 1",
     "solution": [
       "Qxa6",
-      "Qc7",
-      "Bxc7",
       "bxa6",
-      "Bxd8"
+      "Rb8#"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 124
   },
   {
@@ -1421,7 +1425,7 @@
       "Qxa4"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 125
   },
   {
@@ -1434,7 +1438,7 @@
       "Qxc7"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 3,
     "id": 126
   },
   {
@@ -1443,7 +1447,7 @@
       "Nd6#"
     ],
     "tag": "Polgar 1",
-    "rep": 1,
+    "rep": 4,
     "id": 127
   },
   {
@@ -1452,7 +1456,7 @@
       "Qd8"
     ],
     "tag": "Polgar 1",
-    "rep": 3,
+    "rep": 5,
     "id": 128
   },
   {
@@ -1461,7 +1465,7 @@
       "Qf8"
     ],
     "tag": "Polgar 1",
-    "rep": 3,
+    "rep": 5,
     "id": 129
   },
   {
@@ -1472,7 +1476,7 @@
       "Rd8#"
     ],
     "tag": "Polgar 1",
-    "rep": 3,
+    "rep": 6,
     "id": 130
   },
   {
@@ -1483,7 +1487,7 @@
       "Qb5"
     ],
     "tag": "Polgar 1",
-    "rep": 3,
+    "rep": 4,
     "id": 131
   },
   {
@@ -1494,7 +1498,7 @@
       "Bh6"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 132
   },
   {
@@ -1507,7 +1511,7 @@
       "Qxf4"
     ],
     "tag": "Polgar 1",
-    "rep": 3,
+    "rep": 4,
     "id": 133
   },
   {
@@ -1518,7 +1522,7 @@
       "Rxc7#"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 134
   },
   {
@@ -1531,7 +1535,7 @@
       "Qxc8+"
     ],
     "tag": "Polgar 1",
-    "rep": 3,
+    "rep": 5,
     "id": 135
   },
   {
@@ -1542,7 +1546,7 @@
       "g5"
     ],
     "tag": "Polgar 1",
-    "rep": 3,
+    "rep": 6,
     "id": 136
   },
   {
@@ -1553,7 +1557,7 @@
       "Be2#"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 137
   },
   {
@@ -1564,7 +1568,7 @@
       "g5"
     ],
     "tag": "Polgar 1",
-    "rep": 1,
+    "rep": 5,
     "id": 138
   },
   {
@@ -1577,7 +1581,7 @@
       "Qxe1+"
     ],
     "tag": "Polgar 1",
-    "rep": 4,
+    "rep": 5,
     "id": 139
   },
   {
@@ -1588,7 +1592,7 @@
       "Be5"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 140
   },
   {
@@ -1599,7 +1603,7 @@
       "Qxb5"
     ],
     "tag": "Polgar 1",
-    "rep": 3,
+    "rep": 5,
     "id": 141
   },
   {
@@ -1610,7 +1614,7 @@
       "Bxd8"
     ],
     "tag": "Polgar 1",
-    "rep": 3,
+    "rep": 5,
     "id": 142
   },
   {
@@ -1623,7 +1627,7 @@
       "Nxe4"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 143
   },
   {
@@ -1634,7 +1638,7 @@
       "Bd4"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 144
   },
   {
@@ -1654,7 +1658,7 @@
       "Qh6"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 146
   },
   {
@@ -1667,7 +1671,7 @@
       "Qxd6"
     ],
     "tag": "Polgar 1",
-    "rep": 1,
+    "rep": 4,
     "id": 147
   },
   {
@@ -1678,7 +1682,7 @@
       "Nb6#"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 148
   },
   {
@@ -1689,7 +1693,7 @@
       "Rd8#"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 149
   },
   {
@@ -1700,7 +1704,7 @@
       "Qh5#"
     ],
     "tag": "Polgar 1",
-    "rep": 4,
+    "rep": 5,
     "id": 150
   },
   {
@@ -1711,7 +1715,7 @@
       "Qxe7#"
     ],
     "tag": "Polgar 1",
-    "rep": 3,
+    "rep": 5,
     "id": 151
   },
   {
@@ -1722,7 +1726,7 @@
       "Bh6"
     ],
     "tag": "Polgar 1",
-    "rep": 3,
+    "rep": 5,
     "id": 152
   },
   {
@@ -1735,7 +1739,7 @@
       "Qxd2"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 153
   },
   {
@@ -1748,7 +1752,7 @@
       "Qxg2#"
     ],
     "tag": "Polgar 1",
-    "rep": 1,
+    "rep": 3,
     "id": 154
   },
   {
@@ -1759,7 +1763,7 @@
       "Bc5"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 6,
     "id": 155
   },
   {
@@ -1768,7 +1772,7 @@
       "Nd5"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 156
   },
   {
@@ -1779,7 +1783,7 @@
       "Qc4"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 157
   },
   {
@@ -1787,10 +1791,12 @@
     "solution": [
       "Re4+",
       "Kf7",
-      "Rf1"
+      "Rf1",
+      "Qxf1+",
+      "Kxf1"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 158
   },
   {
@@ -1798,10 +1804,12 @@
     "solution": [
       "Bb3+",
       "Kh7",
-      "Bc2"
+      "Bc2",
+      "Kg8",
+      "Bxd3"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 159
   },
   {
@@ -1812,7 +1820,7 @@
       "g5"
     ],
     "tag": "Polgar 1",
-    "rep": 3,
+    "rep": 4,
     "id": 160
   },
   {
@@ -1825,7 +1833,7 @@
       "Qxe7"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 161
   },
   {
@@ -1836,7 +1844,7 @@
       "Rxh3#"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 162
   },
   {
@@ -1849,7 +1857,7 @@
       "Bxe6"
     ],
     "tag": "Polgar 1",
-    "rep": 3,
+    "rep": 5,
     "id": 163
   },
   {
@@ -1858,7 +1866,7 @@
       "Rg3"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 164
   },
   {
@@ -1867,7 +1875,7 @@
       "Ne5"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 6,
     "id": 165
   },
   {
@@ -1876,7 +1884,7 @@
       "Bg6"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 166
   },
   {
@@ -1889,7 +1897,7 @@
       "Rxc8"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 167
   },
   {
@@ -1898,7 +1906,7 @@
       "Ng5"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 168
   },
   {
@@ -1907,7 +1915,7 @@
       "Qxd5"
     ],
     "tag": "Polgar 1",
-    "rep": 3,
+    "rep": 5,
     "id": 169
   },
   {
@@ -1922,7 +1930,7 @@
       "Kg7"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 170
   },
   {
@@ -1933,7 +1941,7 @@
       "Rxc7"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 171
   },
   {
@@ -1944,7 +1952,7 @@
       "Qxh5+"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 4,
     "id": 172
   },
   {
@@ -1953,7 +1961,7 @@
       "Rd1"
     ],
     "tag": "Polgar 1",
-    "rep": 2,
+    "rep": 5,
     "id": 173
   },
   {
@@ -1964,483 +1972,494 @@
       "Rh6"
     ],
     "tag": "Polgar 1",
-    "rep": 3,
+    "rep": 4,
     "id": 174
   },
   {
     "fen": "r2qr1k1/b1p2ppp/pp4n1/P1P1p3/4P1n1/B2P2Pb/3NBP1P/RN1QR1K1 b - - 1 16",
     "solution": "b6c5 e2g4 h3g4 d1g4",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 175
   },
   {
     "fen": "4r1k1/5ppp/r1p5/p1n1RP2/8/2P2N1P/2P3P1/3R2K1 b - - 0 21",
     "solution": "e8e5 d1d8 e5e8 d8e8",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 176
   },
   {
     "fen": "5r1k/pp4pp/5p2/1BbQp1r1/6K1/7P/1PP3P1/3R3R w - - 2 26",
     "solution": "g4h4 c5f2 g2g3 f2g3",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 177
   },
   {
     "fen": "8/4R1k1/p5pp/3B4/5q2/8/5P1P/6K1 b - - 5 40",
     "solution": "g7f6 e7f7 f6e5 f7f4",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 178
   },
   {
     "fen": "6k1/3bqr1p/2rpp1pR/p7/Pp1QP3/1B3P2/1PP3P1/2KR4 w - - 6 22",
     "solution": "d4a7 e7g5 c1b1 g5h6",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 7,
     "id": 179
   },
   {
     "fen": "8/r1b1q2k/2p3p1/2Pp4/1P2p1n1/2B1P3/NQ6/2K4R b - - 1 36",
     "solution": "h7g8 h1h8 g8f7 h8h7 f7e8 h7e7",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 180
   },
   {
     "fen": "r3kb1r/p4ppp/b1p1p3/3q4/3Q4/4BN2/PPP2PPP/R3K2R b KQkq - 0 11",
     "solution": "c6c5 d4a4 a6b5 a4b5",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 181
   },
   {
     "fen": "8/7R/5p2/p7/7P/2p5/3k2r1/1K2N3 w - - 3 48",
     "solution": "e1g2 c3c2 b1a2 c2c1q h7d7 d2e2",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 182
   },
   {
     "fen": "2kr1br1/ppBb1ppp/8/3P2Q1/3n2n1/5N2/PP3qPP/RN2R2K b - - 0 16",
     "solution": "d4f3 g5d8",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 183
   },
   {
     "fen": "1r6/5k2/2p1pNp1/p5Pp/1pQ1P2P/2P4R/KP3P2/3q4 w - - 4 31",
     "solution": "c4c6 b4b3 a2a3 d1a1",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 184
   },
   {
     "fen": "1k1r3r/2q5/pp1n2p1/8/1Q6/3R2P1/PPP2P1P/3R2K1 b - - 4 29",
     "solution": "c7c5 b4c5 b6c5 d3d6 d8d6 d1d6",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 185
   },
   {
     "fen": "2r5/4ppkp/5bp1/1p6/1P6/P3B3/2r2PPP/1R1R2K1 b - - 2 22",
     "solution": "f6b2 b1b2 c2b2 e3d4 f7f6 d4b2",
     "tag": "lichess puzzle",
-    "rep": 5,
+    "rep": 6,
     "id": 186
   },
   {
     "fen": "7Q/2p5/1p2prp1/p4k1p/P4p1P/8/6RK/3q4 b - - 2 37",
     "solution": "d1a4 g2g5 f5e4 h8f6",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 187
   },
   {
     "fen": "rn2kb1r/pp2pppp/2p2n2/4q3/8/2N4Q/PPPPBPPP/R1B1K2R b KQkq - 2 8",
     "solution": "g7g6 h3c8",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 188
   },
   {
     "fen": "2r3k1/2qR1ppp/p7/2p2Q2/P7/7P/5PP1/6K1 b - - 3 26",
     "solution": "c7c6 f5f7 g8h8 f7g7",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 189
   },
   {
     "fen": "2kr2r1/ppb2ppp/3qbn2/2Np2B1/P7/2P2Q1P/1PB2PP1/R4RK1 w - - 5 18",
     "solution": "c5e6 d6h2",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 190
   },
   {
     "fen": "r3r1k1/1p3p1p/p1p3p1/8/6bP/Q3b3/PP2B1P1/R3K2R w KQ - 2 20",
     "solution": "g2g3 g4e2 e1e2 e3c5 e2f3 c5a3",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 191
   },
   {
     "fen": "8/7Q/3p1kp1/1p6/2b5/2P4P/5PPK/4q3 b - - 8 36",
     "solution": "e1c3 h7h8 f6e6 h8c3",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 192
   },
   {
     "fen": "r6k/3NR1p1/4n2p/5b2/p6P/6R1/8/6K1 w - - 2 43",
     "solution": "h4h5 a4a3 g3a3 a8a3 e7e8 h8h7",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 193
   },
   {
     "fen": "3r1rk1/1p2q1pp/5p2/8/1P1n4/6Q1/PPbB1PPP/R2B1RK1 w - - 9 20",
     "solution": "d1c2 d4e2 g1h1 e2g3 f2g3 d8d2",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 194
   },
   {
     "fen": "1k4nr/pp1r1ppp/4p3/1Nb2q2/2Pp4/6P1/PP3P1P/R1BQR1K1 b - - 2 14",
     "solution": "g8h6 c1f4 f5f4 g3f4",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 195
   },
   {
     "fen": "2k1r3/pppn1pp1/3b2b1/3p2Pp/2B2P2/3P3P/PPPR4/2K3NR w - - 0 18",
     "solution": "c4d5 e8e1 d2d1 d6f4 c1b1 e1d1",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 5,
     "id": 196
   },
   {
     "fen": "r2q1rk1/1Q2bppp/p1N1p3/1p6/2pP1n2/2P5/PP3PPP/R4RK1 b - - 1 18",
     "solution": "d8d5 c6e7 g8h8 e7d5",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 197
   },
   {
     "fen": "3r2k1/1q3ppp/p2rp3/Qp1B4/7P/P4P2/1PP3P1/1K1R3R b - - 0 21",
     "solution": "d6d5 a5d8 d5d8 d1d8",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 198
   },
   {
     "fen": "r1bqkb1r/pp1pnppp/2n1p3/1N6/5B2/8/PPP1PPPP/R2QKBNR b KQkq - 4 6",
     "solution": "e6e5 b5d6",
     "tag": "lichess puzzle",
-    "rep": 5,
+    "rep": 6,
     "id": 199
   },
   {
     "fen": "5r1k/6b1/3p3p/1P1q2pQ/r5P1/3p1N1P/3R2P1/4R2K w - - 2 34",
-    "solution": "e1d1 f8f3 g2f3 d5f3",
+    "solution": [
+      "Red1",
+      "Rxf3",
+      "gxf3",
+      "Qxf3+",
+      "Kh2",
+      "Re4",
+      "Rxd3",
+      "Re2+",
+      "Kg1",
+      "Qg2#"
+    ],
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 200
   },
   {
     "fen": "3r2k1/1B3p1p/6p1/3N4/3p2P1/6r1/5KP1/3R4 b - - 5 35",
     "solution": "g3g4 d5f6 g8g7 f6g4",
     "tag": "lichess puzzle",
-    "rep": 5,
+    "rep": 6,
     "id": 201
   },
   {
     "fen": "r1bqkb1r/pp2pppp/2p2n2/2PnN3/2BP1B2/8/PP3PPP/RN1QR1K1 b kq - 2 12",
     "solution": "d5f4 c4f7",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 202
   },
   {
     "fen": "2k2rr1/1p1q3p/1p2p3/1NbpQ3/P1p2P2/6P1/6KP/R4R2 b - - 0 31",
     "solution": "f8f5 b5a7 c8d8 e5b8 d8e7 b8g8",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 203
   },
   {
     "fen": "1r2r1k1/ppp1q1pp/4b3/4P3/1Q1p1P2/8/P5PP/R1BR2K1 w - - 6 19",
     "solution": "d1d4 c7c5 b4a3 c5d4 a3e7 e8e7",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 204
   },
   {
     "fen": "3r2k1/pQ3ppp/4R1n1/2q5/2P5/2B3P1/P4PBP/6K1 b - - 0 24",
     "solution": "f7e6 b7g7",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 7,
     "id": 205
   },
   {
     "fen": "8/r4k2/7R/5PK1/1n6/8/8/8 b - - 3 56",
     "solution": "b4d5 h6h7 f7f8 h7a7",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 206
   },
   {
     "fen": "r1b2k1r/pp4p1/2pq2p1/3p4/3p4/1N6/PPP2PPP/R2Q1RK1 w - - 0 17",
     "solution": "d1d4 d6h2",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 7,
     "id": 207
   },
   {
     "fen": "8/8/6p1/PR3p2/1P3k2/7P/r5P1/7K w - - 1 39",
     "solution": "h3h4 f4g3 b5d5 a2a1 d5d1 a1d1",
     "tag": "lichess puzzle",
-    "rep": 5,
+    "rep": 6,
     "id": 208
   },
   {
     "fen": "6k1/6Bp/6pP/3q1p2/p2PnQ2/2r5/P5PK/4R3 b - - 1 39",
     "solution": "d5d6 e1e4 d6f4 e4f4",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 7,
     "id": 209
   },
   {
     "fen": "3r3k/p5pp/2r2q2/2p4Q/8/8/P5PP/3R1R1K b - - 5 29",
     "solution": "d8d1 h5e8 f6f8 e8f8",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 210
   },
   {
     "fen": "6k1/3P1pp1/4p3/p7/Q3R3/3q1PP1/1P3PK1/2r5 w - - 0 37",
     "solution": "a4d4 d3f1 g2h2 f1h1",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 211
   },
   {
     "fen": "r2n2k1/1bRq1rpp/1p6/3P4/p3Q3/B3P3/PP3PPP/3R2K1 b - - 0 20",
     "solution": "d7c7 e4e8 f7f8 e8f8",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 212
   },
   {
     "fen": "8/2p1b3/q1Pp2k1/3Pp3/4Pr2/1Q3PK1/3N2P1/7R w - - 1 47",
     "solution": "h1e1 e7h4 g3h2 h4e1",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 5,
     "id": 213
   },
   {
     "fen": "1k1r1r2/pp4p1/6q1/2Qp4/5bP1/2P4p/PPN3NP/R4R1K w - - 0 30",
     "solution": "g2f4 g6e4 h1g1 f8f4",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 214
   },
   {
     "fen": "1k5r/ppp1R2p/3r1p2/5Q2/3p4/2qP4/2P2PPP/2K1R3 b - - 5 26",
     "solution": "d6a6 e7e8 h8e8 e1e8",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 7,
     "id": 215
   },
   {
     "fen": "8/1p2rppk/5q1p/Q4R2/2P5/PP5P/5PP1/5rK1 w - - 0 32",
     "solution": "g1f1 f6a1 a5e1 e7e1",
     "tag": "lichess puzzle",
-    "rep": 2,
+    "rep": 6,
     "id": 216
   },
   {
     "fen": "4r1k1/p1R1n2p/4N3/5rK1/8/6PP/P3R3/8 w - - 3 46",
     "solution": "g5g4 h7h5 g4h4 e7g6",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 217
   },
   {
     "fen": "4k3/1R6/6p1/4Np1p/7P/2r3PK/5b2/8 w - - 11 47",
     "solution": "e5g6 c3g3 h3h2 g3g6",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 218
   },
   {
     "fen": "3r4/3r2k1/p7/3p2p1/3R2Pp/1P2PK2/P2R4/8 w - - 0 38",
     "solution": "e3e4 d5e4 f3e3 d7d4",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 7,
     "id": 219
   },
   {
     "fen": "2k3rr/ppp2p1p/2np1B2/8/4P3/2NB1b2/PPP2PPP/R4RK1 w - - 1 13",
     "solution": "f6h8 g8g2 g1h1 g2g4",
     "tag": "lichess puzzle",
-    "rep": 6,
+    "rep": 7,
     "id": 220
   },
   {
     "fen": "8/8/1KpB4/Pb6/1P5p/5k2/8/8 b - - 3 55",
     "solution": "f3g2 a5a6 g2f3 a6a7",
     "tag": "lichess puzzle",
-    "rep": 2,
+    "rep": 6,
     "id": 221
   },
   {
     "fen": "3q1rk1/4pp1p/p4Pp1/4p1P1/b1PpP2Q/3n3P/Pr2N1B1/R4RK1 b - - 1 22",
     "solution": "b2e2 h4h6 e7f6 g5f6 d8f6 f1f6",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 7,
     "id": 222
   },
   {
     "fen": "2r1r1k1/pp3pp1/4bb1p/2qp4/Q7/1PNRPN2/P4PPP/3R2K1 w - - 0 19",
     "solution": "c3d5 e6d5 a4e8 c8e8",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 223
   },
   {
     "fen": "3r1k2/p4p2/1p4p1/1Pn4p/4BP1P/6P1/P2p3K/3R4 b - - 1 44",
     "solution": "c5d3 d1d2 d8d4 e4d3",
     "tag": "lichess puzzle",
-    "rep": 2,
+    "rep": 5,
     "id": 224
   },
   {
     "fen": "rn4k1/pp1q1r2/2pp2B1/3P4/2PB2b1/8/P2K1PP1/7R b - - 1 21",
     "solution": "c6d5 h1h8",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 7,
     "id": 225
   },
   {
     "fen": "2rr4/4kp2/p3p2q/1p3nNP/3PQP2/P1N5/1P3K2/6R1 b - - 0 34",
     "solution": "d8d4 e4b7 d4d7 b7c8",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 226
   },
   {
     "fen": "r2qr1k1/ppp2ppp/2nbp3/5b2/3P4/2P1BN2/P1PQBPPP/3R1RK1 b - - 7 11",
     "solution": "d8f6 e3g5 f6g6 f3h4 h7h6 h4g6",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 7,
     "id": 227
   },
   {
     "fen": "1Q1k4/4r3/2q4p/2p1pp1P/2Bb4/1P6/P6K/4R3 b - - 4 43",
     "solution": "d8d7 c4b5 c6b5 b8b5",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 228
   },
   {
     "fen": "r3kb1r/ppp2pp1/3p4/1P2p3/2P3pn/2N1P2q/PB1P1P1N/R2Q1RK1 w kq - 0 15",
     "solution": "d1g4 h4f3 h2f3 h3g4",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 229
   },
   {
     "fen": "r2r2k1/pp3ppp/1qn2b2/3R4/4QB2/1P3N2/P4PPP/4R1K1 b - - 0 18",
     "solution": "d8d5 e4e8 a8e8 e1e8",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 230
   },
   {
     "fen": "r1b2rk1/2qnbppp/3p1n2/1pp5/4PP2/1PNQ1N2/P3B1PP/1RB2RK1 w - - 0 14",
     "solution": "d3b5 c8a6 b5a6 a8a6",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 231
   },
   {
     "fen": "r1b1k2r/ppp2p2/2nppq1p/3P2p1/1bP3P1/2N2N2/PP2PPP1/2RQKB1R b Kkq - 0 11",
     "solution": "c6e5 d1a4 e8f8 a4b4",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 232
   },
   {
     "fen": "4b1k1/1r2P2p/p1p3pP/6q1/3Q4/PB6/1PP3P1/1K6 b - - 0 36",
     "solution": "b7b3 d4g7",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 233
   },
   {
     "fen": "2rknb2/3q1pp1/p1pP3r/1pQ1P2p/5P2/1P4P1/PB4K1/3R4 b - - 0 27",
     "solution": "h5h4 c5b6 e8c7 d6c7",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 5,
     "id": 234
   },
   {
     "fen": "2b2rk1/pp4p1/2p5/4r3/2B5/1P6/P4pK1/5R2 b - - 4 32",
     "solution": "g8h8 f1h1 c8h3 h1h3 e5h5 h3h5",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 235
   },
   {
     "fen": "4k2r/1pb3pp/p4p2/2P1p2b/1PBn4/P3N1P1/3B1P1P/5RK1 w k - 3 23",
     "solution": "e3d5 d4f3 g1g2 f3d2",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 236
   },
   {
     "fen": "8/Q7/7r/8/6K1/1r2k1p1/6P1/8 b - - 2 64",
     "solution": "e3e2 a7a2 e2e3 a2b3",
     "tag": "lichess puzzle",
-    "rep": 2,
+    "rep": 6,
     "id": 237
   },
   {
     "fen": "4rb2/2p1q2k/p1Pp2p1/1p1Q3p/7P/2P2R2/PP4P1/1K6 b - - 1 34",
     "solution": "f8h6 f3f7 h6g7 f7e7",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 238
   },
   {
     "fen": "8/8/Rp1r4/2p5/P1P1kp2/1P6/4K3/8 w - - 2 57",
     "solution": "a4a5 f4f3 e2f2 d6d2",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 239
   },
   {
     "fen": "r3k3/ppP2pp1/8/3Nn3/1bP3p1/4P1Pq/PP2N1K1/R1BQ1R2 w q - 3 18",
     "solution": "g2f2 h3h2",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 240
   },
   {
     "fen": "8/5pkp/PQ4p1/4p3/RP1pP3/8/2rq1PPP/5BK1 w - - 0 36",
     "solution": "b6b5 d2f2 g1h1 c2c1",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 241
   },
   {
     "fen": "5rk1/1q3r1p/3p2RQ/3p4/3B4/2P2P2/P5PP/6K1 b - - 0 30",
     "solution": "h7g6 h6h8",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 242
   },
   {
@@ -2454,189 +2473,189 @@
       "Rxd8"
     ],
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 243
   },
   {
     "fen": "8/pk1r1bR1/1p6/8/2P2N2/1P6/1K6/8 b - - 21 60",
     "solution": "f7e6 f4e6 d7g7 e6g7",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 244
   },
   {
     "fen": "2r2r1k/pp3pp1/1b5p/4P3/1q2RB2/1B1p1N2/PP2K1Q1/6R1 w - - 0 39",
     "solution": "e2d3 f8d8 f3d4 d8d4 e4d4 b4d4",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 245
   },
   {
     "fen": "2kr1b1r/pp3ppp/2p1pq2/6B1/2P3Q1/7P/P4PP1/1R3RK1 b - - 3 19",
     "solution": "f6g6 g5d8 g6g4 h3g4",
     "tag": "lichess puzzle",
-    "rep": 2,
+    "rep": 6,
     "id": 246
   },
   {
     "fen": "8/7p/1p3Qpk/1Pp5/2Pp4/5PP1/2q3KP/8 w - - 1 41",
     "solution": "g2h3 c2f5 f6f5 g6f5",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 247
   },
   {
     "fen": "r2q1rk1/pb2bpp1/2p1p3/4P3/2nP3p/P1PQBN1P/2B2PP1/R4RK1 b - - 5 18",
     "solution": "c4e3 d3h7",
     "tag": "lichess puzzle",
-    "rep": 2,
+    "rep": 5,
     "id": 248
   },
   {
     "fen": "8/1p5p/6p1/2P2k2/1P6/P3qp1Q/8/5K2 b - - 5 43",
     "solution": "f5e4 h3e6 e4d4 e6e3 d4e3 b4b5 g6g5 c5c6",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 5,
     "id": 249
   },
   {
     "fen": "1k4r1/7p/1p4r1/pPp1qp2/P1Pp1R2/3Q2NP/2P4K/5R2 w - - 4 32",
     "solution": "f1f3 g6g3 f3g3 e5f4",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 250
   },
   {
     "fen": "r1b1r1k1/pp1p1p1Q/2n2Bp1/2p1qp2/2B1P3/3P1R2/PPP3PP/R5K1 b - - 0 16",
     "solution": "g8h7 f3h3 h7g8 h3h8",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 251
   },
   {
     "fen": "4r3/2R3pk/1n2p2p/p6N/6PP/8/P7/6K1 b - - 0 40",
     "solution": "e8g8 h5f6 h7h8 f6g8",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 252
   },
   {
     "fen": "8/5kpp/2p2p2/P1Bpn3/1P6/7P/r4PP1/4R1K1 b - - 2 31",
     "solution": "f7e6 f2f4 e6f5 f4e5",
     "tag": "lichess puzzle",
-    "rep": 2,
+    "rep": 5,
     "id": 253
   },
   {
     "fen": "2r5/2r3k1/1p2pp1p/p2pQ1p1/3P4/4P1P1/PPq2P1R/KR6 w - - 0 30",
     "solution": "e5e6 c2b1 a1b1 c7c1",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 254
   },
   {
     "fen": "r2q1rk1/4N1bp/p2p2p1/2p3N1/Pp4P1/1Q5P/1P1n1P2/5RK1 b - - 0 21",
     "solution": "g8h8 b3g8 f8g8 g5f7",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 255
   },
   {
     "fen": "r5rk/4qp1p/p4N1Q/1p2p3/3pP3/1P1P3P/1PP3P1/5RK1 b - - 2 23",
     "solution": "g8g6 h6h7",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 256
   },
   {
     "fen": "1k1r3r/ppqn2p1/2p1p1p1/8/1B1PQ3/2P5/PP3PPP/R3K2R w KQ - 1 18",
     "solution": "e1g1 c7h2",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 257
   },
   {
     "fen": "r3r1k1/pp3pp1/2p2q1p/3pP3/P3bP2/2P1N1P1/1P1Q1K1P/R3R3 b - - 0 23",
     "solution": "e8e5 e3g4 f6f5 g4e5",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 7,
     "id": 258
   },
   {
     "fen": "r1bqk2r/ppp2ppp/3p4/4p2n/2PBP2b/5PN1/PP4PP/RN1QKB1R b KQkq - 0 9",
     "solution": "h5g3 h2g3 h4g3 d4f2 g3f2 e1f2",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 259
   },
   {
     "fen": "3r2k1/pp3ppp/4p3/2N5/7q/1Q3P2/PP1r2PP/3RR2K w - - 3 24",
     "solution": "d1d2 h4e1",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 260
   },
   {
     "fen": "2r3k1/R4pp1/1p2p2p/1q2P3/3Pp3/1p2P2P/5QP1/6K1 b - - 1 34",
     "solution": "b3b2 f2f7 g8h8 f7g7",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 261
   },
   {
     "fen": "2r1r1k1/5pp1/Rb3q1p/1p2p3/3pP3/1N1P1PP1/3Q1P2/2R3K1 b - - 0 25",
     "solution": "f6d8 c1c8 d8c8 a6b6",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 262
   },
   {
     "fen": "3r2k1/1p3pp1/pq1b3p/3P4/P7/3Q1N2/1r3PPP/R2R2K1 w - - 0 23",
     "solution": "a1b1 b6f2 g1h1 f2g2",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 5,
     "id": 263
   },
   {
     "fen": "3rr1k1/1p3bb1/1q2p1p1/p1n1Pp1p/P3P2P/1NP3P1/1PQ3B1/R1B1R2K w - - 0 21",
     "solution": "c1e3 b6b3 c2b3 c5b3",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 264
   },
   {
     "fen": "2r5/3k1p2/5Pp1/PP1pP1P1/1K1B3P/5p2/8/8 w - - 1 45",
     "solution": "d4c5 c8c5 b4c5 f3f2",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 265
   },
   {
     "fen": "r1b2rk1/ppp2ppp/8/1B1pN3/3bn3/8/PPP2qPP/RNBQR2K w - - 0 12",
     "solution": "e5f3 f2g1 f3g1 e4f2",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 266
   },
   {
     "fen": "3q2k1/r1p3p1/P1Pp3p/3Pp1b1/R3Qr2/5N1P/5PP1/R5K1 w - - 1 27",
     "solution": "e4e3 f4a4 a1a4 g5e3",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 267
   },
   {
     "fen": "q7/3kbpp1/4p3/1p1pP3/2pPb1P1/1PP1B3/1Q3P1r/R5K1 w - - 0 28",
     "solution": "a1a8 h2h1",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 268
   },
   {
     "fen": "8/2B3k1/4p2p/2P3pQ/3P4/4p3/6PP/4qNK1 w - - 0 34",
     "solution": "h5e8 e1f2 g1h1 f2f1",
     "tag": "lichess puzzle",
-    "rep": 5,
+    "rep": 6,
     "id": 269
   },
   {
@@ -2654,343 +2673,343 @@
       "Qxc8+"
     ],
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 270
   },
   {
     "fen": "5k2/p3pp2/7p/2Qp1P2/6B1/6q1/2K5/8 b - - 2 43",
     "solution": "g3g4 c5c8 f8g7 f5f6 g7f6 c8g4",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 271
   },
   {
     "fen": "8/5pk1/4b2p/8/2r1NKP1/4P2P/5R2/8 w - - 12 51",
     "solution": "f4f3 e6d5 f2d2 d5e4",
     "tag": "lichess puzzle",
-    "rep": 5,
+    "rep": 7,
     "id": 272
   },
   {
     "fen": "3r1rk1/p1N2ppp/1p1P4/4n3/4P1q1/P1Q5/3R2PP/3R2K1 b - - 5 28",
     "solution": "e5f3 c3f3",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 273
   },
   {
     "fen": "1k6/p2bRq2/1p1P1Pp1/2p4p/7r/5QK1/P5P1/8 b - - 7 37",
     "solution": "h4g4 f3g4 d7g4 e7f7",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 274
   },
   {
     "fen": "r7/pp1Qp1B1/8/3kb3/4q3/8/PP3PP1/5K2 b - - 4 34",
     "solution": "e5d6 d7b7 d5e6 b7e4",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 275
   },
   {
     "fen": "8/8/1P4p1/3B3p/R3P3/5PkP/1q4P1/R6K w - - 1 46",
     "solution": "b6b7 b2g2",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 276
   },
   {
     "fen": "8/p7/1b6/1Kp5/2P2pk1/1P6/5P1B/8 w - - 0 37",
     "solution": "f2f3 g4f3 b3b4 c5b4",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 5,
     "id": 277
   },
   {
     "fen": "5r1k/7P/pp6/q1p5/3pPrb1/1P1B3Q/2P1K1R1/7R w - - 0 46",
     "solution": "g2g4 f4f2 e2d1 a5a1",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 278
   },
   {
     "fen": "k7/1p3q1r/pP1Qp3/3p1p1p/7P/5KP1/5P2/8 b - - 1 46",
     "solution": "f7d7 d6f8 d7c8 f8c8",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 279
   },
   {
     "fen": "8/8/8/1p6/4k3/2p4P/rP2RK2/8 b - - 1 49",
     "solution": "e4d4 b2c3 d4c3 e2a2",
     "tag": "lichess puzzle",
-    "rep": 5,
+    "rep": 7,
     "id": 280
   },
   {
     "fen": "5rqk/1p4p1/B1n3Qp/3p4/8/2P2P2/P6P/6RK b - - 0 29",
     "solution": "f8f6 g6f6 g7f6 g1g8 h8g8 a6b7",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 7,
     "id": 281
   },
   {
     "fen": "4r1k1/1b1r1pPp/4p3/p5B1/5Q2/1P6/PbR3qP/6RK w - - 0 36",
     "solution": "g1g2 d7d1 f4f1 d1f1",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 282
   },
   {
     "fen": "1r4k1/5p1p/4p1p1/p1p1P3/2Pn1P2/PPR1Q1P1/7q/1R3K2 w - - 4 30",
     "solution": "e3f2 h2h1 f2g1 h1g1 f1g1 d4e2 g1h2 e2c3",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 283
   },
   {
     "fen": "1r5r/k2q1ppp/p2pbn2/N1p1N3/P1Q1P3/2PPP3/6PP/RR4K1 b - - 0 20",
     "solution": "b8b1 a1b1 e6c4 e5d7",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 284
   },
   {
     "fen": "4r3/2p2p1k/3p3p/3PqP2/1p5P/1P1R4/r1P3Q1/1K4R1 w - - 0 29",
     "solution": "b1a2 e8a8 a2b1 e5a1",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 285
   },
   {
     "fen": "6k1/pp6/6p1/5pN1/b1r5/7P/3R2P1/7K b - - 1 37",
     "solution": "c4c7 d2d8 g8g7 g5e6 g7f6 e6c7",
     "tag": "lichess puzzle",
-    "rep": 5,
+    "rep": 7,
     "id": 286
   },
   {
     "fen": "2rq1rk1/1b3ppp/p2pp3/bp1n4/3PQ1N1/PP1B4/1BP2PPP/R4RK1 b - - 3 17",
     "solution": "d8h4 g4f6 d5f6 e4h4",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 5,
     "id": 287
   },
   {
     "fen": "r3q1r1/1ppn3k/p2p3b/3Pp1Bp/1PP1N2P/5P1Q/P7/2K2RR1 w - - 9 27",
     "solution": "e4f6 d7f6 g5h6 h7h6",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 288
   },
   {
     "fen": "2b5/8/6p1/1R6/3kP3/5PPn/8/3K4 w - - 1 54",
     "solution": "d1e2 c8a6 e2d2 a6b5",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 289
   },
   {
     "fen": "4k3/R5R1/5pKp/1Pp3r1/8/6P1/4p2P/8 w - - 3 53",
     "solution": "g6f6 g5g7 f6g7 e2e1q",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 290
   },
   {
     "fen": "4R3/6p1/5bk1/N6p/8/1P6/6PP/3r1K2 w - - 1 45",
     "solution": "e8e1 d1e1 f1e1 f6c3 e1d1 c3a5",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 291
   },
   {
     "fen": "5r1k/2p3p1/7p/p4N2/Pb1B1n2/3B1b2/1PP4P/R5K1 b - - 0 23",
     "solution": "f4d3 d4g7 h8h7 g7f8 b4f8 c2d3",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 4,
     "id": 292
   },
   {
     "fen": "rn1q2k1/p1pp2pB/1p2pb2/6NQ/3P4/2P5/PP3P2/R3K2b b Q - 5 20",
     "solution": "g8f8 h5f7",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 293
   },
   {
     "fen": "3Q4/5pk1/5P2/4K2p/P2P4/2q1p3/5r2/8 b - - 0 52",
     "solution": "g7g6 d8g8 g6h6 g8g7",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 5,
     "id": 294
   },
   {
     "fen": "5r1k/6p1/R3bn1p/8/1P6/P2PqB2/1B2P2P/6RK b - - 0 30",
     "solution": "h8h7 f3e4 h7h8 a6e6",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 295
   },
   {
     "fen": "4Q3/6bk/6pp/pp6/8/3qBP1P/PP6/K1R5 w - - 0 37",
     "solution": "a2a3 d3a3 a1b1 a3b2",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 296
   },
   {
     "fen": "1r1b1r2/3P2pk/7p/4R3/P6P/4RpP1/5P2/6K1 b - - 3 44",
     "solution": "b8b7 e5e8 f8g8 e8g8 h7g8 e3e8 g8f7 e8d8",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 5,
     "id": 297
   },
   {
     "fen": "Q3R3/1R3ppk/7p/8/2p5/2P5/1Pr4r/4K3 w - - 3 54",
     "solution": "b7f7 c2c1",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 298
   },
   {
     "fen": "6Rk/pp6/1bpN3p/4P1p1/7q/3Q3P/PP4P1/7K b - - 0 28",
     "solution": "h8g8 d3g6 g8h8 d6f7",
     "tag": "lichess puzzle",
-    "rep": 5,
+    "rep": 7,
     "id": 299
   },
   {
     "fen": "1k2r3/1p3ppp/3p4/2n5/1rPN4/1P3P2/P5PP/2KR1R2 w - - 1 23",
     "solution": "f1e1 e8e1 d1e1 c5d3 c1d2 d3e1",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 5,
     "id": 300
   },
   {
     "fen": "2rq1rk1/1b1n1p2/4p2Q/pn1pP2P/1p1P2NP/8/PP3PB1/R3R1K1 b - - 0 24",
     "solution": "d8h4 g4f6 d7f6 e5f6 h4f6 h6f6",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 5,
     "id": 301
   },
   {
     "fen": "5rk1/6bp/1p2p1p1/1Pp5/2P4q/4NQ1P/5PP1/1R4K1 w - - 0 32",
     "solution": "f3c6 h4f2 g1h1 f2e3",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 302
   },
   {
     "fen": "2r3k1/p4q2/4N1pQ/1p1nP3/3P4/8/5PP1/6KR b - - 0 32",
     "solution": "f7e6 h6h8 g8f7 h1h7",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 7,
     "id": 303
   },
   {
     "fen": "r3r1k1/1pqb1p1p/4p1nQ/p1bp3N/3p4/P2B1P2/1PP2P1P/R3R1K1 b - - 0 17",
     "solution": "c5f8 h5f6 g8h8 h6h7",
     "tag": "lichess puzzle",
-    "rep": 5,
+    "rep": 6,
     "id": 304
   },
   {
     "fen": "3r1rk1/pp4b1/2p2p2/5P1p/6n1/2N2B2/PPP1Q1Pq/3RR1K1 w - - 2 26",
     "solution": "g1f1 h2h1",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 305
   },
   {
     "fen": "r5k1/p2qppbp/1p1p1np1/2p5/2Pn4/P1NP2PP/1P2PP2/1RBQ1RK1 w - - 0 14",
     "solution": "e2e3 d7h3 e3d4 f6g4 d1g4 h3g4",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 306
   },
   {
     "fen": "4r1k1/p4pp1/7p/4P3/P2pB3/4n2P/1r4P1/2R1R2K b - - 0 29",
     "solution": "e8e5 c1c8 e5e8 c8e8",
     "tag": "lichess puzzle",
-    "rep": 5,
+    "rep": 6,
     "id": 307
   },
   {
     "fen": "8/8/8/pK3k2/P7/8/8/8 b - - 1 59",
     "solution": "f5e5 b5a5 e5d6 a5b6 d6d7 b6b7",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 308
   },
   {
     "fen": "2r2rk1/pp1b1pq1/4p1p1/6Q1/3p4/1P3R1P/P4PPB/R5K1 b - - 3 27",
     "solution": "d7c6 h2e5 g7e5 g5e5",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 309
   },
   {
     "fen": "7R/kb6/2pp1p2/4qP2/3pPN2/1QbP4/B1P5/2K5 w - - 1 38",
     "solution": "h8h7 e5f4 c1b1 f4f1",
     "tag": "lichess puzzle",
-    "rep": 5,
+    "rep": 6,
     "id": 310
   },
   {
     "fen": "r2qkb1r/1b3ppp/p1p1p3/2ppN3/4nPP1/1P2P3/PBPP3P/RN1QK2R w KQkq - 2 10",
     "solution": "d2d3 d8h4 e1f1 h4f2",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 311
   },
   {
     "fen": "1R6/4P1k1/6p1/6P1/2p1b3/2Pn2pP/r7/6K1 w - - 0 38",
     "solution": "e7e8q a2a1 b8b1 a1b1",
     "tag": "lichess puzzle",
-    "rep": 2,
+    "rep": 5,
     "id": 312
   },
   {
     "fen": "3k4/5p2/3Pb3/4P1p1/N7/4K3/8/8 b - - 9 54",
     "solution": "d8d7 a4c5 d7c6 c5e6",
     "tag": "lichess puzzle",
-    "rep": 5,
+    "rep": 7,
     "id": 313
   },
   {
     "fen": "r3k2r/1q3ppp/p1b1pn2/8/2BP2Q1/4P3/3N1PPP/R4RK1 w kq - 3 15",
     "solution": "g4g7 h8g8 g7g8 f6g8",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 314
   },
   {
     "fen": "4R3/p4kpp/6p1/7q/3P1r2/2P5/PP3P2/5QK1 w - - 0 43",
     "solution": "f1e2 f4g4 e2g4 h5g4",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 315
   },
   {
     "fen": "r1b2rk1/1p2bppp/pqnp4/3Np3/2B1PP2/PN6/1PP2nPP/R1BQ1R1K w - - 5 13",
     "solution": "h1g1 f2h3 g1h1 b6g1 f1g1 h3f2",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 316
   },
   {
     "fen": "6k1/1p4pp/p3r3/2b1r3/5N2/2P5/PP2n1PP/2B1RR1K w - - 4 26",
     "solution": "f4e6 e2g3 h2g3 e5h5",
     "tag": "lichess puzzle",
-    "rep": 5,
+    "rep": 6,
     "id": 317
   },
   {
     "fen": "4rrk1/pbp3pp/3q4/2P2p2/5b2/P1Q2N1P/6PN/R4R1K b - - 0 27",
     "solution": "d6c6 c3c4 f8f7 c4f4",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 318
   },
   {
@@ -3002,175 +3021,175 @@
       "exf8=Q+"
     ],
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 4,
     "id": 319
   },
   {
     "fen": "8/7p/8/5PK1/2b2BP1/8/2p5/3k4 b - - 6 54",
     "solution": "c4e2 f5f6 c2c1q f4c1",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 320
   },
   {
     "fen": "8/5kpp/1B1p4/P2P4/6PP/5p2/5P1K/r7 b - - 0 41",
     "solution": "f7f6 b6d4 f6e7 d4a1",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 321
   },
   {
     "fen": "r2q1rk1/5ppp/p3p1n1/1p2N2Q/3P4/2P5/P1B2PbP/2R2RK1 w - - 0 18",
     "solution": "g1g2 g6f4 g2h1 f4h5",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 322
   },
   {
     "fen": "r3r2k/pp1qbp1R/3p4/2p1p1Q1/4P3/P1NP1PP1/1PP3K1/R7 b - - 0 22",
     "solution": "h8h7 a1h1 d7h3 h1h3",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 323
   },
   {
     "fen": "8/p2R1pkp/1p1R4/8/4PP1K/2r3rP/P7/8 w - - 13 34",
     "solution": "d7a7 g3h3 h4g5 c3g3 g5f5 h3h5",
     "tag": "lichess puzzle",
-    "rep": 2,
+    "rep": 6,
     "id": 324
   },
   {
     "fen": "r2q1r1k/4b1p1/p3b2p/4B1pQ/2p1P3/1P1p3P/P2P1P2/2KR2R1 b - - 0 22",
     "solution": "c4b3 h5h6 h8g8 h6g7",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 325
   },
   {
     "fen": "4r2k/ppp5/6p1/3Bn1Np/3B1r2/3P4/PPP1K3/R7 w - - 0 29",
     "solution": "d4e5 e8e5 d5e4 e5g5",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 326
   },
   {
     "fen": "5rk1/n2P3p/1p2p1pQ/pP3p2/q3p1N1/8/5PPP/5RK1 b - - 0 34",
     "solution": "f5g4 h6f8 g8f8 d7d8q",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 327
   },
   {
     "fen": "r2qk2r/3pppb1/p5pp/1p1n4/3p3B/3P1Q2/PPP2PPP/R3RBK1 b kq - 1 14",
     "solution": "d5f6 h4f6 g7f6 f3f6",
     "tag": "lichess puzzle",
-    "rep": 5,
+    "rep": 7,
     "id": 328
   },
   {
     "fen": "6k1/8/2P1p1rp/1p1p4/1P1N4/2P2Pn1/1P4P1/1K3n2 b - - 0 35",
     "solution": "e6e5 c6c7 e5d4 c7c8q",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 329
   },
   {
     "fen": "r1b1k2r/ppb1qp2/2p3p1/3P1p1p/2N1nN1P/PB2PQ2/1P3PP1/2KR3R b kq - 0 16",
     "solution": "e8g8 d5d6 e4d6 c4d6",
     "tag": "lichess puzzle",
-    "rep": 2,
+    "rep": 4,
     "id": 330
   },
   {
     "fen": "2rr2k1/1p3pp1/p4q1p/8/1P2P3/P2B4/6Q1/R2R3K w - - 1 31",
     "solution": "d1f1 f6h4 g2h2 h4h2 h1h2 d8d3",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 331
   },
   {
     "fen": "2kr1b1r/pbp5/1pn1q1pp/3p1p2/3P4/P1P1BQ1B/1P3P1P/R3K1R1 b Q - 1 18",
     "solution": "g6g5 h3f5 e6f5 f3f5",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 332
   },
   {
     "fen": "8/p2r1k1p/8/8/4P3/3p2P1/PP3K1P/3B4 b - - 3 32",
     "solution": "f7e6 d1g4 e6e5 g4d7",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 333
   },
   {
     "fen": "8/1n6/1P3N2/3p3k/pP3p2/P4Kp1/8/8 b - - 1 60",
     "solution": "h5h4 f6d5 g3g2 f3g2",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 334
   },
   {
     "fen": "8/6k1/2bb2pp/4pp2/4P1P1/3BBPKP/8/8 w - - 0 38",
     "solution": "e4f5 e5e4 f3f4 e4d3",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 335
   },
   {
     "fen": "6k1/8/6pr/5p2/1P1R1P2/8/3K4/8 b - - 0 47",
     "solution": "h6h7 d4d8 g8f7 d8d7",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 336
   },
   {
     "fen": "4r1k1/pp2rp1p/5Rp1/1q6/8/1P4Q1/P4PPP/5RK1 w - - 1 22",
     "solution": "a2a4 b5f1 g1f1 e7e1",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 337
   },
   {
     "fen": "8/pp6/2q1r1kp/P4p2/2p2Q2/2P3P1/5P1K/3R4 b - - 5 35",
     "solution": "e6e4 d1d6 c6d6 f4d6",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 338
   },
   {
     "fen": "5r2/3b4/2p3k1/2p3r1/4p2p/PPP5/4RPNK/4R3 b - - 2 41",
     "solution": "f8f3 g2h4 g6f6 h4f3",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 7,
     "id": 339
   },
   {
     "fen": "4qr2/1p1R4/p2Q2pk/4P2p/3P1n1P/8/PP5K/8 b - - 0 35",
     "solution": "e8e6 d6f8",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 340
   },
   {
     "fen": "r4rk1/2p1q1p1/b2pP2p/p2P1p2/Pp1B1Pn1/3Q2R1/BP4PP/4R1K1 w - - 2 25",
     "solution": "d3c2 e7h4 h2h3 h4g3",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 341
   },
   {
     "fen": "r2q1k1r/pppN1p2/3pb2p/6p1/2nQ4/8/PPP2PPP/R4RK1 b - - 5 16",
     "solution": "d8d7 d4h8 f8e7 h8a8",
     "tag": "lichess puzzle",
-    "rep": 5,
+    "rep": 7,
     "id": 342
   },
   {
     "fen": "1k3r2/pp2b2Q/3p2p1/5nB1/3q4/8/PP3PPP/2R3K1 b - - 1 23",
     "solution": "e7g5 h7c7 b8a8 c7c8 f8c8 c1c8",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 343
   },
   {
@@ -3190,231 +3209,231 @@
       "Qg2#"
     ],
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 344
   },
   {
     "fen": "8/5p2/3Q4/6pk/PP4qp/6P1/5PKP/8 w - - 2 48",
     "solution": "d6c5 h4h3 g2f1 g4d1",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 345
   },
   {
     "fen": "4r1k1/1p1r1pp1/p6p/3p2q1/PPnB4/4PQ2/2R2PPP/2R3K1 b - - 0 24",
     "solution": "e8e4 c2c4 d5c4 f3e4",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 346
   },
   {
     "fen": "r1b2r1k/5pp1/p3p1B1/1p1p2p1/3q4/P7/1PQ2PK1/7R b - - 3 28",
     "solution": "h8g8 g6h7 g8h8 h7g8 d4h4 h1h4 g5h4 c2h7",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 347
   },
   {
     "fen": "3rr1k1/p6p/2Q2pp1/5b2/1P6/2P5/P2NqPPP/R1KR4 b - - 0 25",
     "solution": "d8d2 d1d2 e2e1 d2d1",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 348
   },
   {
     "fen": "4q1k1/pppb1p1p/3p2pb/3P4/2PQ1P2/2B2BP1/PP5P/6K1 b - - 1 24",
     "solution": "h6g7 d4g7",
     "tag": "lichess puzzle",
-    "rep": 2,
+    "rep": 5,
     "id": 349
   },
   {
     "fen": "r4r1k/ppp1q1pp/6N1/5Q2/2B5/2P5/P1P2PPP/2KR4 b - - 2 21",
     "solution": "h7g6 f5h3 e7h4 h3h4",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 350
   },
   {
     "fen": "4r1k1/pp4n1/2p2Q2/2P5/P2P1P2/2q5/2P3R1/6K1 b - - 1 30",
     "solution": "e8e1 g1h2 e1e7 f6e7",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 351
   },
   {
     "fen": "r1b2rk1/ppp2ppp/3p4/4q3/P7/3BP2P/1PPQ1PP1/1R2K2R b K - 1 14",
     "solution": "e5d5 d3h7 g8h7 d2d5",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 352
   },
   {
     "fen": "1r4k1/7p/p5p1/1b1Q4/2R5/7P/1q3PP1/6K1 b - - 1 38",
     "solution": "g8g7 c4c7 g7h8 d5f7 b2a1 g1h2",
     "tag": "lichess puzzle",
-    "rep": 2,
+    "rep": 6,
     "id": 353
   },
   {
     "fen": "8/4r1pk/R6p/4p1P1/3pn2P/8/6K1/8 b - - 0 44",
     "solution": "e4c3 g5g6 h7h8 a6a8 e7e8 a8e8",
     "tag": "lichess puzzle",
-    "rep": 5,
+    "rep": 7,
     "id": 354
   },
   {
     "fen": "7r/1p6/2p3R1/2PpR3/5b1k/6P1/p4P1K/8 b - - 0 39",
     "solution": "f4g3 f2g3",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 355
   },
   {
     "fen": "r1b1k2r/pppp1ppp/6n1/3Pp3/1bP1P3/2N1BPP1/PPQ1B1P1/R4KNq b kq - 1 11",
     "solution": "d7d6 c2a4 c8d7 a4b4",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 356
   },
   {
     "fen": "r4k2/5ppp/1pN5/1P1N4/8/4P1P1/pr3P1P/R5K1 w - - 1 32",
     "solution": "c6b4 b2b1 g1g2 b1a1",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 357
   },
   {
     "fen": "1r4r1/p1kq1p2/3pb3/p2Bp2p/2P3np/P1QPP1P1/5P2/1R2R1K1 b - - 4 23",
     "solution": "e6d5 c4d5 c7d8 b1b8",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 358
   },
   {
     "fen": "7R/p5pk/1p1Np2p/4qp2/8/6P1/PP3PP1/1Br1nRK1 b - - 5 30",
     "solution": "h7h8 d6f7 h8g8 f7e5",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 359
   },
   {
     "fen": "r3k2r/ppp1qppp/2np4/2b1p3/2P1P1b1/3P1N2/PP2BPPP/R1BQK2R b KQkq - 2 8",
     "solution": "c6d4 f3d4 c5d4 e2g4",
     "tag": "lichess puzzle",
-    "rep": 5,
+    "rep": 6,
     "id": 360
   },
   {
     "fen": "7k/p6p/1p6/2b5/1P1pBPq1/3Q4/P6P/7K b - - 2 30",
     "solution": "c5d6 d3d4 g4g7 d4d6 g7a1 h1g2",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 4,
     "id": 361
   },
   {
     "fen": "r5k1/pp5p/2pN2p1/2P1n3/5Pq1/1P5b/P4RB1/Q5K1 b - - 2 24",
     "solution": "a8f8 a1e5 h3g2 f2g2",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 362
   },
   {
     "fen": "1r3r1k/ppp2pp1/8/8/1nP5/1P5R/PbBq1PPP/1Q4K1 b - - 1 20",
     "solution": "h8g8 c2h7 g8h8 h7g8 d2h6 h3h6 g7h6 b1h7",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 5,
     "id": 363
   },
   {
     "fen": "8/pb3k1p/1p3pp1/1N6/4nP2/6P1/P5BP/5K2 b - - 3 28",
     "solution": "a7a6 g2e4 b7e4 b5d6 f7e6 d6e4",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 364
   },
   {
     "fen": "r2q1k2/pppb2pQ/4p2r/4Rn1P/2PP4/2KB1R2/PP3PP1/8 w - - 5 26",
     "solution": "e5f5 e6f5 f3f5 d7f5",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 365
   },
   {
     "fen": "r4rk1/p4ppp/b4b2/3q4/8/P3P2P/R1PNNPP1/3Q1RK1 w - - 2 18",
     "solution": "d2b3 d5d1 f1d1 a6e2",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 7,
     "id": 366
   },
   {
     "fen": "8/6k1/6b1/1p2q3/8/7p/2PQ2P1/5R1K w - - 0 64",
     "solution": "g2h3 g6e4 d2g2 e4g2",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 367
   },
   {
     "fen": "r1b1k1n1/p2p1p2/2p5/q5bQ/4P3/6B1/PPP3P1/RN2KB2 w Qq - 1 13",
     "solution": "c2c3 g5d2 b1d2 a5h5",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 5,
     "id": 368
   },
   {
     "fen": "8/p3R2p/1p3pk1/6p1/3r1nPq/1BQ4P/PP3P1K/8 w - - 2 34",
     "solution": "c3d4 h4h3 h2g1 h3g2",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 5,
     "id": 369
   },
   {
     "fen": "3q1k2/1Q2b1p1/1pP2n2/p4PB1/P2p4/8/5PPP/6K1 b - - 4 34",
     "solution": "d4d3 c6c7 d8c7 b7c7",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 5,
     "id": 370
   },
   {
     "fen": "4R3/6p1/6pp/Bp1kn3/2p3PP/2P3K1/1r6/8 b - - 8 41",
     "solution": "b2d2 e8d8 d5c6 d8d2",
     "tag": "lichess puzzle",
-    "rep": 3,
+    "rep": 6,
     "id": 371
   },
   {
     "fen": "r1b1k2r/pp1p1ppp/1qn1pB2/8/4P3/5N2/PPPN1bPP/R2QKB1R w KQkq - 0 9",
     "solution": "e1e2 b6e3",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 372
   },
   {
     "fen": "1k1r4/ppp2pb1/4b2p/5qp1/1P3p2/3r1N2/1P3QPP/R1B1R1K1 b - - 2 22",
     "solution": "d3d1 f2a7 b8c8 a7a8 c8d7 e1d1",
     "tag": "lichess puzzle",
-    "rep": 2,
+    "rep": 5,
     "id": 373
   },
   {
     "fen": "5k2/pp3p1p/1n4p1/5bN1/8/1BP4P/Pr3PP1/4R1K1 b - - 3 23",
     "solution": "f7f6 g5h7 f8g7 e1e7",
     "tag": "lichess puzzle",
-    "rep": 4,
+    "rep": 6,
     "id": 374
   },
   {
     "fen": "k2r1r2/3bRp1p/p2N1p2/1p1P4/3Q1P2/q1PK4/6PP/4R3 w - - 1 27",
     "solution": "Qb6  Qxd6  Qxd6  Bf5+  Kd4  Rxd6 ",
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 4,
     "id": 375
   },
   {
     "fen": "r1bqkb1r/2pp1ppp/p5n1/1p6/3pP3/1BP5/PP3PPP/RNBQ1RK1 b kq - 0 9",
     "solution": "dxc3  Qd5  Qf6  Qxa8 ",
     "tag": "chesstempo",
-    "rep": 3,
+    "rep": 4,
     "id": 376
   },
   {
@@ -3428,7 +3447,7 @@
     "fen": "3k3r/2p2ppp/p1B5/2bP4/Pr5q/1nN2QN1/1P1P2PP/3R3K w - - 1 23",
     "solution": "Re1  Qxh2+  Kxh2  Rh4# ",
     "tag": "chesstempo",
-    "rep": 3,
+    "rep": 4,
     "id": 378
   },
   {
@@ -3449,21 +3468,21 @@
     "fen": "6k1/3p2p1/p1b1p2p/P1P2r2/5p2/r4P1P/3B2PK/5Q2 w - - 1 38",
     "solution": "Qxa6  Ra2  Qc4  Rxd2 ",
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 381
   },
   {
     "fen": "6k1/3b1p1p/4p1q1/3pP2P/1p1N1QP1/1n5R/r1r3B1/1K1R4 w - - 0 27",
     "solution": "Rxb3  Rcb2+  Kc1  Qb1# ",
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 382
   },
   {
     "fen": "2r1rn2/1q4pk/2p2p1p/1p5Q/3RP2P/1B3P2/1P4P1/2R4K b - - 0 34",
     "solution": "Ne6  Bxe6  Rxe6  Qf5+  Kh8  Qxe6 ",
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 383
   },
   {
@@ -3506,7 +3525,7 @@
     "fen": "5r2/1pR2r1k/pN1p1q1n/3Pp1p1/1P2P2p/3BQ1nP/P5P1/2R3K1 b - - 3 30",
     "solution": "g4  Nd7  Rxd7  Rxd7+ ",
     "tag": "chesstempo",
-    "rep": 4,
+    "rep": 5,
     "id": 387
   },
   {
@@ -3520,21 +3539,21 @@
     "fen": "1r3br1/p2b1p1k/2n1n2p/2ppPN2/7P/3q1N2/P2B1RBQ/4R1K1 w - - 0 30",
     "solution": "Ng5+  Nxg5  hxg5  Bxf5 ",
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 389
   },
   {
     "fen": "r1r3k1/1b1qbppp/4p3/3p2PQ/pn1BPP2/1NNP1R2/1P5P/3R2K1 b - - 1 24",
     "solution": "g6  Qxh7+  Kxh7  Rh3+  Kg8  Rh8# ",
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 390
   },
   {
     "fen": "r1b4k/5q1p/p3R1p1/1p2b3/4P3/PQN2P1P/1P3P2/5RK1 w - - 1 25",
     "solution": "Qd5  Qxe6  Qxe6  Bxe6 ",
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 391
   },
   {
@@ -3555,28 +3574,28 @@
     "fen": "6k1/p6p/8/3PQ1p1/7K/2B1b1P1/PP5P/5q2 w - - 0 40",
     "solution": "Kg4  h5+  Kxh5  Qh3+  Kg6  Qh7+  Kf6  Qf7# ",
     "tag": "chesstempo",
-    "rep": 3,
+    "rep": 4,
     "id": 394
   },
   {
     "fen": "5r1k/pp6/3p3p/2pP2n1/P1q1P2P/2N1P3/1P4Q1/2K3R1 b - h3 0 28",
     "solution": "Qd3  hxg5  Qxe3+  Kb1 ",
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 395
   },
   {
     "fen": "4rrk1/1bqnQpbp/4pnp1/BB2N3/5P2/R7/1PP2NPP/5R1K b - - 0 23",
     "solution": "Qxa5  Qxf8+  Rxf8  Rxa5  Nxe5  fxe5 ",
     "tag": "chesstempo",
-    "rep": 1,
+    "rep": 2,
     "id": 396
   },
   {
     "fen": "7k/8/1pq3p1/p3p2p/PbP1r3/2R3P1/1PQ2B1P/6K1 w - - 4 37",
     "solution": "Re3  Rxc4  Rc3  Bxc3  bxc3 ",
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 397
   },
   {
@@ -3597,28 +3616,28 @@
     "fen": "3R4/1p2nkp1/1p1n1p1p/1P6/P2N4/6NP/5PPK/4r3 b - - 3 29",
     "solution": "Ne4  Nf3  Nxg3  Nxe1 ",
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 400
   },
   {
     "fen": "2r3k1/8/p6q/PP1P2p1/3BQp1r/1P1B3b/7b/R1R4K b - - 2 39",
     "solution": "f3  Rxc8+  Bxc8  Qe8+  Qf8  Qg6+  Qg7  Qxg7# ",
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 401
   },
   {
     "fen": "8/5R2/6p1/2BP3q/1PP3p1/3kr3/5P2/6K1 w - - 0 40",
     "solution": "Bxe3  g3  fxg3  Kxe3 ",
     "tag": "chesstempo",
-    "rep": 3,
+    "rep": 4,
     "id": 402
   },
   {
     "fen": "8/8/2k1p3/3pPp1p/5b2/4BN2/5PK1/8 b - - 21 59",
     "solution": "Bxe3  fxe3  d4  exd4 ",
     "tag": "chesstempo",
-    "rep": 3,
+    "rep": 4,
     "id": 403
   },
   {
@@ -3639,7 +3658,7 @@
     "fen": "5rk1/P1N1p2p/3p4/3P2p1/1N2n3/4n3/4P3/4R1K1 b - - 0 40",
     "solution": "Rf2  a8=Q+  Kg7  Ne6+  Kh6  Qf8+  Rxf8  Nxf8 ",
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 406
   },
   {
@@ -3653,21 +3672,21 @@
     "fen": "8/7R/3pk3/p1p1p3/2P1Pp2/1PNK1n2/P5r1/8 w - - 2 42",
     "solution": "Nd5  Ne1+  Kc3  Rc2# ",
     "tag": "chesstempo",
-    "rep": 3,
+    "rep": 4,
     "id": 408
   },
   {
     "fen": "r4k2/3R4/4PNp1/p1p3r1/1p6/1P6/PKP5/8 b - - 0 39",
     "solution": "Re5  Rf7# ",
     "tag": "chesstempo",
-    "rep": 3,
+    "rep": 4,
     "id": 409
   },
   {
     "fen": "R7/PB3ppk/5n1p/1r6/3np3/3N2P1/5PKP/8 b - - 0 34",
     "solution": "Rxb7  Rh8+  Kxh8  a8=Q+  Kh7  Qxb7  exd3 ",
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 410
   },
   {
@@ -3681,21 +3700,21 @@
     "fen": "3r2k1/pp3ppp/2pb1n2/4qPQ1/6P1/8/PR3PBP/5RK1 w - - 1 24",
     "solution": "Rfb1  Qxh2+  Kf1  Bf4  Qh5  Nxh5  gxh5 ",
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 412
   },
   {
     "fen": "8/1n6/8/PK3p1p/6kP/6P1/4N1P1/8 b - - 0 49",
     "solution": "Nxa5  Kxa5  f4  gxf4 ",
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 413
   },
   {
     "fen": "7R/kr4p1/2p2pP1/2p1pP2/p1P1P3/P2P4/1p2BK2/1Qq5 w - - 4 66",
     "solution": "Rh1  Qxh1  Qxh1  b1=Q ",
     "tag": "chesstempo",
-    "rep": 3,
+    "rep": 4,
     "id": 414
   },
   {
@@ -3713,7 +3732,7 @@
       "Rxf8#"
     ],
     "tag": "chesstempo",
-    "rep": 3,
+    "rep": 4,
     "id": 415
   },
   {
@@ -3734,14 +3753,14 @@
     "fen": "r1b3r1/1p3k2/1Bnbpp2/p1Nn2pp/3P4/PP3NPP/5P2/1R2RBK1 w - - 0 30",
     "solution": "Bc4  Nxb6  Bxe6+  Bxe6  Nxe6 ",
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 418
   },
   {
     "fen": "3r1r2/1p3pk1/pR1p2pn/P1nPp1q1/4P3/4P1NQ/2P2N1P/5RK1 b - - 4 26",
     "solution": "Qxe3  Nh5+  gxh5  Qxe3 ",
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 419
   },
   {
@@ -3755,7 +3774,7 @@
     "fen": "4r2k/ppp5/6p1/q7/1Q1N4/2K1PP1P/r4P2/3R3R b - - 4 27",
     "solution": "c5  Qxa5  cxd4+  Kb4  Rxa5  Kxa5 ",
     "tag": "chesstempo",
-    "rep": 3,
+    "rep": 4,
     "id": 421
   },
   {
@@ -3769,14 +3788,14 @@
     "fen": "4r2k/pp4b1/1q5p/5p2/5P2/3p4/P2Q2PP/3RN1K1 w - - 0 31",
     "solution": "Kf1  Re2  Qxe2  dxe2+ ",
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 423
   },
   {
     "fen": "r3k2r/p2p1ppp/3bq3/2p5/4b3/P1BB4/1P4PP/R2Q1RK1 b kq - 3 17",
     "solution": "O-O  Bxe4  Bxh2+  Kxh2  Qxe4 ",
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 424
   },
   {
@@ -3788,7 +3807,7 @@
       "Ra6+ "
     ],
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 425
   },
   {
@@ -3800,7 +3819,7 @@
       "Be4# "
     ],
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 426
   },
   {
@@ -3822,7 +3841,7 @@
       "Qxd8 "
     ],
     "tag": "chesstempo",
-    "rep": 3,
+    "rep": 4,
     "id": 428
   },
   {
@@ -3834,7 +3853,7 @@
       "Rxb3 "
     ],
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 429
   },
   {
@@ -3846,7 +3865,7 @@
       "Rxe5 "
     ],
     "tag": "chesstempo",
-    "rep": 1,
+    "rep": 2,
     "id": 430
   },
   {
@@ -3860,7 +3879,7 @@
       "Rxa6 "
     ],
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 431
   },
   {
@@ -3874,7 +3893,7 @@
       "Kxb2 "
     ],
     "tag": "chesstempo",
-    "rep": 3,
+    "rep": 4,
     "id": 432
   },
   {
@@ -3888,7 +3907,7 @@
       "Bxe4 "
     ],
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 433
   },
   {
@@ -3914,7 +3933,7 @@
       "Nxd2 "
     ],
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 435
   },
   {
@@ -3942,7 +3961,7 @@
       "exf6 "
     ],
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 437
   },
   {
@@ -3954,7 +3973,7 @@
       "exd4 "
     ],
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 438
   },
   {
@@ -3966,7 +3985,7 @@
       "Bxe6 "
     ],
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 439
   },
   {
@@ -3980,7 +3999,7 @@
       "gxf5"
     ],
     "tag": "chesstempo",
-    "rep": 1,
+    "rep": 2,
     "id": 440
   },
   {
@@ -3998,7 +4017,7 @@
       "Rxd8#"
     ],
     "tag": "chesstempo",
-    "rep": 3,
+    "rep": 4,
     "id": 441
   },
   {
@@ -4010,7 +4029,7 @@
       "Bxb3 "
     ],
     "tag": "chesstempo",
-    "rep": 3,
+    "rep": 4,
     "id": 442
   },
   {
@@ -4024,7 +4043,7 @@
       "Rxb1 "
     ],
     "tag": "chesstempo",
-    "rep": 3,
+    "rep": 4,
     "id": 443
   },
   {
@@ -4038,7 +4057,7 @@
       "Qxe5 "
     ],
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 444
   },
   {
@@ -4062,7 +4081,7 @@
       "Qh2# "
     ],
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 446
   },
   {
@@ -4088,7 +4107,7 @@
       "Bxa6 "
     ],
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 448
   },
   {
@@ -4102,7 +4121,7 @@
       "Bxg8 "
     ],
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 449
   },
   {
@@ -4114,7 +4133,7 @@
       "Nxc3 "
     ],
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 450
   },
   {
@@ -4126,7 +4145,7 @@
       "Qf2# "
     ],
     "tag": "chesstempo",
-    "rep": 3,
+    "rep": 4,
     "id": 451
   },
   {
@@ -4153,7 +4172,7 @@
       "Qxh6# "
     ],
     "tag": "chesstempo",
-    "rep": 3,
+    "rep": 4,
     "id": 453
   },
   {
@@ -4165,7 +4184,7 @@
       "Rh5# "
     ],
     "tag": "chesstempo",
-    "rep": 3,
+    "rep": 4,
     "id": 454
   },
   {
@@ -4177,7 +4196,7 @@
       "Rxa7 "
     ],
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 455
   },
   {
@@ -4230,7 +4249,7 @@
       "Nxc1 "
     ],
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 459
   },
   {
@@ -4244,7 +4263,7 @@
       "Rxa3 "
     ],
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 460
   },
   {
@@ -4256,7 +4275,7 @@
       "Qxg5 "
     ],
     "tag": "chesstempo",
-    "rep": 1,
+    "rep": 2,
     "id": 461
   },
   {
@@ -4268,7 +4287,7 @@
       "Nxe5 "
     ],
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 462
   },
   {
@@ -4280,7 +4299,7 @@
       "Rxd2 "
     ],
     "tag": "chesstempo",
-    "rep": 1,
+    "rep": 2,
     "id": 463
   },
   {
@@ -4309,7 +4328,7 @@
       "Kg8 "
     ],
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 465
   },
   {
@@ -4321,7 +4340,7 @@
       "Bxb5 "
     ],
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 466
   },
   {
@@ -4333,7 +4352,7 @@
       "Rxd1 "
     ],
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 467
   },
   {
@@ -4346,7 +4365,7 @@
       "Rxf1 "
     ],
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 468
   },
   {
@@ -4357,7 +4376,7 @@
       "Qxf1 "
     ],
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 469
   },
   {
@@ -4369,7 +4388,7 @@
       "Qxg5 "
     ],
     "tag": "chesstempo",
-    "rep": 3,
+    "rep": 4,
     "id": 470
   },
   {
@@ -4383,7 +4402,7 @@
       "Rxf7 "
     ],
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 471
   },
   {
@@ -4397,7 +4416,7 @@
       "Qxf1+ "
     ],
     "tag": "chesstempo",
-    "rep": 3,
+    "rep": 4,
     "id": 472
   },
   {
@@ -4411,7 +4430,7 @@
       "exf6 "
     ],
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 473
   },
   {
@@ -4423,7 +4442,7 @@
       "Rxb6 "
     ],
     "tag": "chesstempo",
-    "rep": 2,
+    "rep": 3,
     "id": 474
   },
   {
@@ -4434,7 +4453,7 @@
       "Rxc8#"
     ],
     "tag": "Polgar 2",
-    "rep": 5,
+    "rep": 7,
     "id": 475
   },
   {
@@ -4445,7 +4464,7 @@
       "Nxe7"
     ],
     "tag": "Polgar 2",
-    "rep": 5,
+    "rep": 6,
     "id": 476
   },
   {
@@ -4458,7 +4477,7 @@
       "Nxd1"
     ],
     "tag": "Polgar 2",
-    "rep": 5,
+    "rep": 6,
     "id": 477
   },
   {
@@ -4471,7 +4490,7 @@
       "Nxc8"
     ],
     "tag": "Polgar 2",
-    "rep": 5,
+    "rep": 6,
     "id": 478
   },
   {
@@ -4497,7 +4516,7 @@
       "exf7"
     ],
     "tag": "Polgar 2",
-    "rep": 5,
+    "rep": 7,
     "id": 480
   },
   {
@@ -4508,7 +4527,7 @@
       "Rxc6"
     ],
     "tag": "Polgar 2",
-    "rep": 4,
+    "rep": 5,
     "id": 481
   },
   {
@@ -4519,7 +4538,7 @@
       "Qh7#"
     ],
     "tag": "Polgar 2",
-    "rep": 4,
+    "rep": 5,
     "id": 482
   },
   {
@@ -4532,7 +4551,7 @@
       "Bxa8"
     ],
     "tag": "Polgar 2",
-    "rep": 5,
+    "rep": 6,
     "id": 483
   },
   {
@@ -4543,7 +4562,7 @@
       "Bf8#"
     ],
     "tag": "Polgar 2",
-    "rep": 5,
+    "rep": 6,
     "id": 484
   },
   {
@@ -4556,7 +4575,7 @@
       "Nxg6+"
     ],
     "tag": "Polgar 2",
-    "rep": 4,
+    "rep": 5,
     "id": 485
   },
   {
@@ -4567,7 +4586,7 @@
       "Bxb7"
     ],
     "tag": "Polgar 2",
-    "rep": 5,
+    "rep": 6,
     "id": 486
   },
   {
@@ -4580,7 +4599,7 @@
       "Rxa4"
     ],
     "tag": "Polgar 2",
-    "rep": 3,
+    "rep": 5,
     "id": 487
   },
   {
@@ -4593,7 +4612,7 @@
       "Bxb4"
     ],
     "tag": "Polgar 2",
-    "rep": 3,
+    "rep": 5,
     "id": 488
   },
   {
@@ -4606,7 +4625,7 @@
       "Rxg6"
     ],
     "tag": "Polgar 2",
-    "rep": 4,
+    "rep": 5,
     "id": 489
   },
   {
@@ -4617,7 +4636,7 @@
       "Kf5#"
     ],
     "tag": "Polgar 2",
-    "rep": 4,
+    "rep": 5,
     "id": 490
   },
   {
@@ -4630,7 +4649,7 @@
       "Rxh7+"
     ],
     "tag": "Polgar 2",
-    "rep": 4,
+    "rep": 5,
     "id": 491
   },
   {
@@ -4641,7 +4660,7 @@
       "hxg3#"
     ],
     "tag": "Polgar 2",
-    "rep": 4,
+    "rep": 5,
     "id": 492
   },
   {
@@ -4654,7 +4673,7 @@
       "Nxc7"
     ],
     "tag": "Polgar 2",
-    "rep": 3,
+    "rep": 4,
     "id": 493
   },
   {
@@ -4667,7 +4686,7 @@
       "Qxd7"
     ],
     "tag": "Polgar 2",
-    "rep": 4,
+    "rep": 5,
     "id": 494
   },
   {
@@ -4678,7 +4697,7 @@
       "Qh8#"
     ],
     "tag": "Polgar 2",
-    "rep": 5,
+    "rep": 6,
     "id": 495
   },
   {
@@ -4691,7 +4710,7 @@
       "Qxd4"
     ],
     "tag": "Polgar 2",
-    "rep": 3,
+    "rep": 5,
     "id": 496
   },
   {
@@ -4704,7 +4723,7 @@
       "Qh7#"
     ],
     "tag": "Polgar 2",
-    "rep": 4,
+    "rep": 6,
     "id": 497
   },
   {
@@ -4719,7 +4738,7 @@
       "Rxf3"
     ],
     "tag": "Polgar 2",
-    "rep": 4,
+    "rep": 6,
     "id": 498
   },
   {
@@ -4734,7 +4753,7 @@
       "Nxg3#"
     ],
     "tag": "Polgar 2",
-    "rep": 3,
+    "rep": 4,
     "id": 499
   },
   {
@@ -4749,7 +4768,7 @@
       "Rxg4#"
     ],
     "tag": "Polgar 2",
-    "rep": 3,
+    "rep": 4,
     "id": 500
   },
   {
@@ -4764,7 +4783,7 @@
       "Rxg7#"
     ],
     "tag": "Polgar 2",
-    "rep": 5,
+    "rep": 6,
     "id": 501
   },
   {
@@ -4779,7 +4798,7 @@
       "exd7"
     ],
     "tag": "Polgar 2",
-    "rep": 3,
+    "rep": 5,
     "id": 502
   },
   {
@@ -4798,7 +4817,7 @@
       "Rxf8#"
     ],
     "tag": "Polgar 2",
-    "rep": 4,
+    "rep": 6,
     "id": 503
   },
   {
@@ -4823,7 +4842,7 @@
       "Rxh4"
     ],
     "tag": "Polgar 2",
-    "rep": 3,
+    "rep": 5,
     "id": 504
   },
   {
@@ -4833,8 +4852,8 @@
       "Kg8",
       "Rh8#"
     ],
-    "tag": "Polgar 3",
-    "rep": 5,
+    "tag": "Polgar 2",
+    "rep": 6,
     "id": 505
   },
   {
@@ -4844,8 +4863,8 @@
       "Ka8",
       "Nc7#"
     ],
-    "tag": "Polgar 3",
-    "rep": 4,
+    "tag": "Polgar 2",
+    "rep": 5,
     "id": 506
   },
   {
@@ -4855,8 +4874,8 @@
       "Kh6",
       "Rh8#"
     ],
-    "tag": "Polgar 3",
-    "rep": 3,
+    "tag": "Polgar 2",
+    "rep": 5,
     "id": 507
   },
   {
@@ -4868,8 +4887,8 @@
       "Kg7",
       "Nxd7"
     ],
-    "tag": "Polgar 3",
-    "rep": 3,
+    "tag": "Polgar 2",
+    "rep": 5,
     "id": 508
   },
   {
@@ -4881,7 +4900,7 @@
       "Kc7",
       "Bd8#"
     ],
-    "tag": "Polgar 3",
+    "tag": "Polgar 2",
     "rep": 5,
     "id": 509
   },
@@ -4896,8 +4915,8 @@
       "Kg1",
       "Rh1#"
     ],
-    "tag": "Polgar 3",
-    "rep": 3,
+    "tag": "Polgar 2",
+    "rep": 5,
     "id": 510
   },
   {
@@ -4907,8 +4926,8 @@
       "Ke8",
       "Rf8#"
     ],
-    "tag": "Polgar 3",
-    "rep": 2,
+    "tag": "Polgar 2",
+    "rep": 4,
     "id": 511
   },
   {
@@ -4918,8 +4937,8 @@
       "Kd8",
       "Qe8#"
     ],
-    "tag": "Polgar 3",
-    "rep": 2,
+    "tag": "Polgar 2",
+    "rep": 4,
     "id": 512
   },
   {
@@ -4929,8 +4948,8 @@
       "Ka8",
       "Rb8#"
     ],
-    "tag": "Polgar 3",
-    "rep": 3,
+    "tag": "Polgar 2",
+    "rep": 4,
     "id": 513
   },
   {
@@ -4940,8 +4959,8 @@
       "Ke7",
       "Nf5#"
     ],
-    "tag": "Polgar 3",
-    "rep": 2,
+    "tag": "Polgar 2",
+    "rep": 5,
     "id": 514
   },
   {
@@ -4951,8 +4970,8 @@
       "Kf7",
       "Nxh8#"
     ],
-    "tag": "Polgar 3",
-    "rep": 2,
+    "tag": "Polgar 2",
+    "rep": 6,
     "id": 515
   },
   {
@@ -4962,8 +4981,8 @@
       "Kh7",
       "Qg7#"
     ],
-    "tag": "Polgar 3",
-    "rep": 2,
+    "tag": "Polgar 2",
+    "rep": 4,
     "id": 516
   },
   {
@@ -4973,8 +4992,8 @@
       "Ke1",
       "Nc2#"
     ],
-    "tag": "Polgar 3",
-    "rep": 2,
+    "tag": "Polgar 2",
+    "rep": 4,
     "id": 517
   },
   {
@@ -4986,8 +5005,8 @@
       "Kb7",
       "Nxc3"
     ],
-    "tag": "Polgar 3",
-    "rep": 2,
+    "tag": "Polgar 2",
+    "rep": 4,
     "id": 518
   },
   {
@@ -4997,8 +5016,8 @@
       "Kh8",
       "Rc8#"
     ],
-    "tag": "Polgar 3",
-    "rep": 3,
+    "tag": "Polgar 2",
+    "rep": 4,
     "id": 519
   },
   {
@@ -5010,8 +5029,8 @@
       "Kc6",
       "Nxe4"
     ],
-    "tag": "Polgar 3",
-    "rep": 4,
+    "tag": "Polgar 2",
+    "rep": 5,
     "id": 520
   },
   {
@@ -5023,8 +5042,8 @@
       "Ke7",
       "Rxh8"
     ],
-    "tag": "Polgar 3",
-    "rep": 3,
+    "tag": "Polgar 2",
+    "rep": 4,
     "id": 521
   },
   {
@@ -5034,8 +5053,8 @@
       "Kxb7",
       "c8=Q#"
     ],
-    "tag": "Polgar 3",
-    "rep": 3,
+    "tag": "Polgar 2",
+    "rep": 5,
     "id": 522
   },
   {
@@ -5045,8 +5064,8 @@
       "Ka8",
       "Qxc5"
     ],
-    "tag": "Polgar 3",
-    "rep": 2,
+    "tag": "Polgar 2",
+    "rep": 4,
     "id": 523
   },
   {
@@ -5056,8 +5075,8 @@
       "Kxe8",
       "Rf8#"
     ],
-    "tag": "Polgar 3",
-    "rep": 3,
+    "tag": "Polgar 2",
+    "rep": 4,
     "id": 524
   },
   {
@@ -5067,8 +5086,8 @@
       "Bxf8",
       "Ng7#"
     ],
-    "tag": "Polgar 3",
-    "rep": 3,
+    "tag": "Polgar 2",
+    "rep": 5,
     "id": 525
   },
   {
@@ -5078,8 +5097,8 @@
       "Kc8",
       "Rb8#"
     ],
-    "tag": "Polgar 3",
-    "rep": 3,
+    "tag": "Polgar 2",
+    "rep": 4,
     "id": 526
   },
   {
@@ -5091,8 +5110,8 @@
       "Ka5",
       "Ra6#"
     ],
-    "tag": "Polgar 3",
-    "rep": 2,
+    "tag": "Polgar 2",
+    "rep": 5,
     "id": 527
   },
   {
@@ -5102,8 +5121,8 @@
       "gxh6",
       "Re8#"
     ],
-    "tag": "Polgar 3",
-    "rep": 2,
+    "tag": "Polgar 2",
+    "rep": 4,
     "id": 528
   },
   {
@@ -5115,8 +5134,8 @@
       "Kf8",
       "Nh7#"
     ],
-    "tag": "Polgar 3",
-    "rep": 2,
+    "tag": "Polgar 2",
+    "rep": 5,
     "id": 529
   },
   {
@@ -5128,8 +5147,8 @@
       "Kh2",
       "Rh1#"
     ],
-    "tag": "Polgar 3",
-    "rep": 2,
+    "tag": "Polgar 2",
+    "rep": 5,
     "id": 530
   },
   {
@@ -5141,8 +5160,8 @@
       "Ke1",
       "Rf1#"
     ],
-    "tag": "Polgar 3",
-    "rep": 2,
+    "tag": "Polgar 2",
+    "rep": 4,
     "id": 531
   },
   {
@@ -5154,8 +5173,8 @@
       "Kh8",
       "Ng6#"
     ],
-    "tag": "Polgar 3",
-    "rep": 3,
+    "tag": "Polgar 2",
+    "rep": 4,
     "id": 532
   },
   {
@@ -5167,8 +5186,8 @@
       "Kd6",
       "Nxb4"
     ],
-    "tag": "Polgar 3",
-    "rep": 3,
+    "tag": "Polgar 2",
+    "rep": 5,
     "id": 533
   },
   {
@@ -5180,8 +5199,8 @@
       "Kc8",
       "Rb8#"
     ],
-    "tag": "Polgar 3",
-    "rep": 2,
+    "tag": "Polgar 2",
+    "rep": 5,
     "id": 534
   },
   {
@@ -5197,8 +5216,8 @@
       "Kg1",
       "Rh1#"
     ],
-    "tag": "Polgar 3",
-    "rep": 3,
+    "tag": "Polgar 2",
+    "rep": 5,
     "id": 535
   },
   {
@@ -5210,8 +5229,8 @@
       "Ke4",
       "Bxa1"
     ],
-    "tag": "Polgar 4",
-    "rep": 2,
+    "tag": "Polgar 2",
+    "rep": 4,
     "id": 536
   },
   {
@@ -5223,8 +5242,8 @@
       "Ke6",
       "Bxh8"
     ],
-    "tag": "Polgar 4",
-    "rep": 1,
+    "tag": "Polgar 2",
+    "rep": 4,
     "id": 537
   },
   {
@@ -5236,8 +5255,8 @@
       "Kd6",
       "Qxe4"
     ],
-    "tag": "Polgar 4",
-    "rep": 2,
+    "tag": "Polgar 2",
+    "rep": 5,
     "id": 538
   },
   {
@@ -5249,8 +5268,8 @@
       "Kc5",
       "Rxb2"
     ],
-    "tag": "Polgar 4",
-    "rep": 3,
+    "tag": "Polgar 2",
+    "rep": 4,
     "id": 539
   },
   {
@@ -5264,8 +5283,8 @@
       "Kc2",
       "Rxb8"
     ],
-    "tag": "Polgar 4",
-    "rep": 2,
+    "tag": "Polgar 2",
+    "rep": 4,
     "id": 540
   },
   {
@@ -5277,8 +5296,8 @@
       "Ke5",
       "Bxd8"
     ],
-    "tag": "Polgar 4",
-    "rep": 2,
+    "tag": "Polgar 2",
+    "rep": 4,
     "id": 541
   },
   {
@@ -5290,8 +5309,8 @@
       "Qc6",
       "Bxb8"
     ],
-    "tag": "Polgar 4",
-    "rep": 2,
+    "tag": "Polgar 2",
+    "rep": 5,
     "id": 542
   },
   {
@@ -5303,8 +5322,8 @@
       "Kb4",
       "Rxa7"
     ],
-    "tag": "Polgar 4",
-    "rep": 2,
+    "tag": "Polgar 2",
+    "rep": 4,
     "id": 543
   },
   {
@@ -5316,8 +5335,8 @@
       "Ke7",
       "Rxc8"
     ],
-    "tag": "Polgar 4",
-    "rep": 2,
+    "tag": "Polgar 2",
+    "rep": 3,
     "id": 544
   },
   {
@@ -5329,8 +5348,8 @@
       "Kc3",
       "Rxg4"
     ],
-    "tag": "Polgar 4",
-    "rep": 2,
+    "tag": "Polgar 2",
+    "rep": 4,
     "id": 545
   },
   {
@@ -5342,8 +5361,8 @@
       "Kf3",
       "Qxe1"
     ],
-    "tag": "Polgar 4",
-    "rep": 3,
+    "tag": "Polgar 2",
+    "rep": 4,
     "id": 546
   },
   {
@@ -5357,8 +5376,8 @@
       "Kxg4",
       "Rxh6"
     ],
-    "tag": "Polgar 4",
-    "rep": 2,
+    "tag": "Polgar 2",
+    "rep": 5,
     "id": 547
   },
   {
@@ -5370,8 +5389,8 @@
       "Kf5",
       "Qxh4"
     ],
-    "tag": "Polgar 4",
-    "rep": 2,
+    "tag": "Polgar 2",
+    "rep": 5,
     "id": 548
   },
   {
@@ -5383,8 +5402,8 @@
       "Ke6",
       "Rxg7"
     ],
-    "tag": "Polgar 4",
-    "rep": 2,
+    "tag": "Polgar 2",
+    "rep": 4,
     "id": 549
   },
   {
@@ -5396,8 +5415,8 @@
       "Ke5",
       "Bxh7"
     ],
-    "tag": "Polgar 4",
-    "rep": 2,
+    "tag": "Polgar 2",
+    "rep": 5,
     "id": 550
   },
   {
@@ -5409,8 +5428,8 @@
       "Bc2",
       "Rxc1"
     ],
-    "tag": "Polgar 4",
-    "rep": 1,
+    "tag": "Polgar 2",
+    "rep": 4,
     "id": 551
   },
   {
@@ -5422,8 +5441,8 @@
       "Kf7",
       "Rxd8"
     ],
-    "tag": "Polgar 4",
-    "rep": 1,
+    "tag": "Polgar 2",
+    "rep": 4,
     "id": 552
   },
   {
@@ -5435,8 +5454,8 @@
       "Ke3",
       "Rxh2"
     ],
-    "tag": "Polgar 4",
-    "rep": 2,
+    "tag": "Polgar 2",
+    "rep": 4,
     "id": 553
   },
   {
@@ -5448,8 +5467,8 @@
       "Kxb4",
       "Qxa1"
     ],
-    "tag": "Polgar 4",
-    "rep": 2,
+    "tag": "Polgar 2",
+    "rep": 4,
     "id": 554
   },
   {
@@ -5461,8 +5480,8 @@
       "Kd5",
       "Rxa6"
     ],
-    "tag": "Polgar 4",
-    "rep": 2,
+    "tag": "Polgar 2",
+    "rep": 5,
     "id": 555
   },
   {
@@ -5474,8 +5493,8 @@
       "Kc5",
       "Qxf7"
     ],
-    "tag": "Polgar 4",
-    "rep": 2,
+    "tag": "Polgar 2",
+    "rep": 4,
     "id": 556
   },
   {
@@ -5487,8 +5506,8 @@
       "Kxb6",
       "Rxd5"
     ],
-    "tag": "Polgar 4",
-    "rep": 1,
+    "tag": "Polgar 2",
+    "rep": 4,
     "id": 557
   },
   {
@@ -5500,8 +5519,8 @@
       "Kd5",
       "Bxc5"
     ],
-    "tag": "Polgar 4",
-    "rep": 1,
+    "tag": "Polgar 2",
+    "rep": 4,
     "id": 558
   },
   {
@@ -5513,8 +5532,8 @@
       "Qxc1",
       "Qxc1"
     ],
-    "tag": "Polgar 4",
-    "rep": 1,
+    "tag": "Polgar 2",
+    "rep": 4,
     "id": 559
   },
   {
@@ -5524,8 +5543,8 @@
       "f3",
       "Qb5"
     ],
-    "tag": "Polgar 4",
-    "rep": 2,
+    "tag": "Polgar 2",
+    "rep": 4,
     "id": 560
   },
   {
@@ -5537,8 +5556,8 @@
       "Kg5",
       "Qxe5"
     ],
-    "tag": "Polgar 4",
-    "rep": 1,
+    "tag": "Polgar 2",
+    "rep": 4,
     "id": 561
   },
   {
@@ -5552,8 +5571,8 @@
       "Kg5",
       "Rxh3"
     ],
-    "tag": "Polgar 4",
-    "rep": 1,
+    "tag": "Polgar 2",
+    "rep": 4,
     "id": 562
   },
   {
@@ -5567,8 +5586,8 @@
       "Ke6",
       "Bxf8"
     ],
-    "tag": "Polgar 4",
-    "rep": 1,
+    "tag": "Polgar 2",
+    "rep": 4,
     "id": 563
   },
   {
@@ -5582,8 +5601,8 @@
       "Kf6",
       "Rxe4"
     ],
-    "tag": "Polgar 4",
-    "rep": 2,
+    "tag": "Polgar 2",
+    "rep": 5,
     "id": 564
   },
   {
@@ -5597,218 +5616,354 @@
       "Kb6",
       "Rxa3"
     ],
-    "tag": "Polgar 4",
-    "rep": 1,
+    "tag": "Polgar 2",
+    "rep": 3,
     "id": 565
   },
   {
     "fen": "r1bqk1nr/pppnp1bp/3p2p1/6N1/3PP3/8/PPP2PPP/RNBQK2R w KQkq - 0 1",
-    "solution": [],
-    "tag": "Trapped piece",
-    "rep": 0,
+    "solution": [
+      "Ne6",
+      "Nb6",
+      "Nxd8"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
     "id": 566
   },
   {
     "fen": "rn2kb1r/pp1qnppp/4p3/2QpP3/3P4/2P5/PP2NPPP/RNB1K2R b KQkq - 0 1",
-    "solution": [],
-    "tag": "Trapped piece",
-    "rep": 0,
+    "solution": [
+      "Nf5",
+      "Qa5",
+      "b6"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
     "id": 567
   },
   {
     "fen": "rnbqkbnr/p3pppp/8/1p6/2pP4/4P3/1P3PPP/RNBQKBNR w KQkq - 0 1",
-    "solution": [],
-    "tag": "Trapped piece",
-    "rep": 0,
+    "solution": [
+      "Qf3",
+      "Nc6",
+      "Qxc6+"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
     "id": 568
   },
   {
     "fen": "3q2k1/3b1n1p/p5pB/2pQnp2/2Pp4/3P2NP/P5P1/5BK1 b - - 0 1",
-    "solution": [],
-    "tag": "Trapped piece",
-    "rep": 0,
+    "solution": [
+      "Qc8",
+      "Bf4",
+      "Be6"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
     "id": 569
   },
   {
     "fen": "3r4/k7/2p3p1/4B3/2Pn4/6PB/5PKP/8 w - - 0 1",
-    "solution": [],
-    "tag": "Trapped piece",
-    "rep": 0,
+    "solution": [
+      "Bf6",
+      "Rd6",
+      "Be7",
+      "Re6",
+      "Bxe6"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
     "id": 570
   },
   {
     "fen": "rnbqk2r/ppp1nppp/3b4/3p4/2PP4/5N2/PP3PPP/RNBQKB1R w KQkq - 0 1",
-    "solution": [],
-    "tag": "Trapped piece",
-    "rep": 0,
+    "solution": [
+      "c5"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
     "id": 571
   },
   {
     "fen": "r4r1k/1pp2pbp/p1n3p1/5P2/2P5/1P2B1P1/P1N3KP/3R1R2 w - - 0 1",
-    "solution": [],
-    "tag": "Trapped piece",
-    "rep": 0,
+    "solution": [
+      "f6",
+      "Bxf6",
+      "Rxf6"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
     "id": 572
   },
   {
     "fen": "r4rk1/5ppp/n2Qp3/p2pP1B1/P2P4/5P2/4q1PP/2RR2K1 w - - 0 1",
-    "solution": [],
-    "tag": "Trapped piece",
-    "rep": 0,
+    "solution": [
+      "Rd2",
+      "Qc4",
+      "Rxc4"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
     "id": 573
   },
   {
     "fen": "6nr/7p/2k2K2/1p1p4/3P4/2P5/P7/3R4 w - - 0 1",
-    "solution": [],
-    "tag": "Trapped piece",
-    "rep": 0,
+    "solution": [
+      "Kg7",
+      "Nf6",
+      "Kxh8"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
     "id": 574
   },
   {
     "fen": "r4rk1/pb1q1pbp/2Rpp1p1/1B1P2B1/4P3/Pp5P/1P1KQPP1/3R4 w - - 0 1",
-    "solution": [],
-    "tag": "Trapped piece",
-    "rep": 0,
+    "solution": [
+      "Rcc1",
+      "Bc6",
+      "Bxc6",
+      "Qc7",
+      "Bxa8"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
     "id": 575
   },
   {
     "fen": "r7/6kp/2bp2p1/2p1p3/2Pq4/1PR2P2/1Q4PP/r1N1R2K b - - 0 1",
-    "solution": [],
-    "tag": "Trapped piece",
-    "rep": 0,
+    "solution": [
+      "R8a2"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
     "id": 576
   },
   {
     "fen": "r3kb1r/ppp1pppp/2n2nb1/q7/3PP3/2N2N2/PP1B1PPP/R2QKB1R w KQkq - 0 1",
-    "solution": [],
-    "tag": "Trapped piece",
-    "rep": 0,
+    "solution": [
+      "Nd5"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
     "id": 577
   },
   {
     "fen": "1r3rk1/4nppp/3Rp3/2p5/B3P3/P1N5/1n3PPP/2K4R w - - 0 1",
-    "solution": [],
-    "tag": "Trapped piece",
-    "rep": 0,
+    "solution": [
+      "Bb5"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
     "id": 578
   },
   {
     "fen": "r1b1r1k1/2p1bpp1/p2p1qnp/np1Pp3/4P2P/2P1BNP1/PP1N1PB1/R2QK2R w KQ - 0 1",
-    "solution": [],
-    "tag": "Trapped piece",
-    "rep": 0,
+    "solution": [
+      "Bg5",
+      "hxg5",
+      "hxg5",
+      "Qxg5",
+      "Nxg5"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
     "id": 579
   },
   {
     "fen": "rn3rk1/pp3pnp/4p1p1/8/2P1N3/1P4P1/P4PBP/R4RK1 w - - 0 1",
-    "solution": [],
-    "tag": "Trapped piece",
-    "rep": 0,
+    "solution": [
+      "Nf6+",
+      "Kh8",
+      "Bxb7"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
     "id": 580
   },
   {
     "fen": "2rr2k1/p3bpp1/1p2pn1p/2p5/8/2P1PPB1/PP2B1PP/R4RK1 w - - 0 1",
-    "solution": [],
-    "tag": "Trapped piece",
-    "rep": 0,
+    "solution": [
+      "Ba6",
+      "Rc6",
+      "Bb7"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
     "id": 581
   },
   {
     "fen": "3r2k1/1bp1R1p1/n6p/ppp1Pp2/8/P1P2NP1/1P3K1P/4B3 b - - 0 1",
-    "solution": [],
-    "tag": "Trapped piece",
-    "rep": 0,
+    "solution": [
+      "Kf8",
+      "Re6",
+      "Kf7",
+      "Rxa6",
+      "Bxa6"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
     "id": 582
   },
   {
     "fen": "r1bq1rk1/p4pp1/4p2p/4P3/3n4/P4N1P/2Q1BPP1/1R2R1K1 w - - 0 1",
-    "solution": [],
-    "tag": "Trapped piece",
-    "rep": 0,
+    "solution": [
+      "Nxd4",
+      "Qxd4",
+      "Bf3"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
     "id": 583
   },
   {
     "fen": "r1b1kb1r/pppp1ppp/2n2n2/5N1q/4P3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 1",
-    "solution": [],
-    "tag": "Trapped piece",
-    "rep": 0,
+    "solution": [
+      "Be2",
+      "Qg6",
+      "Nh4"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
     "id": 584
   },
   {
     "fen": "r1b2rk1/1pq1bppp/p1n2n2/4pN2/P3P3/4BB2/1PP1N1PP/R2Q1RK1 b - - 0 1",
-    "solution": [],
-    "tag": "Trapped piece",
-    "rep": 0,
+    "solution": [
+      "Bxf5",
+      "exf5",
+      "e4",
+      "Bxe4",
+      "Nxe4"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
     "id": 585
   },
   {
     "fen": "r2r2k1/pp1bqp1p/4p1p1/nP6/4Q3/2P2N1P/P3BPP1/R2R2K1 w - - 0 1",
-    "solution": [],
-    "tag": "Trapped piece",
-    "rep": 0,
+    "solution": [
+      "Qb4",
+      "Qxb4",
+      "cxb4",
+      "Nc6",
+      "bxc6"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
     "id": 586
   },
   {
-    "fen": "r4rk1/pp2qpp1/2pb3p/3p4/8/2P1P2b/PP3PNP/R1BQ1RK1 w - - 0 1",
-    "solution": [],
-    "tag": "Trapped piece",
-    "rep": 0,
+    "fen": "r4rk1/pp2qpp1/2pb3p/3p4/8/2P1P2b/PP3PNP/R1BQ1RK1 b - - 0 1",
+    "solution": [
+      "Qg5",
+      "Qf3",
+      "Bg4"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
     "id": 587
   },
   {
     "fen": "8/8/5k1p/8/1N4p1/5pPq/5P2/3R2K1 w - - 0 1",
-    "solution": [],
-    "tag": "Trapped piece",
-    "rep": 0,
+    "solution": [
+      "Nd5+",
+      "Kf5",
+      "Nf4"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
     "id": 588
   },
   {
     "fen": "r4rk1/ppp2pp1/3p3p/8/Pb1P4/5NP1/1PP2PKP/R4R2 w - - 0 1",
-    "solution": [],
-    "tag": "Trapped piece",
-    "rep": 0,
+    "solution": [
+      "c3",
+      "Ba5",
+      "b4",
+      "Bb6",
+      "a5"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
     "id": 589
   },
   {
     "fen": "4rrk1/pbpp1ppp/1p2pn2/8/2P1P3/2NPB2P/PP3PP1/R4RK1 w - - 0 1",
-    "solution": [],
-    "tag": "Trapped piece",
-    "rep": 0,
+    "solution": [
+      "e5",
+      "Nh5",
+      "g4"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
     "id": 590
   },
   {
     "fen": "4k2r/1p5p/p1p3p1/2B2p2/2B2P2/1P4P1/P5KP/8 w k - 0 1",
-    "solution": [],
-    "tag": "Trapped piece",
-    "rep": 0,
+    "solution": [
+      "Bd4",
+      "Rf8",
+      "Bg7"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
     "id": 591
   },
   {
     "fen": "3R4/ppr1ppkp/2p3p1/2P5/2N5/1Pb3P1/P3PPKP/8 w - - 0 1",
-    "solution": [],
-    "tag": "Trapped piece",
-    "rep": 0,
+    "solution": [
+      "Nd6",
+      "exd6",
+      "cxd6",
+      "Ba5",
+      "dxc7"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
     "id": 592
   },
   {
     "fen": "rnb2rk1/1p2ppb1/2pp1npp/p2P4/1qP5/2N3P1/PP1NPPBP/R1BQR1K1 w - - 0 1",
-    "solution": [],
-    "tag": "Trapped piece",
-    "rep": 0,
+    "solution": [
+      "Na4",
+      "b5",
+      "a3",
+      "Qxa4",
+      "b3"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
     "id": 593
   },
   {
     "fen": "3rrbk1/1b1n1pp1/p2p3p/qp1Np3/3NP3/3B2Q1/PPP2PPP/2KR3R w - - 0 1",
-    "solution": [],
-    "tag": "Trapped piece",
-    "rep": 0,
+    "solution": [
+      "Nb3",
+      "Qxa2",
+      "Nc3",
+      "Qa4",
+      "Nxa4"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
     "id": 594
   },
   {
     "fen": "3Q4/5pk1/1p2p1p1/1p1pq1N1/3n2P1/3K3P/P4P2/8 w - - 0 1",
-    "solution": [],
-    "tag": "Trapped piece",
-    "rep": 0,
+    "solution": [
+      "Qh8+",
+      "Kxh8",
+      "Nxf7+",
+      "Kg7",
+      "Nxe5",
+      "Nf5",
+      "gxf5"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
     "id": 595
   },
   {
@@ -5822,7 +5977,7 @@
       "Rxc1+ "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 596
   },
   {
@@ -5836,7 +5991,7 @@
       "Rxd8# "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 597
   },
   {
@@ -5848,7 +6003,7 @@
       "Rf1# "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 598
   },
   {
@@ -5858,7 +6013,7 @@
       "Rxf3 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 599
   },
   {
@@ -5872,7 +6027,7 @@
       "Kxf2 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 600
   },
   {
@@ -5884,7 +6039,7 @@
       "Qxe3 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 601
   },
   {
@@ -5900,7 +6055,7 @@
       "Rxc5 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 602
   },
   {
@@ -5912,7 +6067,7 @@
       "Qxh3+ "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 603
   },
   {
@@ -5928,7 +6083,7 @@
       "Nxb3 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 604
   },
   {
@@ -5944,7 +6099,7 @@
       "d8=Q "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 605
   },
   {
@@ -5957,7 +6112,7 @@
       "Qxf3+ "
     ],
     "tag": "chesstempo 2",
-    "rep": 1,
+    "rep": 2,
     "id": 606
   },
   {
@@ -5981,7 +6136,7 @@
       "Nxa2 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 608
   },
   {
@@ -5993,7 +6148,7 @@
       "Rxf4 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 609
   },
   {
@@ -6005,7 +6160,7 @@
       "Bxd2 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 610
   },
   {
@@ -6017,7 +6172,7 @@
       "Rxd5 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 611
   },
   {
@@ -6031,7 +6186,7 @@
       "Kxd1 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 612
   },
   {
@@ -6049,7 +6204,7 @@
       "Ne2 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 613
   },
   {
@@ -6063,7 +6218,7 @@
       "Bxc6 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 614
   },
   {
@@ -6077,7 +6232,7 @@
       "Kd1 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 615
   },
   {
@@ -6089,7 +6244,7 @@
       "Ng6 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 616
   },
   {
@@ -6101,7 +6256,7 @@
       "fxg4 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 617
   },
   {
@@ -6113,7 +6268,7 @@
       "Qd5# "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 618
   },
   {
@@ -6127,21 +6282,19 @@
       "Bxc6 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 619
   },
   {
     "fen": "3q2k1/1r3pbp/6p1/nBBr4/1Q6/5P2/6PP/1R1R2K1 w - - 0 27",
     "solution": [
-      "Qa4 ",
-      "Rxb5 ",
-      "Qxb5 ",
-      "Rxd1+ ",
-      "Rxd1 ",
-      "Qxd1+ "
+      "Qa4",
+      "Rxb5",
+      "Rxd5",
+      "Rxb1+"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 620
   },
   {
@@ -6156,7 +6309,7 @@
       "Rxd8 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 621
   },
   {
@@ -6170,7 +6323,7 @@
       "Qb1# "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 622
   },
   {
@@ -6182,7 +6335,7 @@
       "Bxb2 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 623
   },
   {
@@ -6194,7 +6347,7 @@
       "Bxd7 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 624
   },
   {
@@ -6206,17 +6359,21 @@
       "Re8# "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 625
   },
   {
     "fen": "r5kr/5pp1/2q1p2p/4P3/p1P1b3/R1Q5/5PPP/4RBK1 b - - 1 31",
     "solution": [
-      "Kh7 ",
-      "Rxe4 "
+      "Kh7",
+      "Rxe4",
+      "Qxe4",
+      "Bd3",
+      "Qxd3",
+      "Qxd3+"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 626
   },
   {
@@ -6230,7 +6387,7 @@
       "Rxh4 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 627
   },
   {
@@ -6246,7 +6403,7 @@
       "Qxb1+ "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 628
   },
   {
@@ -6260,7 +6417,7 @@
       "Qxd4 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 629
   },
   {
@@ -6270,7 +6427,7 @@
       "Qxe2 "
     ],
     "tag": "chesstempo 2",
-    "rep": 1,
+    "rep": 2,
     "id": 630
   },
   {
@@ -6282,7 +6439,7 @@
       "Bxe8 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 631
   },
   {
@@ -6294,7 +6451,7 @@
       "Nxe4 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 632
   },
   {
@@ -6306,7 +6463,7 @@
       "exf5 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 633
   },
   {
@@ -6318,7 +6475,7 @@
       "Nxe1 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 634
   },
   {
@@ -6330,7 +6487,7 @@
       "Nxe4 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 635
   },
   {
@@ -6344,7 +6501,7 @@
       "exf6 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 3,
     "id": 636
   },
   {
@@ -6356,7 +6513,7 @@
       "exd4 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 637
   },
   {
@@ -6370,7 +6527,7 @@
       "Bxe7 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 638
   },
   {
@@ -6382,7 +6539,7 @@
       "Rxd5 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 639
   },
   {
@@ -6394,7 +6551,7 @@
       "Rxe4 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 640
   },
   {
@@ -6406,7 +6563,7 @@
       "Rxg7 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 641
   },
   {
@@ -6418,7 +6575,7 @@
       "Bxe3 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 642
   },
   {
@@ -6430,7 +6587,7 @@
       "Qxd7 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 643
   },
   {
@@ -6442,7 +6599,7 @@
       "bxc6 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 644
   },
   {
@@ -6456,7 +6613,7 @@
       "gxf3 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 645
   },
   {
@@ -6466,7 +6623,7 @@
       "Qd6# "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 646
   },
   {
@@ -6492,7 +6649,7 @@
       "Nxc2 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 648
   },
   {
@@ -6506,7 +6663,7 @@
       "Bxf6 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 649
   },
   {
@@ -6520,7 +6677,7 @@
       "Qd5 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 650
   },
   {
@@ -6533,7 +6690,7 @@
       "Kxc4 "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 651
   },
   {
@@ -6547,7 +6704,7 @@
       "Qe7# "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 652
   },
   {
@@ -6559,7 +6716,7 @@
       "Qxe4+ "
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 653
   },
   {
@@ -6571,7 +6728,7 @@
       "Nxb7"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 654
   },
   {
@@ -6583,7 +6740,7 @@
       "Rxc2"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 655
   },
   {
@@ -6595,7 +6752,7 @@
       "Qxg6"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 656
   },
   {
@@ -6610,7 +6767,7 @@
       "Nxd1"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 657
   },
   {
@@ -6624,7 +6781,7 @@
       "Ra6"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 658
   },
   {
@@ -6636,7 +6793,7 @@
       "Rxc6"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 659
   },
   {
@@ -6648,7 +6805,7 @@
       "Qd1"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 660
   },
   {
@@ -6660,7 +6817,7 @@
       "Nxg3"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 661
   },
   {
@@ -6674,7 +6831,7 @@
       "Rxd2"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 662
   },
   {
@@ -6687,7 +6844,7 @@
       "Qxe8"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 663
   },
   {
@@ -6701,7 +6858,7 @@
       "Qxa8+"
     ],
     "tag": "chesstempo 2",
-    "rep": 1,
+    "rep": 2,
     "id": 664
   },
   {
@@ -6713,7 +6870,7 @@
       "Nd2"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 665
   },
   {
@@ -6727,7 +6884,7 @@
       "Qf8#"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 666
   },
   {
@@ -6739,7 +6896,7 @@
       "Be4#"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 667
   },
   {
@@ -6753,7 +6910,7 @@
       "Rxe2"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 668
   },
   {
@@ -6767,7 +6924,7 @@
       "exd6"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 669
   },
   {
@@ -6783,7 +6940,7 @@
       "Qb8"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 670
   },
   {
@@ -6797,7 +6954,7 @@
       "Qxc1"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 671
   },
   {
@@ -6811,7 +6968,7 @@
       "Bxg4"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 672
   },
   {
@@ -6824,7 +6981,7 @@
       "Rxc6"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 673
   },
   {
@@ -6836,7 +6993,7 @@
       "Rxd4"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 674
   },
   {
@@ -6850,7 +7007,7 @@
       "Rxd2"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 675
   },
   {
@@ -6862,7 +7019,7 @@
       "Rxa8"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 676
   },
   {
@@ -6876,7 +7033,7 @@
       "Qxc7"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 677
   },
   {
@@ -6888,7 +7045,7 @@
       "Qxd8"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 678
   },
   {
@@ -6904,7 +7061,7 @@
       "Ke3"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 679
   },
   {
@@ -6918,7 +7075,7 @@
       "Rxf2"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 680
   },
   {
@@ -6933,7 +7090,7 @@
       "Kxe1"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 681
   },
   {
@@ -6945,7 +7102,7 @@
       "Re2"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 682
   },
   {
@@ -6959,7 +7116,7 @@
       "Bxa8"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 683
   },
   {
@@ -6971,7 +7128,7 @@
       "Rg5"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 684
   },
   {
@@ -6983,7 +7140,7 @@
       "Rxf8"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 685
   },
   {
@@ -6995,7 +7152,7 @@
       "Bxf8"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 686
   },
   {
@@ -7025,7 +7182,7 @@
       "Qxb3"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 688
   },
   {
@@ -7039,7 +7196,7 @@
       "Bxe5"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 689
   },
   {
@@ -7053,7 +7210,7 @@
       "Qxh6#"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 690
   },
   {
@@ -7065,7 +7222,7 @@
       "gxf3"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 691
   },
   {
@@ -7075,7 +7232,7 @@
       "d1=N#"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 692
   },
   {
@@ -7083,11 +7240,15 @@
     "solution": [
       "Bh3",
       "Nb6",
-      "Qc7",
-      "Bxh3"
+      "Qe6",
+      "Bxc6",
+      "Bxf1",
+      "Bxe8",
+      "Qxe8",
+      "Qxf1"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 693
   },
   {
@@ -7099,7 +7260,7 @@
       "Qxe2"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 2,
     "id": 694
   },
   {
@@ -7111,7 +7272,2077 @@
       "Rxe2+"
     ],
     "tag": "chesstempo 2",
-    "rep": 0,
+    "rep": 1,
     "id": 695
+  },
+  {
+    "fen": "8/5Q2/1pkq1n2/p7/1P1P4/2K5/8/8 w - - 0 1",
+    "solution": [
+      "b5+",
+      "Kxb5",
+      "Qc4#"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
+    "id": 696
+  },
+  {
+    "fen": "6q1/5p1p/5k2/8/3R2Pp/3P3K/4PB2/8 w - - 0 1",
+    "solution": [
+      "Rd8",
+      "Qxd8",
+      "Bxh4+",
+      "Kg6",
+      "Bxd8"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
+    "id": 697
+  },
+  {
+    "fen": "8/5p2/p6k/P4B2/1P4Pq/R7/8/6K1 w - - 0 1",
+    "solution": [
+      "Rh3",
+      "Qxh3",
+      "g5+",
+      "Kxg5",
+      "Bxh3"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
+    "id": 698
+  },
+  {
+    "fen": "r6r/1p3pk1/p4np1/2b1p3/2P5/1P4P1/PQ1P1PP1/2RR2K1 b - - 0 1",
+    "solution": [
+      "Rh1+",
+      "Kxh1",
+      "Bxf2",
+      "Qxe5",
+      "Rh8+",
+      "Qh5",
+      "Rxh5#"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
+    "id": 699
+  },
+  {
+    "fen": "8/3Pkr2/8/3KNpq1/8/1P6/P4P2/8 w - - 0 1",
+    "solution": [
+      "d8=Q+",
+      "Kxd8",
+      "Nxf7+",
+      "Kc7",
+      "Nxg5"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
+    "id": 700
+  },
+  {
+    "fen": "3r4/rb2q1kp/p2N1pp1/1pNRn3/5Q2/1P6/P4PPP/R5K1 w - - 0 1",
+    "solution": [
+      "Nf5+",
+      "gxf5",
+      "Rxd8",
+      "Qxd8",
+      "Ne6+",
+      "Kg8",
+      "Nxd8"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
+    "id": 701
+  },
+  {
+    "fen": "r2r3k/pppbn1pp/2np4/2P5/5q2/1BB3N1/PPQ2PP1/R4R1K w - - 0 1",
+    "solution": [
+      "Bxg7+",
+      "Kxg7",
+      "Nh5+",
+      "Kh8",
+      "Nxf4"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
+    "id": 702
+  },
+  {
+    "fen": "1Q4rk/7p/6p1/3N4/3pq3/6Pb/1P3P2/3R2K1 w - - 0 1",
+    "solution": [
+      "Qxg8+",
+      "Kxg8",
+      "Nf6+",
+      "Kg7",
+      "Nxe4"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
+    "id": 703
+  },
+  {
+    "fen": "3k4/3p4/3N1K2/7q/8/2B3P1/3P4/8 w - - 0 1",
+    "solution": [
+      "Ba5+",
+      "Qxa5",
+      "Nb7+",
+      "Kc7",
+      "Nxa5"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
+    "id": 704
+  },
+  {
+    "fen": "5q2/8/8/4Q2p/P1p3k1/1p6/1P5K/8 w - - 0 1",
+    "solution": [
+      "Qg3+",
+      "Kf5",
+      "Qf3+",
+      "Ke5",
+      "Qxf8"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
+    "id": 705
+  },
+  {
+    "fen": "r1bq1rk1/ppp2ppp/8/3n4/8/2NB3P/PPP2PP1/R2Q1RK1 w - - 0 1",
+    "solution": [
+      "Nxd5",
+      "Qxd5",
+      "Bxh7+",
+      "Kxh7",
+      "Qxd5"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
+    "id": 706
+  },
+  {
+    "fen": "r5k1/p4p1p/1p4p1/5N2/8/1P4Pq/P3BP1P/R5K1 w - - 0 1",
+    "solution": [
+      "Bg4",
+      "Qxg4",
+      "Nh6+",
+      "Kg7",
+      "Nxg4"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
+    "id": 707
+  },
+  {
+    "fen": "8/6p1/8/k3p2q/8/6P1/1P1NR2P/6K1 w - - 0 1",
+    "solution": [
+      "Rxe5+",
+      "Qxe5",
+      "Nc4+",
+      "Kb4",
+      "Nxe5"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
+    "id": 708
+  },
+  {
+    "fen": "8/1P3Pk1/6p1/8/8/p2P4/7p/4K3 w - - 0 1",
+    "solution": [
+      "f8=Q+",
+      "Kxf8",
+      "b8=Q+",
+      "Kf7",
+      "Qxh2"
+    ],
+    "tag": "Polgar 2",
+    "rep": 4,
+    "id": 709
+  },
+  {
+    "fen": "2Q2qk1/p5pp/1p3n2/5P1B/2Prp3/P1N5/1P4KP/8 w - - 0 1",
+    "solution": [
+      "Bf7+",
+      "Kxf7",
+      "Qe6#"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
+    "id": 710
+  },
+  {
+    "fen": "3r3r/1p1bk1pp/p2bppq1/8/4P3/1P3N1P/PB3PP1/2RQ1BK1 w - - 0 1",
+    "solution": [
+      "Qxd6+",
+      "Kxd6",
+      "Ba3#"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
+    "id": 711
+  },
+  {
+    "fen": "4k2r/4nppp/1pq1p3/p1p1P1B1/Q7/8/PP1R1PPP/6K1 w k - 0 1",
+    "solution": [
+      "Rd8+",
+      "Kxd8",
+      "Qxc6"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
+    "id": 712
+  },
+  {
+    "fen": "8/8/2pp4/2rkpK2/2n4R/4P3/1P6/4B3 w - - 0 1",
+    "solution": [
+      "Rd4+",
+      "exd4",
+      "e4#"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
+    "id": 713
+  },
+  {
+    "fen": "1k5r/1b2b1pp/1Qp1np2/1N2p3/4q3/2P3PP/1P3P2/R5K1 w - - 0 1",
+    "solution": [
+      "Ra8+",
+      "Kxa8",
+      "Qa7#"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
+    "id": 714
+  },
+  {
+    "fen": "3r2k1/1b5p/1b4p1/pB6/P3N1Q1/1qp4P/5PP1/5RK1 w - - 0 1",
+    "solution": [
+      "Bc4+",
+      "Qxc4",
+      "Nf6+",
+      "Kg7",
+      "Qxc4"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
+    "id": 715
+  },
+  {
+    "fen": "1rkn4/1b5R/1b1PP3/1p3p2/8/8/5P2/6K1 w - - 0 1",
+    "solution": [
+      "Rc7+",
+      "Bxc7",
+      "d7#"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
+    "id": 716
+  },
+  {
+    "fen": "6k1/5p1n/p4qp1/Q2P4/3n4/1BR2PN1/K3P3/7r b - - 0 1",
+    "solution": [
+      "Ra1+",
+      "Kxa1",
+      "Nxb3+",
+      "Kb2",
+      "Nxa5"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
+    "id": 717
+  },
+  {
+    "fen": "7r/7n/3p2kp/4bpp1/1P6/1B4PP/6K1/r2Q4 w - - 0 1",
+    "solution": [
+      "Qh5+",
+      "Kxh5",
+      "Bf7#"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
+    "id": 718
+  },
+  {
+    "fen": "8/1kr4p/pq3Bp1/5p2/P7/4rPP1/1Q4KP/3R4 w - - 0 1",
+    "solution": [
+      "Qxb6+",
+      "Kxb6",
+      "Bd4+",
+      "Ka5",
+      "Bxe3"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
+    "id": 719
+  },
+  {
+    "fen": "1r5R/1q1pkp2/4pn2/Q2P4/3P4/1P3P2/1K4P1/8 w - - 0 1",
+    "solution": [
+      "d6+",
+      "Kxd6",
+      "Qc5#"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
+    "id": 720
+  },
+  {
+    "fen": "2R5/6pk/1r1p3p/5P2/6b1/6q1/P2Q2P1/B6K w - - 0 1",
+    "solution": [
+      "Rh8+",
+      "Kxh8",
+      "Qxh6+",
+      "Kg8",
+      "Qxg7#"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
+    "id": 721
+  },
+  {
+    "fen": "1r1r2k1/5pp1/1n4p1/6P1/1pBp3R/1P6/5PK1/2R5 w - - 0 1",
+    "solution": [
+      "Rh8+",
+      "Kxh8",
+      "Bxf7",
+      "Nd5",
+      "Rh1#"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
+    "id": 722
+  },
+  {
+    "fen": "7k/7p/p3b3/2Qpb2q/P7/1P6/1B1N3P/7K w - - 0 1",
+    "solution": [
+      "Qf8+",
+      "Bg8",
+      "Qf6+",
+      "Bxf6",
+      "Bxf6#"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
+    "id": 723
+  },
+  {
+    "fen": "6k1/1b3p2/pB3Q2/P7/4r3/6P1/1R2NP1K/2q5 b - - 0 1",
+    "solution": [
+      "Qh1+",
+      "Kxh1",
+      "Rh4+",
+      "Kg1",
+      "Rh1#"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
+    "id": 724
+  },
+  {
+    "fen": "5brk/7p/5p2/4pP2/2Q5/p2P4/5qBP/6RK w - - 0 1",
+    "solution": [
+      "Qxg8+",
+      "Kxg8",
+      "Bd5+",
+      "Kh8",
+      "Rg8#"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
+    "id": 725
+  },
+  {
+    "fen": "2r3k1/1p2b1p1/4p1P1/3p4/5P2/qPp4R/P1P5/1K1Q4 w - - 0 1",
+    "solution": [
+      "Rh8+",
+      "Kxh8",
+      "Qh5+",
+      "Kg8",
+      "Qh7+",
+      "Kf8",
+      "Qh8#"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
+    "id": 726
+  },
+  {
+    "fen": "r1bqr1k1/pp3pbp/1n1p1np1/3Pp3/4P3/1P1BBN2/P2N1PPP/R2QK2R b KQ - 0 1",
+    "solution": [
+      "Nbxd5",
+      "exd5",
+      "e4",
+      "Nxe4",
+      "Nxe4"
+    ],
+    "tag": "own game",
+    "rep": 2,
+    "id": 727
+  },
+  {
+    "fen": "r1bqk1nr/pppp1pp1/2n4p/2b5/2B1P3/2p2N2/PP3PPP/RNBQ1RK1 w kq - 0 1",
+    "solution": [
+      "Qd5"
+    ],
+    "tag": "own game",
+    "rep": 2,
+    "id": 728
+  },
+  {
+    "fen": "5rk1/pppq1ppp/3p4/4r3/2P1Pn2/1PQ5/P1B2PPP/3R1RK1 w - - 0 1",
+    "solution": [
+      "Qxe5",
+      "Qg4",
+      "Qxf4",
+      "Qxf4"
+    ],
+    "tag": "Polgar 2",
+    "rep": 6,
+    "id": 729,
+    "computerMoveFirst": true
+  },
+  {
+    "fen": "2r4k/1p3qp1/p1b4p/8/4N3/1P1Q2PP/P4R1K/8 b - - 0 1",
+    "solution": [
+      "Bxe4",
+      "Rxf7",
+      "Bxd3"
+    ],
+    "tag": "Polgar 2",
+    "rep": 6,
+    "id": 730
+  },
+  {
+    "fen": "2r2rk1/p1p2pp1/1pq4p/3PQ3/4n3/4B2P/PP3PP1/R4RK1 b - - 0 1",
+    "solution": [
+      "Rfe8",
+      "Qxe4",
+      "Rxe4",
+      "dxc6"
+    ],
+    "tag": "Polgar 2",
+    "rep": 5,
+    "id": 731,
+    "computerMoveFirst": true
+  },
+  {
+    "fen": "2rq1rk1/p3bpp1/bpn1p2p/3n4/1P1P4/P1N2N1P/1BB2PP1/R2QR1K1 w - - 0 1",
+    "solution": [
+      "b5",
+      "Nxc3",
+      "Qd3",
+      "g6",
+      "Bxc3"
+    ],
+    "tag": "Polgar 2",
+    "rep": 4,
+    "id": 732
+  },
+  {
+    "fen": "2rr2k1/pb1qbpp1/1p2p2p/8/3N4/P2Q4/1P3PPP/1BR1R1K1 b - - 0 1",
+    "solution": [
+      "Rxc1",
+      "Qh7+",
+      "Kf8",
+      "Qh8#"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
+    "id": 733,
+    "computerMoveFirst": true
+  },
+  {
+    "fen": "5k2/1p1q2p1/p2p2p1/n2Nb2p/8/1PB4P/P5P1/Q5K1 w - - 0 1",
+    "solution": [
+      "Qf1+",
+      "Qf7",
+      "Qxf7+",
+      "Kxf7",
+      "Bxa5"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
+    "computerMoveFirst": false,
+    "id": 734
+  },
+  {
+    "fen": "3r1rk1/p3bpp1/1q1p3p/8/4P3/1QN2P2/P5PP/3R1R1K w - - 0 1",
+    "solution": [
+      "Nd5",
+      "Qxb3",
+      "Nxe7+",
+      "Kh7",
+      "axb3"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
+    "computerMoveFirst": false,
+    "id": 735
+  },
+  {
+    "fen": "6k1/2p2p1p/3n4/r5p1/2r5/2R2B1P/1P3PP1/3R2K1 w - - 0 1",
+    "solution": [
+      "Rxd6",
+      "Rxc3",
+      "Rd8+",
+      "Kg7",
+      "bxc3"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
+    "computerMoveFirst": false,
+    "id": 736
+  },
+  {
+    "fen": "r1b2rk1/1p2qpbp/2p2np1/p1n1p3/1PP1P3/P1N1BNP1/2Q2PBP/R3R1K1 b - - 0 1",
+    "solution": [
+      "axb4",
+      "Bxc5",
+      "Qxc5",
+      "axb4",
+      "Qxc4",
+      "Rxa8"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
+    "computerMoveFirst": true,
+    "id": 737
+  },
+  {
+    "fen": "4r1k1/2q2pp1/pp3r2/2pbN2p/3p4/P2P1PQ1/1PP3PP/1K1R3R w - - 0 1",
+    "solution": [
+      "Ng4",
+      "Qxg3",
+      "Nxf6+",
+      "gxf6",
+      "hxg3"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
+    "computerMoveFirst": false,
+    "id": 738
+  },
+  {
+    "fen": "3r1rk1/p4ppp/b2p1n2/qNp5/2P4Q/P7/1BB2PPP/4R1K1 w - - 0 1",
+    "solution": [
+      "Bc3",
+      "Qb6",
+      "Bxf6",
+      "gxf6",
+      "Qxh7#"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
+    "computerMoveFirst": false,
+    "id": 739
+  },
+  {
+    "fen": "r4r2/4q1kp/2p1ppp1/pbR5/3P4/Q3PN1P/1P3PP1/4R1K1 w - - 0 1",
+    "solution": [
+      "Rxb5",
+      "Qxa3",
+      "Rb7+",
+      "Rf7",
+      "Rxf7+",
+      "Kxf7",
+      "bxa3"
+    ],
+    "tag": "Polgar 2",
+    "rep": 3,
+    "computerMoveFirst": false,
+    "id": 740
+  },
+  {
+    "fen": "r5k1/ppp1n1p1/4q1Np/8/1P5P/3QPRP1/2P3K1/8 w - - 0 1",
+    "solution": [
+      "Qb3",
+      "Qxb3",
+      "Nxe7+",
+      "Kh8",
+      "cxb3"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
+    "computerMoveFirst": false,
+    "id": 741
+  },
+  {
+    "fen": "1r4k1/1R3p1p/p3p1p1/4q3/2P5/4P1PP/3Q1P2/6K1 w - - 0 1",
+    "solution": [
+      "Qd4",
+      "Qxd4",
+      "Rxb8+",
+      "Kg7",
+      "exd4"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
+    "computerMoveFirst": false,
+    "id": 742
+  },
+  {
+    "fen": "1k2r3/pp3qpp/8/8/2n5/6P1/PP1Q2BP/4R1K1 w - - 0 1",
+    "solution": [
+      "Qf4+",
+      "Qxf4",
+      "Rxe8+",
+      "Kc7",
+      "gxf4"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
+    "computerMoveFirst": false,
+    "id": 743
+  },
+  {
+    "fen": "2n2r1k/p4p2/P3p3/1N2q2n/4P1p1/1Q6/1PP2PP1/2K4R w - - 0 1",
+    "solution": [
+      "Qc3",
+      "Qxc3",
+      "Rxh5+",
+      "Kg7",
+      "Nxc3"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
+    "computerMoveFirst": false,
+    "id": 744
+  },
+  {
+    "fen": "4R3/2p3pk/1p5p/p3b3/8/P1N1rP1P/1P4P1/1K6 b - - 0 1",
+    "solution": [
+      "Re1+",
+      "Kc2",
+      "Bxc3",
+      "Rxe1",
+      "Bxe1"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
+    "computerMoveFirst": false,
+    "id": 745
+  },
+  {
+    "fen": "3r1rk1/5p1p/2p2npP/q1Pp4/3P4/8/3N1PP1/1R2QRK1 w - - 0 1",
+    "solution": [
+      "Ne4",
+      "Qxe1",
+      "Nxf6+",
+      "Kh8",
+      "Rfxe1"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
+    "computerMoveFirst": false,
+    "id": 746
+  },
+  {
+    "fen": "2r3k1/1b3pp1/7p/B7/5Nn1/8/5PPP/1R4K1 w - - 0 1",
+    "solution": [
+      "f3",
+      "Ne3",
+      "Rxb7"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
+    "computerMoveFirst": false,
+    "id": 747
+  },
+  {
+    "fen": "1r4k1/1bq2pp1/p4r2/1pp1N2p/3p4/3P1PQ1/PPP3PP/1K1R3R w - - 0 1",
+    "solution": [
+      "Nd7",
+      "Qxg3",
+      "Nxf6+",
+      "gxf6",
+      "hxg3"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
+    "computerMoveFirst": false,
+    "id": 748
+  },
+  {
+    "fen": "3r2k1/p5pp/5pn1/2pq4/8/1QP2PB1/P5PP/5RK1 w - - 0 1",
+    "solution": [
+      "Rd1",
+      "Qxb3",
+      "Rxd8+",
+      "Kf7",
+      "axb3"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
+    "computerMoveFirst": false,
+    "id": 749
+  },
+  {
+    "fen": "r5k1/R4pp1/3p2p1/3q4/5P2/1P3P1P/2Q3PK/8 w - - 0 1",
+    "solution": [
+      "Qc4",
+      "Qxc4",
+      "Rxa8+",
+      "Kh7",
+      "bxc4"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
+    "computerMoveFirst": false,
+    "id": 750
+  },
+  {
+    "fen": "3r2k1/5pp1/1q2p2p/ppR1P3/8/1P2Q2P/P4PP1/6K1 w - - 0 1",
+    "solution": [
+      "Rc8",
+      "Qxe3",
+      "Rxd8+",
+      "Kh7",
+      "fxe3"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
+    "computerMoveFirst": false,
+    "id": 751
+  },
+  {
+    "fen": "5r2/p6k/2p4p/Pp1p1b2/1P3R2/2PB3P/3K1P2/4r3 w - - 0 1",
+    "solution": [
+      "Rxf5",
+      "Kg7"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
+    "computerMoveFirst": false,
+    "id": 752
+  },
+  {
+    "fen": "6k1/pp1nrpp1/2b5/4p1qp/4P3/P4P2/1P1RN1PP/2Q2B1K w - - 0 1",
+    "solution": [
+      "Rxd7",
+      "Qxc1",
+      "Rd8+",
+      "Re8",
+      "Rxe8+",
+      "Bxe8",
+      "Nxc1"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
+    "computerMoveFirst": false,
+    "id": 753
+  },
+  {
+    "fen": "8/4p1k1/1p1B2bp/1P1P2p1/4p1P1/1B3P1P/3R1K2/1r6 b - - 0 1",
+    "solution": [
+      "e3+",
+      "Kxe3",
+      "Rxb3+",
+      "Ke2",
+      "exd6"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
+    "computerMoveFirst": false,
+    "id": 754
+  },
+  {
+    "fen": "2r4R/p2knrR1/1p6/2p1p1p1/2P1B3/1P1P1P2/P5K1/8 w - - 0 1",
+    "solution": [
+      "Bc6+",
+      "Kxc6",
+      "Rxc8+",
+      "Nxc8",
+      "Rxf7"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
+    "computerMoveFirst": false,
+    "id": 755
+  },
+  {
+    "fen": "8/1R3pbk/2p3pp/4pQ2/1P6/3n3P/3B1PP1/r3N1K1 b - - 0 1",
+    "solution": [
+      "Nxe1",
+      "Kf1",
+      "Nf3+",
+      "Ke2",
+      "Nd4+",
+      "Kd3",
+      "Nxf5"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
+    "computerMoveFirst": false,
+    "id": 756
+  },
+  {
+    "fen": "4rr2/5p1k/2b2P2/pp5p/4q3/P6P/1PBQ2P1/7K w - - 0 1",
+    "solution": [
+      "Qg5",
+      "Qg6",
+      "Qxh5+",
+      "Kg8",
+      "Bxg6",
+      "fxg6",
+      "Qxg6+",
+      "Kh8",
+      "Qg7#"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
+    "computerMoveFirst": false,
+    "id": 757
+  },
+  {
+    "fen": "R1b5/p1q2r1k/3p2n1/1NpPp1n1/Q1P1P3/5p1P/P4PBN/6K1 b - - 0 1",
+    "solution": [
+      "fxg2",
+      "Nxc7",
+      "Nf4",
+      "Qb3",
+      "Ngxh3+",
+      "Qxh3+",
+      "Bxh3"
+    ],
+    "tag": "Polgar 2",
+    "rep": 2,
+    "computerMoveFirst": false,
+    "id": 758
+  },
+  {
+    "fen": "8/4k3/1p1nPp1p/6p1/1r4P1/r4B1P/3R1PK1/4R3 w - - 0 1",
+    "solution": [
+      "Rxd6",
+      "Kxd6",
+      "e7"
+    ],
+    "tag": "Polgar 2",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 759
+  },
+  {
+    "fen": "4k3/4P1p1/8/4K3/8/3B4/6n1/8 w - - 0 1",
+    "solution": [
+      "Kd6",
+      "Nf4",
+      "Bb5+",
+      "Kf7",
+      "e8=Q+"
+    ],
+    "tag": "Polgar 2",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 760
+  },
+  {
+    "fen": "6k1/P3n2p/5pp1/2p1N3/3p4/8/q1P1QPPP/6K1 w - - 0 1",
+    "solution": [
+      "Qc4+",
+      "Qxc4",
+      "a8=Q+",
+      "Kg7",
+      "Nxc4"
+    ],
+    "tag": "Polgar 2",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 761
+  },
+  {
+    "fen": "8/b7/3p3P/8/k3P3/7K/8/8 w - - 0 1",
+    "solution": [
+      "e5",
+      "dxe5",
+      "h7"
+    ],
+    "tag": "Polgar 2",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 762
+  },
+  {
+    "fen": "1r6/7P/6p1/4pp2/1p2k3/4P3/5PK1/3B4 w - - 0 1",
+    "solution": [
+      "Bc2+",
+      "Kd5",
+      "Bb3+",
+      "Kc5",
+      "Bg8"
+    ],
+    "tag": "Polgar 2",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 763
+  },
+  {
+    "fen": "3r1n1k/5p1P/p5pQ/8/2q5/P6R/5PP1/6K1 w - - 0 1",
+    "solution": [
+      "Qg7+",
+      "Kxg7",
+      "h8=Q#"
+    ],
+    "tag": "Polgar 2",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 764
+  },
+  {
+    "fen": "4n3/P2k4/2b2p1p/5Pp1/6P1/6KP/8/2R5 w - - 0 1",
+    "solution": [
+      "Rxc6",
+      "Kxc6",
+      "a8=Q+"
+    ],
+    "tag": "Polgar 2",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 765
+  },
+  {
+    "fen": "2b3k1/pp2q1p1/2prP2p/5p2/1Q1p1P2/P7/BP4PP/5RK1 w - - 0 1",
+    "solution": [
+      "Qxd6",
+      "Qxd6",
+      "e7+",
+      "Kh7",
+      "e8=Q"
+    ],
+    "tag": "Polgar 2",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 766
+  },
+  {
+    "fen": "6k1/1Q3pp1/p6p/3P3q/N2b4/1P2p1P1/P5PP/2R3K1 b - - 0 1",
+    "solution": [
+      "Qd1+",
+      "Rxd1",
+      "e2+",
+      "Kh1",
+      "exd1=Q#"
+    ],
+    "tag": "Polgar 2",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 767
+  },
+  {
+    "fen": "rn2kb1r/pp3p1p/2P1p1p1/8/4b3/1P2PN2/1P2BPPP/R4RK1 w kq - 0 1",
+    "solution": [
+      "Rxa7",
+      "Rxa7",
+      "c7",
+      "Kd7",
+      "cxb8=Q"
+    ],
+    "tag": "Polgar 2",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 768
+  },
+  {
+    "fen": "r3k1nr/1b1p2pp/p5P1/1p6/4P2Q/1NqP4/P5PP/R4R1K w kq - 0 1",
+    "solution": [
+      "Qxh7",
+      "Rxh7",
+      "gxh7",
+      "Ke7",
+      "h8=Q"
+    ],
+    "tag": "Polgar 2",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 769
+  },
+  {
+    "fen": "3r2k1/1p3pp1/2p1P2p/8/p7/P1Q5/1PPq1PPP/5RK1 w - - 0 1",
+    "solution": [
+      "e7"
+    ],
+    "tag": "Polgar 2",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 770
+  },
+  {
+    "fen": "6k1/3p1pp1/2rP3p/8/2Q5/3P3P/4rPP1/6K1 w - - 0 1",
+    "solution": [
+      "Qxc6",
+      "dxc6",
+      "d7"
+    ],
+    "tag": "Polgar 2",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 771
+  },
+  {
+    "fen": "8/4P2p/1k2rp2/n1p5/2Pp4/3P1RP1/5BK1/8 w - - 0 1",
+    "solution": [
+      "Rxf6",
+      "Rxf6",
+      "e8=Q"
+    ],
+    "tag": "Polgar 2",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 772
+  },
+  {
+    "fen": "8/3npk2/1p3pp1/8/P1r5/4B1Pp/R2KPP2/8 b - - 0 1",
+    "solution": [
+      "Rc1",
+      "Kxc1",
+      "h2"
+    ],
+    "tag": "Polgar 2",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 773
+  },
+  {
+    "fen": "k7/p4r2/1pP2qp1/8/7p/1QR1P3/6PP/6K1 w - - 0 1",
+    "solution": [
+      "Qxf7",
+      "Qxf7",
+      "c7"
+    ],
+    "tag": "Polgar 2",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 774
+  },
+  {
+    "fen": "3r1n1r/1R1P2kp/2p2pp1/1p6/4P3/6PB/1P3K1P/R7 w - - 0 1",
+    "solution": [
+      "Ra8",
+      "Nxd7",
+      "Rxd8",
+      "Rxd8",
+      "Rxd7+",
+      "Rxd7",
+      "Bxd7"
+    ],
+    "tag": "Polgar 2",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 775
+  },
+  {
+    "fen": "2r3k1/6pp/5p2/2r5/p7/1p5P/PP3RP1/1K3R2 b - - 0 1",
+    "solution": [
+      "Rc1+",
+      "Rxc1",
+      "Rxc1+",
+      "Kxc1",
+      "bxa2"
+    ],
+    "tag": "Polgar 2",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 776
+  },
+  {
+    "fen": "2k2bnr/1pp3pp/p1P1qp2/8/3R4/4B2P/PP2QPP1/6K1 w - - 0 1",
+    "solution": [
+      "Rd8+",
+      "Kxd8",
+      "cxb7"
+    ],
+    "tag": "Polgar 2",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 777
+  },
+  {
+    "fen": "2k5/p2p4/1ppPr2p/1q6/6Q1/P4P2/1PP5/1K1R4 w - - 0 1",
+    "solution": [
+      "Qg8+",
+      "Kb7",
+      "Qxe6",
+      "dxe6",
+      "d7"
+    ],
+    "tag": "Polgar 2",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 778
+  },
+  {
+    "fen": "5rk1/5q1p/6p1/6N1/pp5P/3P2P1/P3QBK1/8 b - - 0 1",
+    "solution": [
+      "Qxf2+",
+      "Qxf2",
+      "Rxf2+",
+      "Kxf2",
+      "b3",
+      "axb3",
+      "a3"
+    ],
+    "tag": "Polgar 2",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 779
+  },
+  {
+    "fen": "6k1/6Pp/3r3r/2n1p3/1pP2p2/1P3P2/2B3R1/1K5R w - - 0 1",
+    "solution": [
+      "Bxh7+",
+      "Rxh7",
+      "Rxh7",
+      "Kxh7",
+      "g8=Q+"
+    ],
+    "tag": "Polgar 2",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 780
+  },
+  {
+    "fen": "r3Q3/1kp3p1/1Pr2p2/p7/2P5/3n1P1p/P3R1Bq/1R3K2 w - - 0 1",
+    "solution": [
+      "Qxa8+",
+      "Kxa8",
+      "b7+",
+      "Kb8",
+      "Re8+",
+      "Ka7",
+      "Ra8#"
+    ],
+    "tag": "Polgar 2",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 781
+  },
+  {
+    "fen": "6k1/p5p1/2p2r2/2P5/P3p3/2b3P1/7P/3R1B1K b - - 0 1",
+    "solution": [
+      "Rxf1+",
+      "Rxf1",
+      "e3",
+      "Kg2",
+      "e2"
+    ],
+    "tag": "Polgar 2",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 782
+  },
+  {
+    "fen": "8/2RBnk1p/6p1/2Kp4/3P1PPP/1rp5/8/8 b - - 0 1",
+    "solution": [
+      "Rb7",
+      "Rxb7",
+      "c2"
+    ],
+    "tag": "Polgar 2",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 783
+  },
+  {
+    "fen": "6k1/5p2/2Np3p/3PPnp1/8/6PP/6K1/8 w - - 0 1",
+    "solution": [
+      "Ne7+",
+      "Nxe7",
+      "exd6",
+      "Kf8",
+      "d7"
+    ],
+    "tag": "Polgar 2",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 784
+  },
+  {
+    "fen": "3Q4/7p/8/p4b2/2P1p1P1/R6k/2qp1P2/6K1 b - - 0 1",
+    "solution": [
+      "Qd3",
+      "Qxd3+",
+      "exd3",
+      "Ra1",
+      "Bxg4"
+    ],
+    "tag": "Polgar 2",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 785
+  },
+  {
+    "fen": "8/p5pk/1R3p2/2p4p/8/2p4P/PN4P1/6K1 b - - 0 1",
+    "solution": [
+      "c4",
+      "Rb4",
+      "a5",
+      "Nxc4",
+      "c2"
+    ],
+    "tag": "Polgar 2",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 786
+  },
+  {
+    "fen": "2r3k1/2r2ppp/1P6/2p5/1pPR4/7P/5PP1/1K5R w - - 0 1",
+    "solution": [
+      "Rd8+",
+      "Rxd8",
+      "bxc7",
+      "Rc8",
+      "Rd1",
+      "f6",
+      "Rd8+",
+      "Rxd8",
+      "cxd8=Q+"
+    ],
+    "tag": "Polgar 2",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 787
+  },
+  {
+    "fen": "3r1r2/1k1n1Pp1/ppp1p2p/2q5/2P4Q/1P5P/1P2B1P1/3R1R1K w - - 0 1",
+    "solution": [
+      "Qxd8",
+      "Rxd8",
+      "Rxd7+",
+      "Rxd7",
+      "f8=Q"
+    ],
+    "tag": "Polgar 2",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 788
+  },
+  {
+    "fen": "7k/pr4pp/8/4p3/3p1b2/1P6/P5PP/R4R1K w - - 0 1",
+    "solution": [
+      "g3",
+      "Bg5",
+      "Rf8#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 2,
+    "computerMoveFirst": false,
+    "id": 789
+  },
+  {
+    "fen": "1k6/ppp2r2/3p2p1/2n1q3/8/2N3P1/PPP1Q3/2K4R w - - 0 1",
+    "solution": [
+      "Qxe5",
+      "dxe5",
+      "Rh8+",
+      "Rf8",
+      "Rxf8#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 2,
+    "computerMoveFirst": false,
+    "id": 790
+  },
+  {
+    "fen": "6k1/1p4p1/q5P1/3p2n1/6P1/4P2Q/P1rB2K1/5R2 w - - 0 1",
+    "solution": [
+      "Qh8+",
+      "Kxh8",
+      "Rf8#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 2,
+    "computerMoveFirst": false,
+    "id": 791
+  },
+  {
+    "fen": "6k1/5ppp/8/1p1r4/2b5/1q3NP1/3Q1PKP/2R5 w - - 0 1",
+    "solution": [
+      "Qxd5",
+      "Bxd5",
+      "Rc8#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 2,
+    "computerMoveFirst": false,
+    "id": 792
+  },
+  {
+    "fen": "7k/1r2bp1p/4bqpQ/p7/8/P4P2/1P4P1/1K1RR3 w - - 0 1",
+    "solution": [
+      "Rd8+",
+      "Bxd8",
+      "Qf8#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 2,
+    "computerMoveFirst": false,
+    "id": 793
+  },
+  {
+    "fen": "kb2R3/pr6/6p1/3Q1n2/2P5/1Pq2N2/K5P1/8 w - - 0 1",
+    "solution": [
+      "Rxb8+",
+      "Kxb8",
+      "Qd8#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 2,
+    "computerMoveFirst": false,
+    "id": 794
+  },
+  {
+    "fen": "1k1r4/ppnr2pp/6q1/4Qp2/8/P4N1P/1P3PP1/2RR2K1 w - - 0 1",
+    "solution": [
+      "Qxc7+",
+      "Rxc7",
+      "Rxd8+",
+      "Rc8",
+      "Rdxc8#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 2,
+    "computerMoveFirst": false,
+    "id": 795
+  },
+  {
+    "fen": "4q2k/5ppp/2N5/pp6/8/1PR5/P4PPP/6K1 w - - 0 1",
+    "solution": [
+      "Ne7",
+      "g5",
+      "Rc8",
+      "Qxc8",
+      "Nxc8"
+    ],
+    "tag": "Polgar 4",
+    "rep": 2,
+    "computerMoveFirst": false,
+    "id": 796
+  },
+  {
+    "fen": "1r3rk1/5ppp/6q1/1Q6/1p6/pP6/P3RPPP/4R1K1 w - - 0 1",
+    "solution": [
+      "Qxb8",
+      "Rxb8",
+      "Re8+",
+      "Rxe8",
+      "Rxe8#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 2,
+    "computerMoveFirst": false,
+    "id": 797
+  },
+  {
+    "fen": "5rk1/5ppp/1r4q1/2Q5/1p6/pP4P1/P3RP1P/4R2K w - - 0 1",
+    "solution": [
+      "Qxf8+",
+      "Kxf8",
+      "Re8#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 2,
+    "computerMoveFirst": false,
+    "id": 798
+  },
+  {
+    "fen": "1k2r3/2p3p1/1b5p/2N5/p7/P1R1N1Pb/1PRr1P1P/6K1 b - - 0 1",
+    "solution": [
+      "Rd1+",
+      "Nxd1",
+      "Re1#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 2,
+    "computerMoveFirst": false,
+    "id": 799
+  },
+  {
+    "fen": "2Rr2k1/1p3ppp/1q2p3/4P3/1p6/1P2PP2/P3Q1KP/8 w - - 0 1",
+    "solution": [
+      "Qb5",
+      "Rxc8",
+      "Qxb6"
+    ],
+    "tag": "Polgar 4",
+    "rep": 2,
+    "computerMoveFirst": false,
+    "id": 800
+  },
+  {
+    "fen": "r3n2k/6pp/2p5/1q6/8/6NP/1Q3PP1/4R1K1 w - - 0 1",
+    "solution": [
+      "Qa3",
+      "Rxa3",
+      "Rxe8#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 801
+  },
+  {
+    "fen": "k7/pp1bP3/5r2/8/8/5qPp/P1R2P2/Q5K1 w - - 0 1",
+    "solution": [
+      "e8=Q+",
+      "Bxe8",
+      "Rc8#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 802
+  },
+  {
+    "fen": "6k1/1p1n2p1/p6r/2P5/1P3P1q/P3Q1p1/4B1P1/3R1K2 b - - 0 1",
+    "solution": [
+      "Qxf4+",
+      "Qxf4",
+      "Rh1#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 803
+  },
+  {
+    "fen": "5k2/rr4p1/3p1pP1/2p5/8/3P2P1/2P3K1/5R1R w - - 0 1",
+    "solution": [
+      "Re1",
+      "c4",
+      "Rh8#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 804
+  },
+  {
+    "fen": "k1r5/pp1q4/2pN4/5Q2/2P5/8/PP4PP/7K b - - 0 1",
+    "solution": [
+      "Re8",
+      "h3",
+      "Qxd6"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 805
+  },
+  {
+    "fen": "6k1/3q1ppp/1r3b2/2pP4/8/1B4QP/P5P1/5R1K w - - 0 1",
+    "solution": [
+      "Rxf6",
+      "Rxf6",
+      "Qb8+",
+      "Qc8",
+      "Qxc8#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 806
+  },
+  {
+    "fen": "r5k1/1p1Qqpp1/p1p1n2p/P1N5/1P2P3/8/5PPP/3R2K1 b - - 0 1",
+    "solution": [
+      "Rd8",
+      "Qxd8+",
+      "Nxd8"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 807
+  },
+  {
+    "fen": "6k1/1q3pp1/b3p2p/3p4/2r2P2/P1B5/1P1R1QPP/6K1 b - - 0 1",
+    "solution": [
+      "Rxc3",
+      "bxc3",
+      "Qb1+",
+      "Rd1",
+      "Qxd1+",
+      "Qf1",
+      "Qxf1#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 808
+  },
+  {
+    "fen": "r5k1/5pp1/p1b1p2p/P3RP2/3NP3/4Q3/1q4PP/6K1 b - - 0 1",
+    "solution": [
+      "Rd8",
+      "Nf3",
+      "Rd1+",
+      "Ne1",
+      "Qxe5"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 809
+  },
+  {
+    "fen": "2b1r1k1/1p4pp/pq1p1r2/3P1p2/2P2Q2/2N2P2/4BNPP/1R4K1 b - - 0 1",
+    "solution": [
+      "Rxe2",
+      "Nxe2",
+      "Qxb1+"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 810
+  },
+  {
+    "fen": "1kr5/p1p3b1/1p5p/5Q2/8/1PqB4/P1PR3P/2K5 w - - 0 1",
+    "solution": [
+      "Qxc8+",
+      "Kxc8",
+      "Ba6+",
+      "Kb8",
+      "Rd8#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 811
+  },
+  {
+    "fen": "6k1/6p1/6qr/1p6/3P2Q1/1N2p1P1/PP1nB3/K1R5 b - - 0 1",
+    "solution": [
+      "Qb1+",
+      "Rxb1",
+      "Nxb3+",
+      "axb3",
+      "Ra6#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 812
+  },
+  {
+    "fen": "1r3rk1/4p1bp/R2p2p1/2pP4/2P1bB2/4Q3/2q1BPPP/4R1K1 b - - 0 1",
+    "solution": [
+      "Rxf4",
+      "Qxf4",
+      "Qxe2",
+      "Rxe2",
+      "Rb1+",
+      "Qc1",
+      "Rxc1+",
+      "Re1",
+      "Rxe1#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 813
+  },
+  {
+    "fen": "1krr4/1pp3p1/8/1N3n2/2P2B2/6Pq/1P3P2/R2R2K1 w - - 0 1",
+    "solution": [
+      "Bxc7+",
+      "Rxc7",
+      "Rxd8+",
+      "Rc8",
+      "Ra8+",
+      "Kxa8",
+      "Rxc8#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 814
+  },
+  {
+    "fen": "r1b2nk1/1p3ppp/4p3/2p1q3/6P1/1PbQ1P1R/P1B5/2KR4 w - - 0 1",
+    "solution": [
+      "Qxh7+",
+      "Nxh7",
+      "Rd8+",
+      "Nf8",
+      "Rh8+",
+      "Kxh8",
+      "Rxf8#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 815
+  },
+  {
+    "fen": "r1rb1k2/p4p2/7p/1pn2N1N/4p3/1P2P2P/P7/K2R2R1 w - - 0 1",
+    "solution": [
+      "Rxd8+",
+      "Rxd8",
+      "Nf6",
+      "Rd1+",
+      "Rxd1"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 816
+  },
+  {
+    "fen": "1r2rbk1/p2q1pp1/2p4p/4n3/5Q2/2N3Pb/PPP2PBP/R1BR2K1 b - - 0 1",
+    "solution": [
+      "Qxd1+",
+      "Nxd1",
+      "Nf3+",
+      "Qxf3",
+      "Re1+",
+      "Bf1",
+      "Rxf1#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 817
+  },
+  {
+    "fen": "k6r/p5pp/1pN2pb1/2p1pn2/8/1P1R3P/PB3PP1/7K w - - 0 1",
+    "solution": [
+      "Rd7"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 818
+  },
+  {
+    "fen": "r4rk1/1pp1q1pp/5n2/4pb2/2P3P1/P6P/1P1NQPB1/K2R3R b - - 0 1",
+    "solution": [
+      "Rxa3+",
+      "bxa3",
+      "Qxa3#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 819
+  },
+  {
+    "fen": "r4r1k/2p1pp1p/1q4p1/4P3/p1Q5/7R/PPP2P1P/2K3R1 w - - 0 1",
+    "solution": [
+      "Qh4",
+      "h5",
+      "Qxh5+",
+      "gxh5",
+      "Rxh5+",
+      "Qh6+",
+      "Rxh6#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 820
+  },
+  {
+    "fen": "r2q1r1k/p4pp1/1p1pnb1p/2p4Q/8/2PB1PR1/PP3P1P/6RK w - - 0 1",
+    "solution": [
+      "Rxg7",
+      "Bxg7",
+      "Qf5",
+      "Ng5",
+      "Rxg5",
+      "Qxg5",
+      "Qh7#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 821
+  },
+  {
+    "fen": "2r2r1k/2q2ppp/3n1N2/1b2N3/p2P4/2p1R1Q1/5PPP/3R2K1 w - - 0 1",
+    "solution": [
+      "Qg6",
+      "fxg6",
+      "Nxg6+",
+      "hxg6",
+      "Rh3#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 822
+  },
+  {
+    "fen": "r4rk1/1bp5/4p1p1/pB2Qqpp/8/2P5/PP1B1bPP/4RR1K b - - 0 1",
+    "solution": [
+      "Bxg2+",
+      "Kxg2",
+      "Qf3#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 823
+  },
+  {
+    "fen": "3rr2k/p2q2pp/1pp2p2/2b5/7R/1BP4P/PP2QPP1/R5K1 w - - 0 1",
+    "solution": [
+      "Rxh7+",
+      "Kxh7",
+      "Qh5#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 824
+  },
+  {
+    "fen": "1r3rk1/5ppp/1P6/5PQ1/8/8/6PP/6K1 w - - 0 1",
+    "solution": [
+      "f6",
+      "g6",
+      "Qh6"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 825
+  },
+  {
+    "fen": "2r2rk1/5p2/pq2pBp1/1p5p/3P3R/2N2P2/PP3PK1/7R w - - 0 1",
+    "solution": [
+      "Rxh5",
+      "gxh5",
+      "Rxh5"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 826
+  },
+  {
+    "fen": "1k5r/p1pbb1p1/Qp1n4/P7/8/4BBpq/1P3P1P/R5K1 w - - 0 1",
+    "solution": [
+      "Qxa7+",
+      "Kxa7",
+      "axb6+",
+      "Kb8",
+      "Ra8#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 827
+  },
+  {
+    "fen": "2kr3r/pp1n1pp1/2p1bq1p/8/8/2PB1QB1/PP3PPP/R4RK1 w - - 0 1",
+    "solution": [
+      "Qxc6+",
+      "bxc6",
+      "Ba6#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 828
+  },
+  {
+    "fen": "r2qr3/pbpn1pkp/1p4p1/8/3P1P2/1Q6/PPP1B1P1/2KR3R w - - 0 1",
+    "solution": [
+      "Rxh7+",
+      "Kxh7",
+      "Qxf7+",
+      "Kh6",
+      "Rh1+",
+      "Qh4",
+      "Rxh4#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 829
+  },
+  {
+    "fen": "1r3rk1/p4pp1/7p/q7/1p3N2/2bP2Q1/PPP1B1PP/1KR4R b - - 0 1",
+    "solution": [
+      "Qa3",
+      "bxc3",
+      "bxc3+",
+      "Ka1",
+      "Qb2#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 830
+  },
+  {
+    "fen": "r4rk1/5ppp/4p3/1q1b2QP/p7/P1PP4/5PP1/R4RK1 w - - 0 1",
+    "solution": [
+      "h6",
+      "g6",
+      "Qf6"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 831
+  },
+  {
+    "fen": "1kr4r/1pp1qpbp/p3p1n1/8/5B2/1P4P1/P1Q2PBP/R4RK1 w - - 0 1",
+    "solution": [
+      "Qe4"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 832
+  },
+  {
+    "fen": "3r1rk1/pbq1bp1p/1p2p1p1/6Nn/2P4Q/1P6/PBB2PPP/R3R1K1 w - - 0 1",
+    "solution": [
+      "Qxh5",
+      "Bxg5",
+      "Qxg5"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 833
+  },
+  {
+    "fen": "4rbk1/1b3ppp/pq2p3/1p4N1/3P4/P1N4P/1P2QPP1/4R1K1 w - - 0 1",
+    "solution": [
+      "Qh5",
+      "h6",
+      "Qxf7+",
+      "Kh8",
+      "Qxe8"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 834
+  },
+  {
+    "fen": "1r3rk1/p4ppp/1qp5/3b4/3Pp3/2B4P/PPPQ1P2/2KR2R1 w - - 0 1",
+    "solution": [
+      "Rxg7+",
+      "Kxg7",
+      "Qg5+",
+      "Kh8",
+      "Qf6+",
+      "Kg8",
+      "Rg1#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 835
+  },
+  {
+    "fen": "b3r2k/R5pp/2q1rp2/Q7/8/2N4R/1P4PP/6K1 w - - 0 1",
+    "solution": [
+      "Rxh7+",
+      "Kxh7",
+      "Qh5+",
+      "Kg8",
+      "Qf7+",
+      "Kh8",
+      "Qxg7#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 836
+  },
+  {
+    "fen": "6k1/5p2/1b1P2p1/1p5p/1Ppr3q/6RP/2Q4K/5R2 w - - 0 1",
+    "solution": [
+      "Rxg6+",
+      "Kf8",
+      "Rxf7+",
+      "Kxf7",
+      "Qf5+",
+      "Ke8",
+      "Rg8#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 837
+  },
+  {
+    "fen": "r1b2rk1/pp2qppp/2n1p3/3pP3/2pP2Q1/2PB1N2/P1P2PPP/R4RK1 w - - 0 1",
+    "solution": [
+      "Bxh7+",
+      "Kxh7",
+      "Qh5+",
+      "Kg8",
+      "Ng5",
+      "Qxg5",
+      "Qxg5"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 838
+  },
+  {
+    "fen": "r1b2rk1/pp1nbpnp/6pB/q3p3/2B5/2N1PN1P/PPQ2P2/1K4RR w - - 0 1",
+    "solution": [
+      "Rxg6",
+      "hxg6",
+      "Qxg6",
+      "Bf6",
+      "Bxg7",
+      "Bxg7",
+      "Rg1"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 839
+  },
+  {
+    "fen": "rn1q1r1k/pb1pNppp/1p1Q4/4PN2/P1B1n3/R7/1P3P1P/5RK1 w - - 0 1",
+    "solution": [
+      "Qg6",
+      "fxg6",
+      "Nxg6+",
+      "hxg6",
+      "Rh3+",
+      "Qh4",
+      "Rxh4#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 840
+  },
+  {
+    "fen": "3r1rk1/5p1p/4pPp1/p1n5/7R/1q1P2Q1/6PP/5R1K w - - 0 1",
+    "solution": [
+      "Rxh7",
+      "Kxh7",
+      "Qh4+",
+      "Kg8",
+      "Qh6",
+      "Qxd3",
+      "Qg7#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 2,
+    "computerMoveFirst": false,
+    "id": 841
+  },
+  {
+    "fen": "r4r2/5p1k/1pn1pP1p/q2pP3/3p2PN/2P5/2P2RKP/2Q5 w - - 0 1",
+    "solution": [
+      "Rf5",
+      "exf5",
+      "Nxf5",
+      "Qxc3",
+      "Qxh6+",
+      "Kg8",
+      "Qg7#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 2,
+    "computerMoveFirst": false,
+    "id": 842
+  },
+  {
+    "fen": "r2r3k/pbpq1ppp/1p1p3N/8/3P4/2P5/PP1Q1P1P/2KR2R1 w - - 0 1",
+    "solution": [
+      "Rxg7",
+      "Kxg7",
+      "Qg5+",
+      "Kf8",
+      "Qg8+",
+      "Ke7",
+      "Qxf7#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 843
+  },
+  {
+    "fen": "3q1rrk/1p2bpp1/p6p/4p2Q/3NP3/P2P3R/1P4PP/R6K w - - 0 1",
+    "solution": [
+      "Qxh6+",
+      "gxh6",
+      "Rxh6+",
+      "Kg7",
+      "Nf5#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 844
+  },
+  {
+    "fen": "5rk1/1pp2ppp/p1qp1n2/8/P2P4/1P6/1BP3PP/3Q1R1K w - - 0 1",
+    "solution": [
+      "Rxf6",
+      "gxf6",
+      "Qg4+",
+      "Kh8",
+      "d5",
+      "Qxd5",
+      "Bxf6#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 845
+  },
+  {
+    "fen": "r3r1k1/1pqbb2p/2p1p1p1/4p2n/p1P3Q1/2NB4/PP2N1PP/3R1R1K w - - 0 1",
+    "solution": [
+      "Bxg6",
+      "hxg6",
+      "Qxg6+",
+      "Ng7",
+      "Rf7",
+      "Bf8",
+      "Rdxd7"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 846
+  },
+  {
+    "fen": "r1q2rk1/pb2bppp/1p2p3/2ppB3/5P2/1P1BP3/P1PP2PP/R2Q1RK1 w - - 0 1",
+    "solution": [
+      "Bxh7+",
+      "Kxh7",
+      "Qh5+",
+      "Kg8",
+      "Bxg7",
+      "Kxg7",
+      "Qg4+",
+      "Kh7",
+      "Rf3"
+    ],
+    "tag": "Polgar 4",
+    "rep": 2,
+    "computerMoveFirst": false,
+    "id": 847
+  },
+  {
+    "fen": "r2q2k1/pQ4pp/1p2p2r/8/3n4/1P1P4/PB3PPP/R4R1K b - - 0 1",
+    "solution": [
+      "Rxh2+",
+      "Kxh2",
+      "Qh4+",
+      "Kg1",
+      "Ne2#"
+    ],
+    "tag": "Polgar 4",
+    "rep": 1,
+    "computerMoveFirst": false,
+    "id": 848
   }
 ]

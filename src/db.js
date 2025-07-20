@@ -10,7 +10,7 @@ export function openDB() {
   });
 }
 
-export async function uploadPuzzlesToDB(newPuzzles) {
+export async function uploadPuzzlesToDB(newPuzzles, tag, isComputerMoveFirst) {
   if (newPuzzles.length) {
     for (let puzzle of newPuzzles) {
       if (typeof puzzle === "string") {
@@ -22,8 +22,9 @@ export async function uploadPuzzlesToDB(newPuzzles) {
       await editEntryByFen({
         fen: puzzle.fen,
         solution: puzzle.solution || [],
-        tag: "chesstempo 2",
+        tag: tag,
         rep: 0,
+        computerMoveFirst : isComputerMoveFirst
       });
     }
     alert("All puzzles uploaded to IndexedDB!");
@@ -52,8 +53,8 @@ export async function editEntryByFen(updatedData) {
   const entry = allEntries.find(e => e.fen === updatedData.fen);
   if (entry) {
     // Keep the original id so the record is updated, not duplicated
-    updatedData.id = entry.id;
-    store.put(updatedData);
+    entry.solution = updatedData.solution;
+    store.put(entry);
     await tx.complete;
     console.log("Updated!");
     return true;
@@ -64,6 +65,17 @@ export async function editEntryByFen(updatedData) {
     console.log("Added new!");
     return false;
   }
+}
+
+export async function makeComputerMoveFirst(updatedData) {
+  const db = await openDB();
+  const tx = db.transaction('entries', 'readwrite');
+  const store = tx.objectStore('entries');
+  updatedData.computerMoveFirst = true;
+  store.put(updatedData);
+  await tx.complete;
+  console.log("Updated Computer Move!");
+  return true;
 }
 
 export async function getAllEntries(taglist) {
@@ -119,5 +131,46 @@ export async function incrementRepById(id) {
   } else {
     await tx.complete;
     return false; // No entry with that id
+  }
+}
+
+export async function changeFen(originalFen, targetFen) {
+  const db = await openDB();
+  const tx = db.transaction('entries', 'readwrite');
+  const store = tx.objectStore('entries');
+  const allEntries = await new Promise((resolve, reject) => {
+    const request = store.getAll();
+    request.onsuccess = () => resolve(request.result);
+    request.onerror = () => reject(request.error);
+  });
+  const entry = allEntries.find(e => e.fen === originalFen);
+  if (entry) {
+    // Keep the original id so the record is updated, not duplicated
+    entry.fen = targetFen;
+    store.put(entry);
+    await tx.complete;
+    console.log("Updated!");
+    return true;
+  }
+}
+
+export async function changeTag() {
+  const db = await openDB();
+  const tx = db.transaction('entries', 'readwrite');
+  const store = tx.objectStore('entries');
+  const allEntries = await new Promise((resolve, reject) => {
+    const request = store.getAll();
+    request.onsuccess = () => resolve(request.result);
+    request.onerror = () => reject(request.error);
+  });
+  let tagslist = ["Zwischenzug","Pawn promotion"]
+  for (let e of allEntries){
+    if (tagslist.includes(e.tag)) {
+      // Keep the original id so the record is updated, not duplicated
+      e.tag = "Polgar 2";
+      store.put(e);
+      await tx.complete;
+      console.log("Updated!");
+    }
   }
 }

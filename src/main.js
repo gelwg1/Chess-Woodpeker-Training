@@ -3,13 +3,12 @@ import '@lichess-org/chessground/assets/chessground.brown.css';
 import '@lichess-org/chessground/assets/chessground.cburnett.css';
 import { Chessground } from '@lichess-org/chessground';
 import { Chess } from 'chess.js';
-import { editEntryByFen, getAllEntries, incrementRepById, uploadPuzzlesToDB } from './db'; 
+import { editEntryByFen, getAllEntries, incrementRepById, uploadPuzzlesToDB, changeFen, changeTag, makeComputerMoveFirst } from './db'; 
 import { computerMove, getAllTags, initializeBoard, shuffle, undoMove } from './library';
 import { createCheckboxList, getCheckedTags } from './userInterface';
 
 const boardElement = document.getElementById('board');
 const nextPuzzleBtn = document.getElementById('nextPuzzle');
-// const clearDbBtn = document.getElementById('clearDB');
 const currentIndex = document.getElementById('currentIndex');
 const resetBtn = document.getElementById('reset');
 const status = document.getElementById('status');
@@ -35,9 +34,10 @@ const ground = Chessground(boardElement);
 //TODO: Create a button for remove the problem from db.
 //TODO: Add "Add solution" button (and hide Update button) if the problem doesn't have solution
 //TODO: Add a "Previous" button to go back to previous puzzle.
+//TODO: Too many request to the db. Modify the code so that it will call the db only once.
 
 currentIndex.textContent = tactics.length;
-uploadPuzzlesToDB(newPuzzles);
+uploadPuzzlesToDB(newPuzzles, "Polgar 4", false);
 shuffle(tactics);
 initializeBoard(tactics[fenIndex], chess, ground, movesHistory, status, state);
 createCheckboxList(checkboxContainer, tags);
@@ -114,4 +114,13 @@ shuffleBtn.addEventListener('click', async () => {
   shuffle(tactics);
   fenIndex = 0;
   initializeBoard(tactics[fenIndex], chess, ground, movesHistory, status, state);
+});
+computerMoveFirst.addEventListener('click', async () => {
+  await makeComputerMoveFirst(tactics[fenIndex]);
+  initializeBoard(tactics[fenIndex], chess, ground, movesHistory, status, state);
+});
+prevPuzzle.addEventListener('click', async () => {
+  fenIndex--;
+  initializeBoard(tactics[fenIndex], chess, ground, movesHistory, status, state);
+  currentIndex.textContent = tactics.length-fenIndex;
 });

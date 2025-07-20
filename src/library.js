@@ -1,4 +1,4 @@
-export function shuffle(puzzles, alpha = 3) {
+export function shuffle(puzzles, alpha = 4) {
   const shuffled = [];
   const temp = [...puzzles]; // Copy to preserve original
   while (temp.length > 0) {
@@ -32,7 +32,7 @@ export const initializeBoard = (tactic, chess, ground, movesHistory, status, sta
   }
   const turn = puzzle.fen.split(" ")[1];
   const isWhite = turn === "w";
-  const isComputerMove = puzzle.tag.includes("lichess") || puzzle.tag.includes("chesstempo");
+  const isComputerMove = puzzle.tag.includes("lichess") || puzzle.tag.includes("chesstempo") || puzzle.computerMoveFirst;
   const playerOrien = isComputerMove ? (isWhite ? "black" : "white") : (isWhite ? "white" : "black");
   ground.set({
     fen: puzzle.fen,
