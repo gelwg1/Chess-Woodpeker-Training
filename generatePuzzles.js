@@ -4,7 +4,7 @@ const { parse } = require('csv-parse');
 const filePath = './lichess_db_puzzle.csv'; // Adjust path if needed
 const outputPath = './public/lichess_puzzles.json'; // Output file
 
-const minRating = 900;
+const minRating = 1000;
 const maxRating = 1500;
 const sampleSize = 200;
 const takeChance = 0.2; // 20% chance

@@ -14,6 +14,7 @@ export async function uploadPuzzlesToDB(newPuzzles, tag, isComputerMoveFirst) {
   if (newPuzzles.length) {
     for (let puzzle of newPuzzles) {
       if (typeof puzzle === "string") {
+        if(!puzzle.length) continue;
         puzzle = {
           fen: puzzle,
           solution: []
@@ -163,11 +164,11 @@ export async function changeTag() {
     request.onsuccess = () => resolve(request.result);
     request.onerror = () => reject(request.error);
   });
-  let tagslist = ["Zwischenzug","Pawn promotion"]
+  let tagslist = ["Polgar 4","King chase","Checkmate in 2","Checkmate in 3", "Checkmate in 4"]
   for (let e of allEntries){
     if (tagslist.includes(e.tag)) {
       // Keep the original id so the record is updated, not duplicated
-      e.tag = "Polgar 2";
+      e.tag = "Polgar 3";
       store.put(e);
       await tx.complete;
       console.log("Updated!");

@@ -4,7 +4,7 @@ import '@lichess-org/chessground/assets/chessground.cburnett.css';
 import { Chessground } from '@lichess-org/chessground';
 import { Chess } from 'chess.js';
 import { editEntryByFen, getAllEntries, incrementRepById, uploadPuzzlesToDB, changeFen, changeTag, makeComputerMoveFirst } from './db'; 
-import { computerMove, getAllTags, initializeBoard, shuffle, undoMove } from './library';
+import { computerMove, getAllTags, initializeBoard, shuffle, weightedShuffle, undoMove } from './library';
 import { createCheckboxList, getCheckedTags } from './userInterface';
 
 const boardElement = document.getElementById('board');
@@ -22,7 +22,9 @@ const checkboxContainer = document.getElementById('checkboxContainer');
 const shuffleBtn = document.getElementById('shuffle');
 
 let tactics = await getAllEntries();
-let newPuzzles = []
+// import newPuzzles from '../public/lichess_puzzles.json';
+let newPuzzles = [
+]
 let fenIndex = 0;
 let tags = getAllTags(tactics);
 const state = {
@@ -37,14 +39,14 @@ const ground = Chessground(boardElement);
 //TODO: Too many request to the db. Modify the code so that it will call the db only once.
 
 currentIndex.textContent = tactics.length;
-uploadPuzzlesToDB(newPuzzles, "Polgar 4", false);
+uploadPuzzlesToDB(newPuzzles, "Polgar 4: Perpeptual check", false);
 shuffle(tactics);
 initializeBoard(tactics[fenIndex], chess, ground, movesHistory, status, state);
 createCheckboxList(checkboxContainer, tags);
 
 nextPuzzleBtn.addEventListener('click', async () => {
   if(tactics[fenIndex].id){
-    incrementRepById(tactics[fenIndex].id)
+    // incrementRepById(tactics[fenIndex].id)
   }
   //------This code is for when importing puzzles---------
   // const storedPuzzles = await getAllEntries();
@@ -111,7 +113,7 @@ shuffleBtn.addEventListener('click', async () => {
   let checkedTags = getCheckedTags();
   tactics = await getAllEntries(checkedTags);
   currentIndex.textContent = tactics.length;
-  shuffle(tactics);
+  // shuffle(tactics);
   fenIndex = 0;
   initializeBoard(tactics[fenIndex], chess, ground, movesHistory, status, state);
 });

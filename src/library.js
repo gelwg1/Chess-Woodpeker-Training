@@ -1,4 +1,4 @@
-export function shuffle(puzzles, alpha = 4) {
+export function weightedShuffle(puzzles, alpha = 4) {
   const shuffled = [];
   const temp = [...puzzles]; // Copy to preserve original
   while (temp.length > 0) {
@@ -20,8 +20,16 @@ export function shuffle(puzzles, alpha = 4) {
   puzzles.push(...shuffled);
 }
 
+export function shuffle(puzzles) {
+  for (let i = puzzles.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [puzzles[i], puzzles[j]] = [puzzles[j], puzzles[i]];
+  }
+}
+
 export const initializeBoard = (tactic, chess, ground, movesHistory, status, state) => {
   const puzzle = tactic;
+  console.log(puzzle);
   chess.load(puzzle.fen);
   movesHistory.length = 0;
   if (typeof puzzle.solution === "string") puzzle.solution = puzzle.solution.split(" ");
@@ -51,7 +59,6 @@ export const initializeBoard = (tactic, chess, ground, movesHistory, status, sta
       draggable: { showGhost: true },
     },
   });
-  console.log(puzzle);
   const hasSolution = puzzle.solution?.length;
   let turnColor = isWhite ? "white" : "black";
   status.textContent = hasSolution 
