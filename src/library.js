@@ -1,4 +1,4 @@
-export function shuffle(puzzles, alpha = 3) {
+export function weightedShuffle(puzzles, alpha = 4) {
   const shuffled = [];
   const temp = [...puzzles]; // Copy to preserve original
   while (temp.length > 0) {
@@ -20,8 +20,16 @@ export function shuffle(puzzles, alpha = 3) {
   puzzles.push(...shuffled);
 }
 
+export function shuffle(puzzles) {
+  for (let i = puzzles.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [puzzles[i], puzzles[j]] = [puzzles[j], puzzles[i]];
+  }
+}
+
 export const initializeBoard = (tactic, chess, ground, movesHistory, status, state) => {
   const puzzle = tactic;
+  console.log(puzzle);
   chess.load(puzzle.fen);
   movesHistory.length = 0;
   if (typeof puzzle.solution === "string") puzzle.solution = puzzle.solution.split(" ");
@@ -32,7 +40,7 @@ export const initializeBoard = (tactic, chess, ground, movesHistory, status, sta
   }
   const turn = puzzle.fen.split(" ")[1];
   const isWhite = turn === "w";
-  const isComputerMove = puzzle.tag.includes("lichess") || puzzle.tag.includes("chesstempo");
+  const isComputerMove = puzzle.tag.includes("lichess") || puzzle.tag.includes("chesstempo") || puzzle.computerMoveFirst;
   const playerOrien = isComputerMove ? (isWhite ? "black" : "white") : (isWhite ? "white" : "black");
   ground.set({
     fen: puzzle.fen,
@@ -51,7 +59,6 @@ export const initializeBoard = (tactic, chess, ground, movesHistory, status, sta
       draggable: { showGhost: true },
     },
   });
-  console.log(puzzle);
   const hasSolution = puzzle.solution?.length;
   let turnColor = isWhite ? "white" : "black";
   status.textContent = hasSolution 

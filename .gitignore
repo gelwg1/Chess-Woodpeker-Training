@@ -1,3 +1,4 @@
 node_modules/
 public/lichess_puzzles.json
 public/chesstempo_puzzles.json
+lichess_db_puzzle.csv
